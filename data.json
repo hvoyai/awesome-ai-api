@@ -1,0 +1,90 @@
+{
+  "updatedDate": "2026-07-11",
+  "note": "数据由自动化监测生成，仅供参考；实际表现可能因时间、地区和网络环境产生波动。",
+  "sites": [
+    {
+      "rank": 1,
+      "name": "云端智源",
+      "url": "https://example.com/provider/cloudmind",
+      "modelCount": 42,
+      "models": ["GPT-5", "Claude 4", "Gemini 2.5"],
+      "uptime": 99.96,
+      "latencyMs": 486,
+      "userRating": 4.9,
+      "ratingCount": 1286,
+      "paymentMethods": ["支付宝", "微信", "银行卡"],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 2,
+      "name": "星河 API",
+      "url": "https://example.com/provider/galaxy",
+      "modelCount": 36,
+      "models": ["GPT-4.1", "DeepSeek R1", "Claude 3.7"],
+      "uptime": 99.82,
+      "latencyMs": 638,
+      "userRating": 4.8,
+      "ratingCount": 932,
+      "paymentMethods": ["支付宝", "USDT"],
+      "supportsRefund": true,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 3,
+      "name": "模型工坊",
+      "url": "https://example.com/provider/modelforge",
+      "modelCount": 31,
+      "models": ["Gemini 2.5", "Qwen 3", "Doubao"],
+      "uptime": 99.58,
+      "latencyMs": 712,
+      "userRating": 4.7,
+      "ratingCount": 756,
+      "paymentMethods": ["微信", "银行卡"],
+      "supportsRefund": false,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 4,
+      "name": "Neural Hub",
+      "url": "https://example.com/provider/neural-hub",
+      "modelCount": 28,
+      "models": ["GPT-4o", "Llama 4", "Mistral"],
+      "uptime": 99.31,
+      "latencyMs": 925,
+      "userRating": 4.6,
+      "ratingCount": 518,
+      "paymentMethods": ["银行卡", "PayPal"],
+      "supportsRefund": null,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 5,
+      "name": "光速模型",
+      "url": "https://example.com/provider/lightspeed",
+      "modelCount": 24,
+      "models": ["DeepSeek V3", "Qwen Max", "GLM-4"],
+      "uptime": 98.87,
+      "latencyMs": 1180,
+      "userRating": 4.3,
+      "ratingCount": 389,
+      "paymentMethods": ["支付宝", "微信"],
+      "supportsRefund": false,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 6,
+      "name": "API Pilot",
+      "url": "https://example.com/provider/api-pilot",
+      "modelCount": 19,
+      "models": ["Claude 3.5", "Gemini 2.0", "Llama 3"],
+      "uptime": 97.92,
+      "latencyMs": 1642,
+      "userRating": 4.1,
+      "ratingCount": 207,
+      "paymentMethods": ["USDT"],
+      "supportsRefund": null,
+      "supportsInvoice": false
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs and local temporary files
+*.log
+*.tmp
+*.temp
+.cache/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Optional JavaScript tooling output
+node_modules/
+dist/
+coverage/
+
+# Local preview files
+.python-version
+__pycache__/

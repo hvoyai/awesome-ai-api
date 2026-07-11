@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="AI API 服务商状态与能力榜单，包含模型覆盖、在线率、延迟、支付、退款和发票信息。"
+    />
+    <meta name="theme-color" content="#ffffff" />
+    <title>AI API 中转站排行榜</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="AI API 中转站排行榜首页">
+        <span class="brand__mark" aria-hidden="true">
+          <svg viewBox="0 0 32 32" role="img">
+            <path d="M7 22.5 12.4 9l4.3 8.3L20.8 6 26 22.5" />
+            <path d="M5 25h22" />
+          </svg>
+        </span>
+        <span>AI API 中转站排行榜</span>
+      </a>
+      <a class="header-link" href="#ranking">查看榜单</a>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <div class="eyebrow"><span></span> 持续监测 · 数据透明</div>
+        <h1 id="page-title">
+          全球最大的开源双语<br class="desktop-only" />
+          AI API 中转站排行榜。<br />
+          <em>随时探测, 实时更新</em>
+        </h1>
+        <p class="hero__description">聚合模型覆盖、在线率、响应延迟、用户评分和服务能力。</p>
+
+        <div class="summary" aria-label="榜单数据概览">
+          <div class="summary__item">
+            <strong id="provider-count">--</strong>
+            <span>收录服务商</span>
+          </div>
+          <div class="summary__divider" aria-hidden="true"></div>
+          <div class="summary__item">
+            <strong id="average-uptime">--</strong>
+            <span>平均在线率</span>
+          </div>
+          <div class="summary__divider" aria-hidden="true"></div>
+          <div class="summary__item">
+            <strong id="average-latency">--</strong>
+            <span>平均延迟</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="ranking-section" id="ranking" aria-labelledby="ranking-title">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">PROVIDER RANKING</p>
+            <h2 id="ranking-title">服务商榜单</h2>
+          </div>
+          <div class="updated-at">
+            <span class="live-dot" aria-hidden="true"></span>
+            <span id="updated-at">正在加载数据</span>
+          </div>
+        </div>
+
+        <div class="toolbar">
+          <label class="search-box">
+            <span class="sr-only">搜索服务商或模型</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <circle cx="11" cy="11" r="6.5"></circle>
+              <path d="m16 16 4 4"></path>
+            </svg>
+            <input id="search-input" type="search" placeholder="搜索服务商或模型..." autocomplete="off" />
+          </label>
+          <label class="sort-box">
+            <span>排序</span>
+            <select id="sort-select" aria-label="选择排序方式">
+              <option value="rank">综合排名</option>
+              <option value="uptime">在线率最高</option>
+              <option value="latency">延迟最低</option>
+              <option value="models">模型最多</option>
+              <option value="rating">用户评分最高</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="table-shell">
+          <div class="loading-state" id="loading-state" role="status">
+            <span class="loading-spinner" aria-hidden="true"></span>
+            <span>正在读取榜单数据...</span>
+          </div>
+
+          <div class="error-state" id="error-state" hidden>
+            <div class="error-state__icon" aria-hidden="true">!</div>
+            <strong>榜单数据加载失败</strong>
+            <p id="error-message">请稍后刷新页面重试。</p>
+            <button id="retry-button" type="button">重新加载</button>
+          </div>
+
+          <div class="empty-state" id="empty-state" hidden>
+            <strong>没有找到匹配的服务商</strong>
+            <p>试试更换搜索关键词。</p>
+          </div>
+
+          <div class="table-scroll" id="table-container" hidden>
+            <table>
+              <thead>
+                <tr>
+                  <th class="rank-column" scope="col">排名</th>
+                  <th scope="col">站点</th>
+                  <th scope="col">模型覆盖</th>
+                  <th scope="col">平均在线率</th>
+                  <th scope="col">平均延迟</th>
+                  <th scope="col">用户评分</th>
+                  <th scope="col">支付方式</th>
+                  <th class="center-column" scope="col">退款</th>
+                  <th class="center-column" scope="col">发票</th>
+                </tr>
+              </thead>
+              <tbody id="ranking-body"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <p class="data-note" id="data-note">
+          数据仅供参考，在线率与延迟会因时间、地区和网络环境产生波动。
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      <span>AI API 中转站排行榜</span>
+      <span>数据驱动的服务商选择</span>
+    </footer>
+  </body>
+</html>
