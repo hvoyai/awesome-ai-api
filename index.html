@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta
       name="description"
-      content="AI API 服务商状态与能力榜单，包含模型覆盖、在线率、延迟、支付、退款和发票信息。"
+      content="AI API 中转站排行榜，持续监测模型覆盖、在线率、延迟、用户评分和服务能力。"
     />
     <meta name="theme-color" content="#ffffff" />
     <title>AI API 中转站排行榜</title>
@@ -14,50 +14,57 @@
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="./" aria-label="AI API 中转站排行榜首页">
-        <span class="brand__mark" aria-hidden="true">
-          <svg viewBox="0 0 32 32" role="img">
-            <path d="M7 22.5 12.4 9l4.3 8.3L20.8 6 26 22.5" />
-            <path d="M5 25h22" />
-          </svg>
-        </span>
-        <span>AI API 中转站排行榜</span>
-      </a>
-      <a class="header-link" href="#ranking">查看榜单</a>
+      <div class="header-inner">
+        <a class="brand" href="./" aria-label="AI API 中转站排行榜首页">
+          <span class="brand__mark" aria-hidden="true">
+            <svg viewBox="0 0 24 24">
+              <circle cx="6" cy="12" r="2.5"></circle>
+              <circle cx="18" cy="6" r="2.5"></circle>
+              <circle cx="18" cy="18" r="2.5"></circle>
+              <path d="m8.3 10.9 7.4-3.8M8.3 13.1l7.4 3.8"></path>
+            </svg>
+          </span>
+          <span>AI API</span>
+        </a>
+
+        <nav class="desktop-nav" aria-label="主要导航">
+          <a class="is-active" href="#ranking">排行榜</a>
+          <a href="#guide">挑选指南</a>
+          <a href="https://hvoy.ai" target="_blank" rel="noopener noreferrer">禾维 AI</a>
+        </nav>
+
+        <a class="header-action" href="#ranking">查看榜单</a>
+      </div>
     </header>
 
-    <main>
+    <main class="page-container">
       <section class="hero" aria-labelledby="page-title">
-        <div class="eyebrow"><span></span> 持续监测 · 数据透明</div>
+        <div class="eyebrow"><span aria-hidden="true"></span>持续监测 · 数据透明</div>
         <h1 id="page-title">
-          <span class="hero__title-line">全球最大的开源双语AI API 中转站排行榜</span><br />
-          <em>随时探测, 实时更新</em>
+          <span class="hero__title-line">全球最大的开源双语AI API 中转站排行榜</span>
         </h1>
-        <p class="hero__description">聚合模型覆盖、在线率、响应延迟、用户评分和服务能力。</p>
+        <h2>随时探测, 实时更新</h2>
+        <p>聚合模型覆盖、在线率、响应延迟、用户评分和服务能力，帮你找到更合适的 AI API 中转站。</p>
+      </section>
 
-        <div class="summary" aria-label="榜单数据概览">
-          <div class="summary__item">
-            <strong id="provider-count">--</strong>
-            <span>收录服务商</span>
-          </div>
-          <div class="summary__divider" aria-hidden="true"></div>
-          <div class="summary__item">
-            <strong id="average-uptime">--</strong>
-            <span>平均在线率</span>
-          </div>
-          <div class="summary__divider" aria-hidden="true"></div>
-          <div class="summary__item">
-            <strong id="average-latency">--</strong>
-            <span>平均延迟</span>
-          </div>
-        </div>
+      <section class="summary" aria-label="榜单数据概览">
+        <article class="summary__item">
+          <strong id="provider-count">--</strong>
+          <span>收录服务商</span>
+        </article>
+        <article class="summary__item summary__item--accent">
+          <strong id="average-uptime">--</strong>
+          <span>平均在线率</span>
+        </article>
+        <article class="summary__item">
+          <strong id="average-latency">--</strong>
+          <span>平均延迟</span>
+        </article>
       </section>
 
       <section class="ranking-section" id="ranking" aria-labelledby="ranking-title">
         <div class="section-heading">
-          <div>
-            <h2 id="ranking-title">AI中转站排名</h2>
-          </div>
+          <h2 id="ranking-title">AI 中转站排名</h2>
           <div class="updated-at">
             <span class="live-dot" aria-hidden="true"></span>
             <span id="updated-at">正在加载数据</span>
@@ -73,8 +80,9 @@
             </svg>
             <input id="search-input" type="search" placeholder="搜索服务商或模型..." autocomplete="off" />
           </label>
+
           <label class="sort-box">
-            <span>排序</span>
+            <span>排序：</span>
             <select id="sort-select" aria-label="选择排序方式">
               <option value="rank">综合排名</option>
               <option value="uptime">在线率最高</option>
@@ -111,7 +119,7 @@
                   <th scope="col">站点</th>
                   <th scope="col">模型覆盖</th>
                   <th scope="col">平均在线率</th>
-                  <th scope="col">平均延迟</th>
+                  <th scope="col">响应延迟</th>
                   <th scope="col">用户评分</th>
                   <th scope="col">支付方式</th>
                   <th class="center-column" scope="col">退款</th>
@@ -127,11 +135,40 @@
           数据仅供参考，在线率与延迟会因时间、地区和网络环境产生波动。
         </p>
       </section>
+
+      <section class="guide-section" id="guide" aria-labelledby="guide-title">
+        <article class="guide-card">
+          <span class="guide-card__index">01</span>
+          <h2 id="guide-title">先看稳定性，再看价格</h2>
+          <p>
+            一个站如果经常宕机或高峰期超时，再便宜也会耽误事。优先选择运行时间长、有真实用户反馈、故障时能够及时通知的服务商。
+          </p>
+          <a href="https://hvoy.ai" target="_blank" rel="noopener noreferrer">前往禾维 AI <span>→</span></a>
+        </article>
+
+        <article class="guide-card guide-card--dark">
+          <span class="guide-card__index">02</span>
+          <h2>不要大额充值</h2>
+          <p>
+            中转站价格、模型和运营状态都可能变化。正式使用前先做小额调用测试，用多少充多少，并确认账单、缓存费率和售后规则是否清楚。
+          </p>
+          <a href="https://github.com/hvoyai/awesome-ai-api#怎么挑一个靠谱的-ai-api-中转站" target="_blank" rel="noopener noreferrer">
+            阅读完整指南 <span>→</span>
+          </a>
+        </article>
+      </section>
     </main>
 
     <footer>
-      <span>AI API 中转站排行榜</span>
-      <span>数据驱动的服务商选择</span>
+      <div class="footer-inner">
+        <strong>AI API Benchmarks</strong>
+        <div class="footer-links">
+          <a href="#ranking">排行榜</a>
+          <a href="#guide">挑选指南</a>
+          <a href="https://hvoy.ai" target="_blank" rel="noopener noreferrer">禾维 AI</a>
+        </div>
+        <span>数据驱动的中转站选择</span>
+      </div>
     </footer>
   </body>
 </html>
