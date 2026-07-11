@@ -1,0 +1,57 @@
+name: Update ranking data
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-ranking-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download ranking data
+        run: curl --fail --silent --show-error --location --retry 3 https://hvoy.ai/api/ranking/sitedata.json --output /tmp/data.json
+
+      - name: Validate ranking data
+        run: |
+          node <<'EOF'
+          const fs = require("fs");
+          const data = JSON.parse(fs.readFileSync("/tmp/data.json", "utf8"));
+
+          if (!data || !Array.isArray(data.sites)) {
+            throw new Error("Downloaded JSON must contain a sites array");
+          }
+
+          if (!data.updatedDate && !data.updatedAt && !data.generatedAt) {
+            throw new Error("Downloaded JSON must contain an update date");
+          }
+
+          console.log(`Validated ${data.sites.length} ranking entries`);
+          EOF
+
+      - name: Replace local data
+        run: mv /tmp/data.json data.json
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet -- data.json; then
+            echo "Ranking data has not changed"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Update ranking data"
+          git push
