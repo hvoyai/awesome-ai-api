@@ -106,7 +106,7 @@ a {
 }
 
 .hero {
-  width: min(920px, calc(100% - 40px));
+  width: min(1180px, calc(100% - 40px));
   margin: 0 auto;
   padding: 93px 0 96px;
   text-align: center;
@@ -138,14 +138,18 @@ a {
 .hero h1 {
   margin: 0;
   color: #111111;
-  font-size: clamp(40px, 5.7vw, 64px);
+  font-size: clamp(38px, 4.4vw, 56px);
   font-weight: 820;
   letter-spacing: -0.055em;
   line-height: 1.12;
 }
 
+.hero__title-line {
+  white-space: nowrap;
+}
+
 .hero h1 em {
-  color: #111111;
+  color: var(--success);
   font-style: normal;
 }
 
@@ -207,14 +211,6 @@ a {
   align-items: flex-end;
   justify-content: space-between;
   margin-bottom: 25px;
-}
-
-.section-kicker {
-  margin: 0 0 5px;
-  color: var(--primary);
-  font-size: 10px;
-  font-weight: 800;
-  letter-spacing: 0.16em;
 }
 
 .section-heading h2 {
@@ -452,16 +448,6 @@ tbody tr:hover {
 .site-link:hover .site-name svg {
   stroke: var(--primary);
   transform: translate(1px, -1px);
-}
-
-.site-domain {
-  max-width: 150px;
-  margin-top: 3px;
-  overflow: hidden;
-  color: #777777;
-  font-size: 10px;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 
 .models-cell {
@@ -860,6 +846,10 @@ footer span:first-child {
 
   .hero h1 {
     font-size: clamp(39px, 12vw, 52px);
+  }
+
+  .hero__title-line {
+    white-space: normal;
   }
 
   .hero__description {

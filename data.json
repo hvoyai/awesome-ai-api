@@ -1,12 +1,12 @@
 {
   "updatedDate": "2026-07-11",
-  "generatedAt": "2026-07-11T13:53:29.468Z",
+  "generatedAt": "2026-07-11T13:59:21.465Z",
   "note": "所有数据来自于https://hvoy.ai 实时更新数据,全网最专业最靠谱的AI 中转站排行榜推荐",
   "sites": [
     {
       "rank": 1,
       "name": "CUN.ai",
-      "url": "https://hvoy.ai/relaySite?id=40325&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40325&name=CUN.ai&source=git&position=external_entry",
       "modelCount": 20,
       "models": [
         "Alibaba",
@@ -54,7 +54,7 @@
     {
       "rank": 3,
       "name": "SudoCode",
-      "url": "https://hvoy.ai/relaySite?id=40095&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40095&name=SudoCode&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "OpenAI",
@@ -76,7 +76,7 @@
     {
       "rank": 4,
       "name": "灵算",
-      "url": "https://hvoy.ai/relaySite?id=39980&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39980&name=%E7%81%B5%E7%AE%97&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "Anthropic",
@@ -96,7 +96,7 @@
     {
       "rank": 5,
       "name": "YKH.AI",
-      "url": "https://hvoy.ai/relaySite?id=39975&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39975&name=YKH.AI&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "OpenAI",
@@ -119,7 +119,7 @@
     {
       "rank": 6,
       "name": "ModCon",
-      "url": "https://hvoy.ai/relaySite?id=40106&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40106&name=ModCon&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "Anthropic",
@@ -138,7 +138,7 @@
     {
       "rank": 7,
       "name": "ToolCode",
-      "url": "https://hvoy.ai/relaySite?id=40208&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40208&name=ToolCode&source=git&position=external_entry",
       "modelCount": 6,
       "models": [
         "OpenAI",
@@ -155,7 +155,7 @@
     {
       "rank": 8,
       "name": "baby",
-      "url": "https://hvoy.ai/relaySite?id=40299&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40299&name=baby&source=git&position=external_entry",
       "modelCount": 6,
       "models": [
         "Anthropic"
@@ -171,7 +171,7 @@
     {
       "rank": 9,
       "name": "XycAi(星道智能)",
-      "url": "https://hvoy.ai/relaySite?id=40216&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40216&name=XycAi%28%E6%98%9F%E9%81%93%E6%99%BA%E8%83%BD%29&source=git&position=external_entry",
       "modelCount": 10,
       "models": [
         "Anthropic",
@@ -189,7 +189,7 @@
     {
       "rank": 10,
       "name": "hao.ai",
-      "url": "https://hvoy.ai/relaySite?id=40235&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40235&name=hao.ai&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "Anthropic",
@@ -210,7 +210,7 @@
     {
       "rank": 11,
       "name": "ccgo",
-      "url": "https://hvoy.ai/relaySite?id=40281&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40281&name=ccgo&source=git&position=external_entry",
       "modelCount": 4,
       "models": [
         "Anthropic",
@@ -231,7 +231,7 @@
     {
       "rank": 12,
       "name": "Toknex",
-      "url": "https://hvoy.ai/relaySite?id=40158&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40158&name=Toknex&source=git&position=external_entry",
       "modelCount": 10,
       "models": [
         "Anthropic",
@@ -253,7 +253,7 @@
     {
       "rank": 13,
       "name": "GPTEAM",
-      "url": "https://hvoy.ai/relaySite?id=39923&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39923&name=GPTEAM&source=git&position=external_entry",
       "modelCount": 20,
       "models": [
         "Anthropic",
@@ -279,7 +279,7 @@
     {
       "rank": 14,
       "name": "NekoCode",
-      "url": "https://hvoy.ai/relaySite?id=39832&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39832&name=NekoCode&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "Anthropic",
@@ -296,7 +296,7 @@
     {
       "rank": 15,
       "name": "RunAPI",
-      "url": "https://hvoy.ai/relaySite?id=39850&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39850&name=RunAPI&source=git&position=external_entry",
       "modelCount": 24,
       "models": [
         "Anthropic",
@@ -324,7 +324,7 @@
     {
       "rank": 16,
       "name": "tallius.ai",
-      "url": "https://hvoy.ai/relaySite?id=40206&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40206&name=tallius.ai&source=git&position=external_entry",
       "modelCount": 11,
       "models": [
         "Anthropic",
@@ -346,7 +346,7 @@
     {
       "rank": 17,
       "name": "智惠API",
-      "url": "https://hvoy.ai/relaySite?id=40026&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40026&name=%E6%99%BA%E6%83%A0API&source=git&position=external_entry",
       "modelCount": 10,
       "models": [
         "Anthropic",
@@ -368,7 +368,7 @@
     {
       "rank": 18,
       "name": "Portal",
-      "url": "https://hvoy.ai/relaySite?id=40338&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40338&name=Portal&source=git&position=external_entry",
       "modelCount": 1,
       "models": [
         "OpenAI"
@@ -387,7 +387,7 @@
     {
       "rank": 19,
       "name": "RightCode",
-      "url": "https://hvoy.ai/relaySite?id=39848&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39848&name=RightCode&source=git&position=external_entry",
       "modelCount": 22,
       "models": [
         "Anthropic",
@@ -412,7 +412,7 @@
     {
       "rank": 20,
       "name": "Nexaxis",
-      "url": "https://hvoy.ai/relaySite?id=40300&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40300&name=Nexaxis&source=git&position=external_entry",
       "modelCount": 13,
       "models": [
         "Anthropic",
@@ -430,7 +430,7 @@
     {
       "rank": 21,
       "name": "云渡",
-      "url": "https://hvoy.ai/relaySite?id=40175&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40175&name=%E4%BA%91%E6%B8%A1&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "OpenAI",
@@ -449,7 +449,7 @@
     {
       "rank": 22,
       "name": "LLMAPI",
-      "url": "https://hvoy.ai/relaySite?id=39825&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39825&name=LLMAPI&source=git&position=external_entry",
       "modelCount": 11,
       "models": [
         "Anthropic",
@@ -467,7 +467,7 @@
     {
       "rank": 23,
       "name": "Volt",
-      "url": "https://hvoy.ai/relaySite?id=39955&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39955&name=Volt&source=git&position=external_entry",
       "modelCount": 21,
       "models": [
         "Anthropic",
@@ -495,7 +495,7 @@
     {
       "rank": 24,
       "name": "我的贾维斯",
-      "url": "https://hvoy.ai/relaySite?id=40324&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40324&name=%E6%88%91%E7%9A%84%E8%B4%BE%E7%BB%B4%E6%96%AF&source=git&position=external_entry",
       "modelCount": 6,
       "models": [
         "Anthropic",
@@ -512,7 +512,7 @@
     {
       "rank": 25,
       "name": "WorldBase.ai",
-      "url": "https://hvoy.ai/relaySite?id=40169&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40169&name=WorldBase.ai&source=git&position=external_entry",
       "modelCount": 10,
       "models": [
         "OpenAI",
@@ -532,7 +532,7 @@
     {
       "rank": 26,
       "name": "ZZZ",
-      "url": "https://hvoy.ai/relaySite?id=40367&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40367&name=ZZZ&source=git&position=external_entry",
       "modelCount": 10,
       "models": [
         "Anthropic",
@@ -553,7 +553,7 @@
     {
       "rank": 27,
       "name": "UU API",
-      "url": "https://hvoy.ai/relaySite?id=39863&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39863&name=UU+API&source=git&position=external_entry",
       "modelCount": 10,
       "models": [
         "Anthropic",
@@ -576,7 +576,7 @@
     {
       "rank": 28,
       "name": "天枢",
-      "url": "https://hvoy.ai/relaySite?id=40341&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40341&name=%E5%A4%A9%E6%9E%A2&source=git&position=external_entry",
       "modelCount": 20,
       "models": [
         "OpenAI",
@@ -604,7 +604,7 @@
     {
       "rank": 29,
       "name": "球球Token",
-      "url": "https://hvoy.ai/relaySite?id=39921&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39921&name=%E7%90%83%E7%90%83Token&source=git&position=external_entry",
       "modelCount": 13,
       "models": [
         "OpenAI",
@@ -629,7 +629,7 @@
     {
       "rank": 30,
       "name": "Apiporter",
-      "url": "https://hvoy.ai/relaySite?id=40327&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40327&name=Apiporter&source=git&position=external_entry",
       "modelCount": 13,
       "models": [
         "OpenAI",
@@ -651,7 +651,7 @@
     {
       "rank": 31,
       "name": "PackyCode",
-      "url": "https://hvoy.ai/relaySite?id=39842&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39842&name=PackyCode&source=git&position=external_entry",
       "modelCount": 22,
       "models": [
         "Anthropic",
@@ -678,7 +678,7 @@
     {
       "rank": 32,
       "name": "Z-API",
-      "url": "https://hvoy.ai/relaySite?id=40323&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40323&name=Z-API&source=git&position=external_entry",
       "modelCount": 7,
       "models": [
         "Anthropic",
@@ -698,7 +698,7 @@
     {
       "rank": 33,
       "name": "LinkAi",
-      "url": "https://hvoy.ai/relaySite?id=40225&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40225&name=LinkAi&source=git&position=external_entry",
       "modelCount": 9,
       "models": [
         "OpenAI",
@@ -718,7 +718,7 @@
     {
       "rank": 34,
       "name": "Poixe AI",
-      "url": "https://hvoy.ai/relaySite?id=39845&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39845&name=Poixe+AI&source=git&position=external_entry",
       "modelCount": 14,
       "models": [
         "Anthropic",
@@ -741,7 +741,7 @@
     {
       "rank": 35,
       "name": "luchikey",
-      "url": "https://hvoy.ai/relaySite?id=40007&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40007&name=luchikey&source=git&position=external_entry",
       "modelCount": 9,
       "models": [
         "OpenAI",
@@ -762,7 +762,7 @@
     {
       "rank": 36,
       "name": "ClauqeAI",
-      "url": "https://hvoy.ai/relaySite?id=40126&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40126&name=ClauqeAI&source=git&position=external_entry",
       "modelCount": 6,
       "models": [
         "Anthropic",
@@ -782,7 +782,7 @@
     {
       "rank": 37,
       "name": "ClaudeCN",
-      "url": "https://hvoy.ai/relaySite?id=39799&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39799&name=ClaudeCN&source=git&position=external_entry",
       "modelCount": 12,
       "models": [
         "Anthropic",
@@ -804,7 +804,7 @@
     {
       "rank": 38,
       "name": "优兔API",
-      "url": "https://hvoy.ai/relaySite?id=40404&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40404&name=%E4%BC%98%E5%85%94API&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "Anthropic",
@@ -825,7 +825,7 @@
     {
       "rank": 39,
       "name": "二狗 API",
-      "url": "https://hvoy.ai/relaySite?id=40285&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40285&name=%E4%BA%8C%E7%8B%97+API&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "Anthropic",
@@ -842,7 +842,7 @@
     {
       "rank": 40,
       "name": "AnPin AI",
-      "url": "https://hvoy.ai/relaySite?id=39783&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39783&name=AnPin+AI&source=git&position=external_entry",
       "modelCount": 7,
       "models": [
         "Anthropic",
@@ -859,7 +859,7 @@
     {
       "rank": 41,
       "name": "Chintao AI",
-      "url": "https://hvoy.ai/relaySite?id=39795&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39795&name=Chintao+AI&source=git&position=external_entry",
       "modelCount": 12,
       "models": [
         "Anthropic",
@@ -880,7 +880,7 @@
     {
       "rank": 42,
       "name": "我的刀盾",
-      "url": "https://hvoy.ai/relaySite?id=40121&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40121&name=%E6%88%91%E7%9A%84%E5%88%80%E7%9B%BE&source=git&position=external_entry",
       "modelCount": 12,
       "models": [
         "Anthropic",
@@ -898,7 +898,7 @@
     {
       "rank": 43,
       "name": "SuiXiang",
-      "url": "https://hvoy.ai/relaySite?id=40328&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40328&name=SuiXiang&source=git&position=external_entry",
       "modelCount": 8,
       "models": [],
       "uptime": 93.3,
@@ -914,7 +914,7 @@
     {
       "rank": 44,
       "name": "AOK",
-      "url": "https://hvoy.ai/relaySite?id=40009&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40009&name=AOK&source=git&position=external_entry",
       "modelCount": 11,
       "models": [
         "Anthropic",
@@ -936,7 +936,7 @@
     {
       "rank": 45,
       "name": "DasuApi",
-      "url": "https://hvoy.ai/relaySite?id=40222&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40222&name=DasuApi&source=git&position=external_entry",
       "modelCount": 6,
       "models": [
         "Anthropic",
@@ -955,7 +955,7 @@
     {
       "rank": 46,
       "name": "SevnX",
-      "url": "https://hvoy.ai/relaySite?id=40174&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40174&name=SevnX&source=git&position=external_entry",
       "modelCount": 7,
       "models": [
         "OpenAI",
@@ -974,7 +974,7 @@
     {
       "rank": 47,
       "name": "Dmxcode",
-      "url": "https://hvoy.ai/relaySite?id=40415&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40415&name=Dmxcode&source=git&position=external_entry",
       "modelCount": 12,
       "models": [
         "Anthropic",
@@ -995,7 +995,7 @@
     {
       "rank": 48,
       "name": "聚星AI",
-      "url": "https://hvoy.ai/relaySite?id=40123&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40123&name=%E8%81%9A%E6%98%9FAI&source=git&position=external_entry",
       "modelCount": 16,
       "models": [
         "Anthropic",
@@ -1019,7 +1019,7 @@
     {
       "rank": 49,
       "name": "TieAPI",
-      "url": "https://hvoy.ai/relaySite?id=40274&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40274&name=TieAPI&source=git&position=external_entry",
       "modelCount": 11,
       "models": [
         "Anthropic",
@@ -1042,7 +1042,7 @@
     {
       "rank": 50,
       "name": "悟空API",
-      "url": "https://hvoy.ai/relaySite?id=40357&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40357&name=%E6%82%9F%E7%A9%BAAPI&source=git&position=external_entry",
       "modelCount": 11,
       "models": [
         "OpenAI",
@@ -1062,7 +1062,7 @@
     {
       "rank": 51,
       "name": "MuskAI",
-      "url": "https://hvoy.ai/relaySite?id=39946&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39946&name=MuskAI&source=git&position=external_entry",
       "modelCount": 22,
       "models": [
         "Anthropic",
@@ -1086,7 +1086,7 @@
     {
       "rank": 52,
       "name": "9527code",
-      "url": "https://hvoy.ai/relaySite?id=39937&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39937&name=9527code&source=git&position=external_entry",
       "modelCount": 22,
       "models": [
         "Anthropic",
@@ -1112,7 +1112,7 @@
     {
       "rank": 53,
       "name": "AutoRouter",
-      "url": "https://hvoy.ai/relaySite?id=40162&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40162&name=AutoRouter&source=git&position=external_entry",
       "modelCount": 19,
       "models": [
         "Anthropic",
@@ -1138,7 +1138,7 @@
     {
       "rank": 54,
       "name": "夯炸了AI",
-      "url": "https://hvoy.ai/relaySite?id=40111&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40111&name=%E5%A4%AF%E7%82%B8%E4%BA%86AI&source=git&position=external_entry",
       "modelCount": 12,
       "models": [
         "OpenAI",
@@ -1156,7 +1156,7 @@
     {
       "rank": 55,
       "name": "onehop",
-      "url": "https://hvoy.ai/relaySite?id=40358&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40358&name=onehop&source=git&position=external_entry",
       "modelCount": 17,
       "models": [
         "Anthropic",
@@ -1182,7 +1182,7 @@
     {
       "rank": 56,
       "name": "IKunCode",
-      "url": "https://hvoy.ai/relaySite?id=39819&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39819&name=IKunCode&source=git&position=external_entry",
       "modelCount": 10,
       "models": [
         "Anthropic",
@@ -1200,7 +1200,7 @@
     {
       "rank": 57,
       "name": "滴滴打T",
-      "url": "https://hvoy.ai/relaySite?id=40393&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40393&name=%E6%BB%B4%E6%BB%B4%E6%89%93T&source=git&position=external_entry",
       "modelCount": 17,
       "models": [
         "OpenAI",
@@ -1224,7 +1224,7 @@
     {
       "rank": 58,
       "name": "SadAI",
-      "url": "https://hvoy.ai/relaySite?id=40308&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40308&name=SadAI&source=git&position=external_entry",
       "modelCount": 4,
       "models": [
         "OpenAI",
@@ -1244,7 +1244,7 @@
     {
       "rank": 59,
       "name": "LoomCode",
-      "url": "https://hvoy.ai/relaySite?id=40364&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40364&name=LoomCode&source=git&position=external_entry",
       "modelCount": 6,
       "models": [
         "OpenAI",
@@ -1263,7 +1263,7 @@
     {
       "rank": 60,
       "name": "Apizh",
-      "url": "https://hvoy.ai/relaySite?id=40339&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40339&name=Apizh&source=git&position=external_entry",
       "modelCount": 4,
       "models": [
         "OpenAI",
@@ -1283,7 +1283,7 @@
     {
       "rank": 61,
       "name": "EiRouter",
-      "url": "https://hvoy.ai/relaySite?id=40369&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40369&name=EiRouter&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "Anthropic",
@@ -1304,7 +1304,7 @@
     {
       "rank": 62,
       "name": "ttflows",
-      "url": "https://hvoy.ai/relaySite?id=40406&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40406&name=ttflows&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "Anthropic",
@@ -1323,7 +1323,7 @@
     {
       "rank": 63,
       "name": "OfficesAI",
-      "url": "https://hvoy.ai/relaySite?id=40231&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40231&name=OfficesAI&source=git&position=external_entry",
       "modelCount": 16,
       "models": [
         "OpenAI",
@@ -1344,7 +1344,7 @@
     {
       "rank": 64,
       "name": "JBBtoken",
-      "url": "https://hvoy.ai/relaySite?id=40292&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40292&name=JBBtoken&source=git&position=external_entry",
       "modelCount": 15,
       "models": [
         "OpenAI",
@@ -1371,7 +1371,7 @@
     {
       "rank": 65,
       "name": "Lumin AI",
-      "url": "https://hvoy.ai/relaySite?id=39827&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39827&name=Lumin+AI&source=git&position=external_entry",
       "modelCount": 9,
       "models": [
         "Anthropic",
@@ -1391,7 +1391,7 @@
     {
       "rank": 66,
       "name": "哩喵中转栈",
-      "url": "https://hvoy.ai/relaySite?id=39922&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39922&name=%E5%93%A9%E5%96%B5%E4%B8%AD%E8%BD%AC%E6%A0%88&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "Anthropic",
@@ -1408,7 +1408,7 @@
     {
       "rank": 67,
       "name": "AIGateHub",
-      "url": "https://hvoy.ai/relaySite?id=40362&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40362&name=AIGateHub&source=git&position=external_entry",
       "modelCount": 11,
       "models": [
         "OpenAI",
@@ -1430,7 +1430,7 @@
     {
       "rank": 68,
       "name": "Euzhi",
-      "url": "https://hvoy.ai/relaySite?id=40048&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40048&name=Euzhi&source=git&position=external_entry",
       "modelCount": 3,
       "models": [
         "OpenAI"
@@ -1448,7 +1448,7 @@
     {
       "rank": 69,
       "name": "AIMZ",
-      "url": "https://hvoy.ai/relaySite?id=39944&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39944&name=AIMZ&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "OpenAI",
@@ -1470,7 +1470,7 @@
     {
       "rank": 70,
       "name": "MueMod",
-      "url": "https://hvoy.ai/relaySite?id=40383&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40383&name=MueMod&source=git&position=external_entry",
       "modelCount": 7,
       "models": [
         "Anthropic",
@@ -1489,7 +1489,7 @@
     {
       "rank": 71,
       "name": "quotarouter",
-      "url": "https://hvoy.ai/relaySite?id=40385&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40385&name=quotarouter&source=git&position=external_entry",
       "modelCount": 12,
       "models": [
         "Anthropic",
@@ -1512,7 +1512,7 @@
     {
       "rank": 72,
       "name": "RelayNest",
-      "url": "https://hvoy.ai/relaySite?id=40333&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40333&name=RelayNest&source=git&position=external_entry",
       "modelCount": 6,
       "models": [
         "OpenAI",
@@ -1531,7 +1531,7 @@
     {
       "rank": 73,
       "name": "A6api",
-      "url": "https://hvoy.ai/relaySite?id=40329&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40329&name=A6api&source=git&position=external_entry",
       "modelCount": 19,
       "models": [
         "Anthropic",
@@ -1558,7 +1558,7 @@
     {
       "rank": 74,
       "name": "浮生云算",
-      "url": "https://hvoy.ai/relaySite?id=40179&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40179&name=%E6%B5%AE%E7%94%9F%E4%BA%91%E7%AE%97&source=git&position=external_entry",
       "modelCount": 8,
       "models": [
         "OpenAI",
@@ -1577,7 +1577,7 @@
     {
       "rank": 75,
       "name": "SwitchBase",
-      "url": "https://hvoy.ai/relaySite?id=39856&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=39856&name=SwitchBase&source=git&position=external_entry",
       "modelCount": 10,
       "models": [
         "Anthropic",
@@ -1599,7 +1599,7 @@
     {
       "rank": 76,
       "name": "SudoBug",
-      "url": "https://hvoy.ai/relaySite?id=40298&source=awesomeaiplan",
+      "url": "https://hvoy.ai/relaySite?id=40298&name=SudoBug&source=git&position=external_entry",
       "modelCount": 6,
       "models": [
         "Anthropic",
