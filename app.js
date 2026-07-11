@@ -4,6 +4,8 @@ const state = {
   sortBy: "rank",
 };
 
+const DATA_URL = "https://hvoy.ai/api/ranking/sitedata.json";
+
 const elements = {
   providerCount: document.querySelector("#provider-count"),
   averageUptime: document.querySelector("#average-uptime"),
@@ -226,12 +228,20 @@ async function loadData() {
   setView("loading");
 
   try {
-    const response = await fetch(`./data.json?v=${Date.now()}`, { cache: "no-store" });
+    const dataUrl = new URL(DATA_URL);
+    dataUrl.searchParams.set("_", Date.now());
+
+    const response = await fetch(dataUrl, {
+      cache: "no-store",
+      headers: {
+        Accept: "application/json",
+      },
+    });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
     const data = await response.json();
     const rawSites = Array.isArray(data) ? data : data.sites;
-    if (!Array.isArray(rawSites)) throw new Error("data.json 中缺少 sites 数组");
+    if (!Array.isArray(rawSites)) throw new Error("线上数据中缺少 sites 数组");
 
     state.sites = rawSites.map(normalizeSite);
     renderSummary(state.sites);
@@ -243,9 +253,8 @@ async function loadData() {
     console.error(error);
     setView("error");
     elements.updatedAt.textContent = "数据暂不可用";
-    elements.errorMessage.textContent = window.location.protocol === "file:"
-      ? "请通过本地 HTTP 服务或 GitHub Pages 访问，浏览器不能直接从 file:// 读取 JSON。"
-      : "请确认 data.json 存在且格式正确，然后刷新页面重试。";
+    elements.errorMessage.textContent =
+      "请确认线上数据接口可以访问，并允许当前网站跨域读取，然后刷新页面重试。";
   }
 }
 
