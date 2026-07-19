@@ -5,12 +5,111 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta
       name="description"
-      content="AI API 中转站排行榜，持续监测模型覆盖、在线率、延迟、用户评分和服务能力。"
+      content="2026 AI API 中转站公开排行榜，汇总真实 API 探测与站点资料，对比 Claude、GPT、Gemini、DeepSeek 等模型的覆盖、在线率、延迟、用户评分、支付方式、退款和发票信息。"
     />
+    <meta
+      name="keywords"
+      content="AI API 中转站, API 中转站, AI 中转站, 算力中转站, Token 中转站, API 分发站, OpenAI 兼容, Claude 中转, GPT 中转, Gemini 中转, DeepSeek, Qwen, Claude Code 中转, OpenRouter, One API, New API, AI API 评测, 中转 API 排行, ChatGPT 国内 API"
+    />
+    <meta name="author" content="中转站" />
+    <meta name="robots" content="index, follow" />
     <meta name="theme-color" content="#ffffff" />
-    <title>AI API 中转站排行榜</title>
+    <link rel="canonical" href="https://mackding.github.io/awesome-ai-api/zh/" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:title" content="awesome-ai-api — AI API 中转站排行榜" />
+    <meta
+      property="og:description"
+      content="基于真实 API 探测与公开站点资料，对比模型覆盖、在线率、响应延迟、用户评分和服务信息。开源、双语的 AI API 中转站排行榜。"
+    />
+    <meta property="og:url" content="https://mackding.github.io/awesome-ai-api/zh/" />
+    <meta property="og:image" content="https://mackding.github.io/awesome-ai-api/og-image.png" />
+    <meta property="og:image:alt" content="awesome-ai-api AI API 中转站排行榜" />
+
+    <title>awesome-ai-api — 2026 最全 AI API 中转站公开排行榜（Claude / GPT / Gemini / DeepSeek）</title>
     <link rel="stylesheet" href="./styles.css?v=20260712-1" />
     <script src="./app.js?v=20260712-1" defer></script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org/",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "AI 中转站到底是什么？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "AI 中转站是位于开发者和大模型上游之间的代理层：开发者把请求发给中转站，中转站再转发到 Anthropic、OpenAI、Google 等官方 API、云平台接口或其他上游渠道，并把结果返回。它主要解决网络可达性、国际支付和多厂商接口管理问题，但也增加了上游来源、模型一致性、计费透明度、数据隐私和平台停运风险。并非所有中转站都直接连接官方接口，使用前应确认渠道来源和能力限制。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "API 中转站、AI 中转站、算力中转站和 API 分发站有什么区别？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "这些名称在实际使用中大多指同一类第三方大模型接口服务，只是侧重点不同：算力中转站强调算力资源，API 中转站和 API 分发站强调接口转发，AI 中转站是更宽泛的说法。本站统一使用“中转站”收录和排行。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "本站的 AI API 中转站数据从哪里来，多久更新一次？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "本站榜单数据来自后台真实 API 探测和公开站点资料，探测任务约每 30 分钟运行一次；页面读取最新数据文件并显示实际更新时间，遇到同步或缓存延迟时应以页面时间为准。当前公开字段包括综合名次、模型覆盖、在线率、响应延迟、用户评分、支付方式以及退款和发票支持情况。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "本站如何判断 API 是否可用、模型是否一致？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "数据源通过真实 API 探测观察接口连通性、响应特征、延迟和模型一致性信号，用于发现不可达、响应异常或模型表现不一致等问题。任何自动检测都只能反映采样时点和已覆盖的行为，不能保证模型永远不变，也不能替代用户在自己的账号、线路和业务场景中复测。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "AI API 中转站排行榜依据哪些指标？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "榜单综合展示模型覆盖、在线率、响应延迟、用户评分和服务能力。在线率用于观察近期可达性，延迟反映探测线路上的响应速度，用户评分与退款、发票、支付方式用于补充实际使用和服务信息；用户也可以分别按在线率、延迟、模型数量或评分排序。排名适合缩小候选范围，不是长期可用保证。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "怎样选择靠谱的 AI API 中转站？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "判断 AI API 中转站是否靠谱，应先验证目标模型和关键功能，再检查渠道来源、计费账单、运营主体、服务条款与长期稳定性。价格低本身不等于模型造假，真正危险的是低价却无法解释成本来源、拒绝小额测试、账单不透明或出现异常响应。建议先用临时 Key 和少量余额完成连通性、模型名称、流式输出、工具调用、上下文、用量统计和扣费测试，再建立主用与备用线路，避免在单个平台长期存放大额余额。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "OpenAI 兼容 API 能调用 Claude、Gemini 和 DeepSeek 吗？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "可以，但前提是中转站接入了对应模型。OpenAI 兼容通常只表示基础请求格式相近，不代表流式输出、图片输入、工具调用、错误码和上下文长度都与官方接口一致；接入前应检查 /v1/models、模型名称映射和功能限制。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "本站销售中转服务或接受付费排名吗？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "不销售。本站是公开的中转站数据与比较页面，不提供 API 充值或转售服务，也不接受付费修改榜单位次。综合名次来自公开数据源，同时页面允许按在线率、延迟、模型数量和用户评分重新排序；收录或排名不代表官方认证或永久背书。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "使用 API 中转站安全吗，可以大额充值吗？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "中转站需要处理 API 请求，因此不应提交密码、其他平台密钥、个人隐私或未脱敏的敏感业务数据。充值应遵循用多少充多少，设置消费限额并定期更换 API Key；即使当前在线率和评分较高，也不代表服务商未来不会停运、改价或调整线路。"
+            }
+          }
+        ]
+      }
+    </script>
   </head>
   <body>
     <header class="site-header">
@@ -30,6 +129,7 @@
         <nav class="desktop-nav" aria-label="主要导航">
           <a class="is-active" href="#ranking">排行榜</a>
           <a href="#guide">挑选指南</a>
+          <a href="#faq">常见问题</a>
           <a href="https://hvoy.ai" target="_blank" rel="noopener noreferrer">禾维 AI</a>
         </nav>
 
@@ -41,16 +141,16 @@
       <section class="hero" aria-labelledby="page-title">
         <div class="eyebrow"><span aria-hidden="true"></span>持续监测 · 数据透明</div>
         <h1 id="page-title">
-          <span class="hero__title-line">全球最大的开源双语AI API 中转站排行榜</span>
+          <span class="hero__title-line">2026年最大的开源双语AI API 中转站排行榜</span>
         </h1>
-        <h2>随时探测, 实时更新</h2>
+        <h2>每 30 分钟进行一次探测, 实时更新</h2>
         <p>聚合模型覆盖、在线率、响应延迟、用户评分和服务能力，帮你找到更合适的 AI API 中转站。</p>
       </section>
 
       <section class="summary" aria-label="榜单数据概览">
         <article class="summary__item">
           <strong id="provider-count">--</strong>
-          <span>收录服务商</span>
+          <span>收录中转站</span>
         </article>
         <article class="summary__item summary__item--accent">
           <strong id="average-uptime">--</strong>
@@ -73,12 +173,12 @@
 
         <div class="toolbar">
           <label class="search-box">
-            <span class="sr-only">搜索服务商或模型</span>
+            <span class="sr-only">搜索中转站或者模型</span>
             <svg viewBox="0 0 24 24" aria-hidden="true">
               <circle cx="11" cy="11" r="6.5"></circle>
               <path d="m16 16 4 4"></path>
             </svg>
-            <input id="search-input" type="search" placeholder="搜索服务商或模型..." autocomplete="off" />
+            <input id="search-input" type="search" placeholder="搜索中转站或模型..." autocomplete="off" />
           </label>
 
           <label class="sort-box">
@@ -157,6 +257,200 @@
           </a>
         </article>
       </section>
+
+      <section class="faq-section" id="faq" aria-labelledby="faq-title">
+        <div class="faq-section__heading">
+          <span>FAQ</span>
+          <h2 id="faq-title">AI API 中转站常见问题</h2>
+          <p>了解中转站是什么、数据如何产生、怎样看榜单，以及接入前需要注意的模型与资金风险。</p>
+        </div>
+
+        <div class="faq-list">
+          <details open>
+            <summary>AI 中转站到底是什么？</summary>
+            <div class="faq-answer">
+              <p>
+                AI 中转站是位于开发者和大模型上游之间的代理层：开发者把请求发给中转站，中转站再转发到 Anthropic、OpenAI、Google
+                等官方 API、云平台接口或其他上游渠道，并把结果返回。它主要解决网络可达性、国际支付和多厂商接口管理问题，但也增加了上游来源、模型一致性、计费透明度、数据隐私和平台停运风险。并非所有中转站都直接连接官方接口，使用前应确认渠道来源和能力限制。
+              </p>
+
+              <h3>一次 API 请求通常怎样流转？</h3>
+              <ol>
+                <li>开发者把 API 地址和 Key 配置为中转站提供的端点。</li>
+                <li>中转站完成鉴权、模型名称映射、额度检查和路由选择。</li>
+                <li>请求被发送到官方 API、Vertex AI、AWS Bedrock、企业账户或其他已接入的上游渠道。</li>
+                <li>中转站把上游响应转换为约定协议，并记录 Token 用量和账单后返回给开发者。</li>
+              </ol>
+
+              <h3>它主要解决哪些问题？</h3>
+              <ul>
+                <li>
+                  <strong>网络可达性：</strong>部分海外模型服务未直接面向中国大陆提供稳定访问，中转站通过可连接上游的节点转发请求，减少跨境连接失败和网络波动。
+                </li>
+                <li>
+                  <strong>支付门槛：</strong>部分官方 API 需要国际信用卡、海外账户或外币结算，中转站通常支持人民币余额、支付宝、微信或对公转账。
+                </li>
+                <li>
+                  <strong>接口统一：</strong>一个平台可能同时支持 OpenAI、Anthropic、Google 等协议，开发者可以用较少的接入工作切换不同模型。
+                </li>
+                <li>
+                  <strong>额度与运维：</strong>中转站可能提供统一账单、用量统计、Key 管理、并发控制和故障切换，减少维护多家官方账户的成本。
+                </li>
+              </ul>
+
+              <p class="faq-answer__note">
+                中转站并不天然比官方接口便宜或稳定。它可能采用官方直连、云平台、企业折扣、订阅额度共享或协议转换等不同渠道；渠道不同，价格、上下文长度、工具调用和稳定性也会不同。
+              </p>
+            </div>
+          </details>
+          <details>
+            <summary>API 中转站、AI 中转站、算力中转站和 API 分发站有什么区别？</summary>
+            <p>
+              这些名称在实际使用中大多指同一类第三方大模型接口服务，只是侧重点不同：算力中转站强调算力资源，API 中转站和 API
+              分发站强调接口转发，AI 中转站是更宽泛的说法。本站统一使用“中转站”收录和排行。
+            </p>
+          </details>
+          <details>
+            <summary>本站的 AI API 中转站数据从哪里来，多久更新一次？</summary>
+            <p>
+              本站榜单数据来自后台真实 API
+              探测和公开站点资料，探测任务约每 30 分钟运行一次；页面读取最新数据文件并显示实际更新时间，遇到同步或缓存延迟时应以页面时间为准。当前公开字段包括综合名次、模型覆盖、在线率、响应延迟、用户评分、支付方式以及退款和发票支持情况。
+            </p>
+          </details>
+          <details>
+            <summary>本站如何判断 API 是否可用、模型是否一致？</summary>
+            <p>
+              数据源通过真实 API 探测观察接口连通性、响应特征、延迟和模型一致性信号，用于发现不可达、响应异常或模型表现不一致等问题。任何自动检测都只能反映采样时点和已覆盖的行为，不能保证模型永远不变，也不能替代用户在自己的账号、线路和业务场景中复测。你也可以使用
+              <a href="https://www.hvoy.ai/" target="_blank" rel="noopener noreferrer">AI API 检测入口</a>检查自己的接口。
+            </p>
+          </details>
+          <details>
+            <summary>AI API 中转站排行榜依据哪些指标？</summary>
+            <p>
+              榜单综合展示模型覆盖、在线率、响应延迟、用户评分和服务能力。在线率用于观察近期可达性，延迟反映探测线路上的响应速度，用户评分与退款、发票、支付方式用于补充实际使用和服务信息；用户也可以分别按在线率、延迟、模型数量或评分排序。排名适合缩小候选范围，不是长期可用保证。
+            </p>
+          </details>
+          <details>
+            <summary>怎样选择靠谱的 AI API 中转站？</summary>
+            <div class="faq-answer">
+              <p>
+                判断 AI API
+                中转站是否靠谱，应先验证目标模型和关键功能，再检查渠道来源、计费账单、运营主体、服务条款与长期稳定性。价格低本身不等于模型造假，真正危险的是低价却无法解释成本来源、拒绝小额测试、账单不透明或出现异常响应。建议先用临时
+                Key
+                和少量余额完成连通性、模型名称、流式输出、工具调用、上下文、用量统计和扣费测试，再建立主用与备用线路，避免在单个平台长期存放大额余额。
+              </p>
+
+              <h3>5 类需要警惕的高风险迹象</h3>
+              <ol class="faq-signal-list faq-signal-list--risk">
+                <li>
+                  <strong>价格明显偏低，却说不清渠道和成本来源</strong>
+                  <p>
+                    低价不一定是假模型：官方企业折扣、云平台区域价格、批量采购和限时额度都可能降低成本。真正需要警惕的是客服无法说明属于官方直连、云平台还是其他渠道，价格规则又经常变化，模型名称与账单也对不上。
+                  </p>
+                </li>
+                <li>
+                  <strong>不允许低成本试用，却强推大额预存</strong>
+                  <p>
+                    最低充值金额没有统一安全答案，但可靠平台通常允许用户以可承受的金额验证接口。首充门槛过高、优惠只在大额充值时出现、余额有效期很短或提现限制藏得很深，都会放大资金风险。
+                  </p>
+                </li>
+                <li>
+                  <strong>运营主体、联系方式和服务条款缺失</strong>
+                  <p>
+                    官网找不到运营者、公司或团队信息，没有长期可用的客服渠道，也没有隐私、退款和争议处理条款，出现误扣费、数据泄露或停运时很难追责。匿名运营不等于一定有问题，但风险应按更高等级评估。
+                  </p>
+                </li>
+                <li>
+                  <strong>公告、文档和模型列表长期不更新</strong>
+                  <p>
+                    大模型版本、价格和接口参数变化很快。如果文档中的模型已经下线、示例无法运行、公告长期停滞，说明平台可能缺少维护。即使基础请求暂时可用，也可能在流式输出、工具调用或长上下文上存在兼容问题。
+                  </p>
+                </li>
+                <li>
+                  <strong>账单不透明，退款规则含糊或异常苛刻</strong>
+                  <p>
+                    每次调用至少应能核对模型、输入与输出 Token、倍率、实际扣费和时间。只有余额变化却没有调用明细，或者规则允许平台随意改价、封号和清空余额，都会让用户无法判断是否被重复计费或模型降级。
+                  </p>
+                </li>
+              </ol>
+
+              <h3>4 项更值得信任的可靠特征</h3>
+              <ol class="faq-signal-list faq-signal-list--reliable">
+                <li>
+                  <strong>公开渠道类型、价格倍率和能力限制</strong>
+                  <p>
+                    能明确说明上游来源，并写清不同分组是否支持工具调用、图片、缓存、长上下文和 Claude Code，说明平台理解自己的产品边界。透明不代表零风险，但便于用户按场景选择。
+                  </p>
+                </li>
+                <li>
+                  <strong>允许小额测试，并提供可核对的调用账单</strong>
+                  <p>
+                    用户可以创建独立 Key、设置额度或 IP 限制，用少量余额完成真实调用；后台能查看 Token、倍率、缓存和扣费明细，出现异常时也能导出记录联系客服。
+                  </p>
+                </li>
+                <li>
+                  <strong>接口可被复测，关键能力与声明一致</strong>
+                  <p>
+                    模型列表、响应格式、流式输出、工具调用、上下文和用量统计能够重复验证，不会屏蔽正常测试请求。一次测试不能证明永久可靠，但持续一致的结果比首页宣传更有参考价值。
+                  </p>
+                </li>
+                <li>
+                  <strong>持续运营、状态透明且售后可达</strong>
+                  <p>
+                    文档和价格持续维护，故障时有状态公告，客服能在承诺时间内回复，并清楚说明退款、发票和余额处理方式。新站并非一定不可靠，但更适合小额、短周期验证。
+                  </p>
+                </li>
+              </ol>
+
+              <h3>1 分钟快速自测</h3>
+              <ol class="faq-checklist">
+                <li>只充值能够承受损失的小额余额，新建临时 API Key，并设置额度和权限限制。</li>
+                <li>请求禾维 AI, 测试模型的真实性</li>
+                <li>发送一条普通请求和一条流式请求，检查状态码、首字延迟、结束原因和响应格式。</li>
+                <li>如果业务依赖工具调用、图片或长上下文，必须分别测试，不能只凭简单聊天判断兼容性。</li>
+                <li>对照后台账单核对输入、输出、缓存 Token、倍率与实际扣费，确认没有隐藏计费。</li>
+                <li>完成测试后撤销临时 Key；正式业务至少准备一条备用线路，并避免在任何单站长期存放大额余额。</li>
+              </ol>
+
+              <p class="faq-answer__note">
+                本方法不依赖对某一家中转站的点名推荐。可以先从<a href="#ranking">首页排行榜</a>缩小候选范围，再用自己的账号、网络和真实业务请求复测。更多背景可阅读
+                <a href="https://github.com/hvoyai/awesome-ai-api#怎么挑一个靠谱的-ai-api-中转站" target="_blank" rel="noopener noreferrer">完整选站指南</a>。
+              </p>
+            </div>
+          </details>
+          <details>
+            <summary>OpenAI 兼容 API 能调用 Claude、Gemini 和 DeepSeek 吗？</summary>
+            <p>
+              可以，但前提是中转站接入了对应模型。OpenAI 兼容通常只表示基础请求格式相近，不代表流式输出、图片输入、工具调用、错误码和上下文长度都与官方接口一致；接入前应检查
+              模型的真实性。
+            </p>
+          </details>
+          <details>
+            <summary>本站销售中转服务或接受付费排名吗？</summary>
+            <p>
+              不销售。本站是公开的中转站数据与比较页面，不提供 API
+              充值或转售服务，也不接受付费修改榜单位次。综合名次来自公开数据源，同时页面允许按在线率、延迟、模型数量和用户评分重新排序；收录或排名不代表官方认证或永久背书。
+            </p>
+          </details>
+          <details>
+            <summary>使用 API 中转站安全吗，可以大额充值吗？</summary>
+            <p>
+              中转站需要处理 API 请求，因此不应提交密码、其他平台密钥、个人隐私或未脱敏的敏感业务数据。充值应遵循用多少充多少，设置消费限额并定期更换 API
+              Key；即使当前在线率和评分较高，也不代表服务商未来不会停运、改价或调整线路。
+            </p>
+          </details>
+
+          <div class="faq-resources" aria-label="相关帮助文档">
+            <strong>继续了解</strong>
+            <div>
+              <a href="https://www.hvoy.ai/leaderboard/" target="_blank" rel="noopener noreferrer">完整实测榜单</a>
+              <a href="https://www.hvoy.ai/" target="_blank" rel="noopener noreferrer">AI API 检测</a>
+              <a href="https://www.hvoy.ai/sites/" target="_blank" rel="noopener noreferrer">中转站目录</a>
+              <a href="https://www.hvoy.ai/APIreview.html" target="_blank" rel="noopener noreferrer">人工评测与风险提示</a>
+            </div>
+          </div>
+        </div>
+      </section>
     </main>
 
     <footer>
@@ -165,7 +459,8 @@
         <div class="footer-links">
           <a href="#ranking">排行榜</a>
           <a href="#guide">挑选指南</a>
-          <a href="https://hvoy.ai" target="_blank" rel="noopener noreferrer">禾维 AI</a>
+          <a href="#faq">常见问题</a>
+          <a href="https://www.hvoy.ai" target="_blank" rel="noopener noreferrer">禾维 AI</a>
         </div>
         <span>数据驱动的中转站选择</span>
       </div>
