@@ -1,6 +1,6 @@
 {
-  "updatedDate": "2026-07-20",
-  "generatedAt": "2026-07-20T00:10:06.335Z",
+  "updatedDate": "2026-07-21",
+  "generatedAt": "2026-07-21T00:10:04.389Z",
   "note": "所有数据来自于https://www.hvoy.ai 实时更新数据,全网最专业最靠谱的AI 中转站排行榜推荐",
   "sites": [
     {
@@ -18,10 +18,10 @@
         "OpenAI",
         "智谱"
       ],
-      "uptime": 97.8,
-      "latencyMs": 8060,
+      "uptime": 97.1,
+      "latencyMs": 8580,
       "userRating": 4.8,
-      "ratingCount": 53,
+      "ratingCount": 55,
       "paymentMethods": [
         "USDT",
         "微信",
@@ -33,6 +33,56 @@
     },
     {
       "rank": 2,
+      "name": "SudoCode",
+      "url": "https://www.hvoy.ai/sites/sudocodechat/",
+      "modelCount": 11,
+      "models": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "uptime": 100,
+      "latencyMs": 5020,
+      "userRating": 4.7,
+      "ratingCount": 6,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 3,
+      "name": "9527code",
+      "url": "https://www.hvoy.ai/sites/9527codecom/",
+      "modelCount": 27,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "DeepSeek",
+        "Google",
+        "MiniMax",
+        "月之暗面",
+        "阿里云",
+        "SpaceXAI",
+        "智谱"
+      ],
+      "uptime": 99.4,
+      "latencyMs": 5540,
+      "userRating": 5,
+      "ratingCount": 52,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 4,
       "name": "RightCode",
       "url": "https://www.hvoy.ai/sites/rightcodes/",
       "modelCount": 25,
@@ -46,8 +96,8 @@
         "SpaceXAI",
         "智谱"
       ],
-      "uptime": 96.5,
-      "latencyMs": 7180,
+      "uptime": 97.5,
+      "latencyMs": 7310,
       "userRating": 4.6,
       "ratingCount": 10,
       "paymentMethods": [
@@ -57,92 +107,7 @@
       "supportsInvoice": true
     },
     {
-      "rank": 3,
-      "name": "ToolCode",
-      "url": "https://www.hvoy.ai/sites/toolcodetop/",
-      "modelCount": 11,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 99.8,
-      "latencyMs": 4110,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 4,
-      "name": "9527code",
-      "url": "https://www.hvoy.ai/sites/9527codecom/",
-      "modelCount": 26,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "DeepSeek",
-        "Google",
-        "MiniMax",
-        "月之暗面",
-        "阿里云",
-        "SpaceXAI",
-        "智谱"
-      ],
-      "uptime": 99.7,
-      "latencyMs": 4940,
-      "userRating": 5,
-      "ratingCount": 51,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
       "rank": 5,
-      "name": "EiRouter",
-      "url": "https://www.hvoy.ai/sites/eiroutercom/",
-      "modelCount": 11,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 99.3,
-      "latencyMs": 4920,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 6,
-      "name": "NekoCode",
-      "url": "https://www.hvoy.ai/sites/nekocodeai/",
-      "modelCount": 11,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 95.7,
-      "latencyMs": 6030,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 7,
       "name": "灵算",
       "url": "https://www.hvoy.ai/sites/lingsuantop/",
       "modelCount": 10,
@@ -153,9 +118,9 @@
         "SpaceXAI"
       ],
       "uptime": 98.6,
-      "latencyMs": 6870,
+      "latencyMs": 6920,
       "userRating": 4.6,
-      "ratingCount": 10,
+      "ratingCount": 11,
       "paymentMethods": [
         "USDT",
         "微信",
@@ -167,7 +132,28 @@
       "supportsInvoice": true
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "name": "EiRouter",
+      "url": "https://www.hvoy.ai/sites/eiroutercom/",
+      "modelCount": 11,
+      "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 98.6,
+      "latencyMs": 5620,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 7,
       "name": "hao.ai",
       "url": "https://www.hvoy.ai/sites/haoai/",
       "modelCount": 11,
@@ -176,7 +162,7 @@
         "OpenAI"
       ],
       "uptime": 100,
-      "latencyMs": 3780,
+      "latencyMs": 4110,
       "userRating": 5,
       "ratingCount": 1,
       "paymentMethods": [
@@ -187,6 +173,25 @@
       ],
       "supportsRefund": true,
       "supportsInvoice": null
+    },
+    {
+      "rank": 8,
+      "name": "ToolCode",
+      "url": "https://www.hvoy.ai/sites/toolcodetop/",
+      "modelCount": 11,
+      "models": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "uptime": 99.7,
+      "latencyMs": 5470,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
     },
     {
       "rank": 9,
@@ -203,8 +208,8 @@
         "SpaceXAI",
         "智谱"
       ],
-      "uptime": 99.7,
-      "latencyMs": 6080,
+      "uptime": 99,
+      "latencyMs": 6820,
       "userRating": 5,
       "ratingCount": 1,
       "paymentMethods": [],
@@ -213,6 +218,25 @@
     },
     {
       "rank": 10,
+      "name": "Portal",
+      "url": "https://www.hvoy.ai/sites/portal123top/",
+      "modelCount": 5,
+      "models": [
+        "OpenAI"
+      ],
+      "uptime": 99.2,
+      "latencyMs": 12800,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 11,
       "name": "LLMAPI",
       "url": "https://www.hvoy.ai/sites/llmapipro/",
       "modelCount": 14,
@@ -221,8 +245,8 @@
         "OpenAI",
         "Google"
       ],
-      "uptime": 99.2,
-      "latencyMs": 5690,
+      "uptime": 99.1,
+      "latencyMs": 5630,
       "userRating": 3.5,
       "ratingCount": 4,
       "paymentMethods": [],
@@ -230,26 +254,26 @@
       "supportsInvoice": true
     },
     {
-      "rank": 11,
-      "name": "ModCon",
-      "url": "https://www.hvoy.ai/sites/modcontop/",
-      "modelCount": 11,
+      "rank": 12,
+      "name": "SevnX",
+      "url": "https://www.hvoy.ai/sites/sevnxone/",
+      "modelCount": 10,
       "models": [
-        "Anthropic",
-        "OpenAI"
+        "OpenAI",
+        "Anthropic"
       ],
-      "uptime": 99.4,
-      "latencyMs": 4640,
+      "uptime": 98.3,
+      "latencyMs": 5960,
       "userRating": 5,
-      "ratingCount": 1,
+      "ratingCount": 3,
       "paymentMethods": [
         "支付宝"
       ],
       "supportsRefund": null,
-      "supportsInvoice": true
+      "supportsInvoice": null
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "MoreCode",
       "url": "https://www.hvoy.ai/sites/api1314mcnet/",
       "modelCount": 26,
@@ -265,8 +289,8 @@
         "Xiaomi",
         "智谱"
       ],
-      "uptime": 99.7,
-      "latencyMs": 5280,
+      "uptime": 99.4,
+      "latencyMs": 5570,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [],
@@ -274,186 +298,7 @@
       "supportsInvoice": true
     },
     {
-      "rank": 13,
-      "name": "PackyCode",
-      "url": "https://www.hvoy.ai/sites/packyapicom/",
-      "modelCount": 28,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "Google",
-        "MiniMax",
-        "SpaceXAI",
-        "智谱",
-        "阿里云",
-        "DeepSeek",
-        "月之暗面",
-        "Xiaomi"
-      ],
-      "uptime": 99.3,
-      "latencyMs": 5170,
-      "userRating": 3.5,
-      "ratingCount": 2,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
       "rank": 14,
-      "name": "UU API",
-      "url": "https://www.hvoy.ai/sites/uuapinet/",
-      "modelCount": 15,
-      "models": [
-        "Anthropic",
-        "Google",
-        "OpenAI",
-        "SpaceXAI"
-      ],
-      "uptime": 99.9,
-      "latencyMs": 4040,
-      "userRating": 5,
-      "ratingCount": 14,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 15,
-      "name": "ccgo",
-      "url": "https://www.hvoy.ai/sites/ccgoaicom/",
-      "modelCount": 7,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 92.1,
-      "latencyMs": 5750,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 16,
-      "name": "GPTEAM",
-      "url": "https://www.hvoy.ai/sites/portalgpteamservicescom/",
-      "modelCount": 25,
-      "models": [
-        "Anthropic",
-        "DeepSeek",
-        "Google",
-        "MiniMax",
-        "月之暗面",
-        "OpenAI",
-        "SpaceXAI",
-        "Xiaomi",
-        "智谱"
-      ],
-      "uptime": 100,
-      "latencyMs": 6030,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 17,
-      "name": "Vibe SubsAPI",
-      "url": "https://www.hvoy.ai/sites/vibesubsapicom/",
-      "modelCount": 9,
-      "models": [],
-      "uptime": 100,
-      "latencyMs": 4980,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 18,
-      "name": "SudoCode",
-      "url": "https://www.hvoy.ai/sites/sudocodechat/",
-      "modelCount": 11,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 100,
-      "latencyMs": 4680,
-      "userRating": 4.7,
-      "ratingCount": 6,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 19,
-      "name": "LinkAi",
-      "url": "https://www.hvoy.ai/sites/linkaishop/",
-      "modelCount": 12,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "Google"
-      ],
-      "uptime": 100,
-      "latencyMs": 4540,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 20,
-      "name": "云渡",
-      "url": "https://www.hvoy.ai/sites/yundulat/",
-      "modelCount": 11,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 98.8,
-      "latencyMs": 4830,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 21,
       "name": "MuskAI",
       "url": "https://www.hvoy.ai/sites/apimuskapicc/",
       "modelCount": 27,
@@ -469,8 +314,8 @@
         "Xiaomi",
         "智谱"
       ],
-      "uptime": 100,
-      "latencyMs": 7950,
+      "uptime": 99.7,
+      "latencyMs": 8050,
       "userRating": 4.3,
       "ratingCount": 3,
       "paymentMethods": [],
@@ -478,15 +323,100 @@
       "supportsInvoice": null
     },
     {
-      "rank": 22,
-      "name": "baby",
-      "url": "https://www.hvoy.ai/sites/max20cn/",
-      "modelCount": 6,
+      "rank": 15,
+      "name": "ModCon",
+      "url": "https://www.hvoy.ai/sites/modcontop/",
+      "modelCount": 11,
       "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 100,
+      "latencyMs": 5450,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 16,
+      "name": "UU API",
+      "url": "https://www.hvoy.ai/sites/uuapinet/",
+      "modelCount": 15,
+      "models": [
+        "Anthropic",
+        "Google",
+        "OpenAI",
+        "SpaceXAI"
+      ],
+      "uptime": 99.7,
+      "latencyMs": 4580,
+      "userRating": 5,
+      "ratingCount": 14,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 17,
+      "name": "云渡",
+      "url": "https://www.hvoy.ai/sites/yundulat/",
+      "modelCount": 11,
+      "models": [
+        "OpenAI",
         "Anthropic"
       ],
-      "uptime": 88.2,
-      "latencyMs": 3340,
+      "uptime": 99.6,
+      "latencyMs": 5860,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 18,
+      "name": "ccgo",
+      "url": "https://www.hvoy.ai/sites/ccgoaicom/",
+      "modelCount": 7,
+      "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 91.9,
+      "latencyMs": 6210,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 19,
+      "name": "NekoCode",
+      "url": "https://www.hvoy.ai/sites/nekocodeai/",
+      "modelCount": 11,
+      "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 99.4,
+      "latencyMs": 7190,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [],
@@ -494,91 +424,7 @@
       "supportsInvoice": null
     },
     {
-      "rank": 23,
-      "name": "Frontier Intelligence",
-      "url": "https://www.hvoy.ai/sites/apifrontierintelligencetech/",
-      "modelCount": 11,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 99,
-      "latencyMs": 5130,
-      "userRating": 5,
-      "ratingCount": 5,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 24,
-      "name": "AOK",
-      "url": "https://www.hvoy.ai/sites/aokapicom/",
-      "modelCount": 11,
-      "models": [
-        "Anthropic",
-        "Google",
-        "OpenAI",
-        "智谱"
-      ],
-      "uptime": 99.5,
-      "latencyMs": 5330,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "支付宝",
-        "信用卡"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 25,
-      "name": "WorldBase.ai",
-      "url": "https://www.hvoy.ai/sites/worldbaseai/",
-      "modelCount": 13,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "智谱"
-      ],
-      "uptime": 96.2,
-      "latencyMs": 5200,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 26,
-      "name": "ForApi",
-      "url": "https://www.hvoy.ai/sites/forapiai/",
-      "modelCount": 11,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 99.7,
-      "latencyMs": 5140,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 27,
+      "rank": 20,
       "name": "Volt",
       "url": "https://www.hvoy.ai/sites/voltapiai/",
       "modelCount": 25,
@@ -593,8 +439,8 @@
         "智谱",
         "SpaceXAI"
       ],
-      "uptime": 100,
-      "latencyMs": 6260,
+      "uptime": 99.3,
+      "latencyMs": 5630,
       "userRating": 5,
       "ratingCount": 1,
       "paymentMethods": [
@@ -607,87 +453,46 @@
       "supportsInvoice": true
     },
     {
-      "rank": 28,
-      "name": "routescope",
-      "url": "https://www.hvoy.ai/sites/routescopeai/",
-      "modelCount": 10,
+      "rank": 21,
+      "name": "Vibe SubsAPI",
+      "url": "https://www.hvoy.ai/sites/vibesubsapicom/",
+      "modelCount": 9,
       "models": [],
-      "uptime": 99.7,
-      "latencyMs": 7040,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 29,
-      "name": "Toknex",
-      "url": "https://www.hvoy.ai/sites/toknexai/",
-      "modelCount": 13,
-      "models": [
-        "Anthropic",
-        "DeepSeek",
-        "OpenAI"
-      ],
-      "uptime": 99.5,
-      "latencyMs": 4590,
-      "userRating": 4.2,
-      "ratingCount": 5,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 30,
-      "name": "Chintao AI",
-      "url": "https://www.hvoy.ai/sites/chintaocn/",
-      "modelCount": 14,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "Google"
-      ],
-      "uptime": 99.4,
-      "latencyMs": 8000,
+      "uptime": 96.9,
+      "latencyMs": 5740,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 31,
-      "name": "DragToken",
-      "url": "https://www.hvoy.ai/sites/dragtokenscom/",
-      "modelCount": 14,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "SpaceXAI",
-        "xAI"
-      ],
-      "uptime": 96.4,
-      "latencyMs": 6260,
-      "userRating": 5,
-      "ratingCount": 48,
-      "paymentMethods": [
-        "微信",
         "支付宝",
         "对公转账"
       ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 22,
+      "name": "AOK",
+      "url": "https://www.hvoy.ai/sites/aokapicom/",
+      "modelCount": 11,
+      "models": [
+        "Anthropic",
+        "Google",
+        "OpenAI",
+        "智谱"
+      ],
+      "uptime": 98.8,
+      "latencyMs": 6570,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "支付宝",
+        "信用卡"
+      ],
       "supportsRefund": null,
       "supportsInvoice": null
     },
     {
-      "rank": 32,
+      "rank": 23,
       "name": "我的贾维斯",
       "url": "https://www.hvoy.ai/sites/apiaijwscom/",
       "modelCount": 8,
@@ -695,8 +500,8 @@
         "Anthropic",
         "OpenAI"
       ],
-      "uptime": 96.6,
-      "latencyMs": 5990,
+      "uptime": 99.3,
+      "latencyMs": 6110,
       "userRating": 4,
       "ratingCount": 4,
       "paymentMethods": [],
@@ -704,26 +509,7 @@
       "supportsInvoice": true
     },
     {
-      "rank": 33,
-      "name": "MueMod",
-      "url": "https://www.hvoy.ai/sites/muemodtop/",
-      "modelCount": 10,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 98.9,
-      "latencyMs": 5950,
-      "userRating": 5,
-      "ratingCount": 2,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 34,
+      "rank": 24,
       "name": "Moniker",
       "url": "https://www.hvoy.ai/sites/aimonikertop/",
       "modelCount": 19,
@@ -735,8 +521,8 @@
         "SpaceXAI",
         "智谱"
       ],
-      "uptime": 95.1,
-      "latencyMs": 7590,
+      "uptime": 97.2,
+      "latencyMs": 6830,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -746,57 +532,180 @@
       "supportsInvoice": true
     },
     {
-      "rank": 35,
-      "name": "滴滴打T",
-      "url": "https://www.hvoy.ai/sites/apiddtcom/",
+      "rank": 25,
+      "name": "baby",
+      "url": "https://www.hvoy.ai/sites/max20cn/",
+      "modelCount": 6,
+      "models": [
+        "Anthropic"
+      ],
+      "uptime": 95.8,
+      "latencyMs": 3770,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 26,
+      "name": "Z-API",
+      "url": "https://www.hvoy.ai/sites/apitmlabstore/",
+      "modelCount": 8,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "ByteDance"
+      ],
+      "uptime": 98.6,
+      "latencyMs": 6640,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 27,
+      "name": "Apizh",
+      "url": "https://www.hvoy.ai/sites/apizhnet/",
+      "modelCount": 7,
+      "models": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "uptime": 75.9,
+      "latencyMs": 5290,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 28,
+      "name": "LinkAi",
+      "url": "https://www.hvoy.ai/sites/linkaishop/",
+      "modelCount": 12,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "uptime": 95.5,
+      "latencyMs": 5440,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 29,
+      "name": "tallius.ai",
+      "url": "https://www.hvoy.ai/sites/apitalliusai/",
+      "modelCount": 15,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "DeepSeek",
+        "MiniMax"
+      ],
+      "uptime": 100,
+      "latencyMs": 6400,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "对公转账",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 30,
+      "name": "ForApi",
+      "url": "https://www.hvoy.ai/sites/forapiai/",
+      "modelCount": 11,
+      "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 98.8,
+      "latencyMs": 6610,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 31,
+      "name": "WorldBase.ai",
+      "url": "https://www.hvoy.ai/sites/worldbaseai/",
       "modelCount": 13,
       "models": [
         "OpenAI",
         "Anthropic",
-        "Google",
-        "SpaceXAI"
+        "智谱"
       ],
-      "uptime": 98.2,
-      "latencyMs": 5750,
+      "uptime": 93.5,
+      "latencyMs": 5250,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "信用卡"
+        "支付宝"
       ],
-      "supportsRefund": null,
+      "supportsRefund": true,
       "supportsInvoice": true
     },
     {
-      "rank": 36,
-      "name": "球球Token",
-      "url": "https://www.hvoy.ai/sites/qiuqiutokencom/",
-      "modelCount": 17,
+      "rank": 32,
+      "name": "Chintao AI",
+      "url": "https://www.hvoy.ai/sites/chintaocn/",
+      "modelCount": 14,
       "models": [
-        "OpenAI",
         "Anthropic",
-        "Google",
-        "SpaceXAI",
-        "xAI"
+        "OpenAI",
+        "Google"
       ],
-      "uptime": 98.2,
-      "latencyMs": 8640,
-      "userRating": 5,
-      "ratingCount": 1,
+      "uptime": 95.2,
+      "latencyMs": 7070,
+      "userRating": null,
+      "ratingCount": 0,
       "paymentMethods": [
-        "USDT",
         "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
+        "支付宝"
       ],
-      "supportsRefund": null,
+      "supportsRefund": true,
       "supportsInvoice": true
     },
     {
-      "rank": 37,
+      "rank": 33,
+      "name": "routescope",
+      "url": "https://www.hvoy.ai/sites/routescopeai/",
+      "modelCount": 10,
+      "models": [],
+      "uptime": 97.2,
+      "latencyMs": 7560,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 34,
       "name": "AIMZ",
       "url": "https://www.hvoy.ai/sites/mzlonetop/",
       "modelCount": 12,
@@ -805,8 +714,8 @@
         "Anthropic",
         "Google"
       ],
-      "uptime": 97.5,
-      "latencyMs": 9410,
+      "uptime": 99.2,
+      "latencyMs": 10040,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -818,128 +727,51 @@
       "supportsInvoice": true
     },
     {
-      "rank": 38,
-      "name": "浮生云算",
-      "url": "https://www.hvoy.ai/sites/fushengyunsuancom/",
-      "modelCount": 14,
+      "rank": 35,
+      "name": "relaycore",
+      "url": "https://www.hvoy.ai/sites/relaycorecn/",
+      "modelCount": 9,
+      "models": [],
+      "uptime": 94.2,
+      "latencyMs": 4920,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 36,
+      "name": "PackyCode",
+      "url": "https://www.hvoy.ai/sites/packyapicom/",
+      "modelCount": 28,
       "models": [
-        "OpenAI",
         "Anthropic",
+        "OpenAI",
+        "Google",
+        "MiniMax",
         "SpaceXAI",
-        "xAI"
-      ],
-      "uptime": 98.6,
-      "latencyMs": 9800,
-      "userRating": 5,
-      "ratingCount": 2,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 39,
-      "name": "tallius.ai",
-      "url": "https://www.hvoy.ai/sites/apitalliusai/",
-      "modelCount": 15,
-      "models": [
-        "Anthropic",
-        "OpenAI",
+        "智谱",
+        "阿里云",
         "DeepSeek",
-        "MiniMax"
+        "月之暗面",
+        "Xiaomi"
       ],
-      "uptime": 100,
-      "latencyMs": 6290,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 40,
-      "name": "Portal",
-      "url": "https://www.hvoy.ai/sites/portal123top/",
-      "modelCount": 5,
-      "models": [
-        "OpenAI"
-      ],
-      "uptime": 99.3,
-      "latencyMs": 7500,
-      "userRating": 5,
-      "ratingCount": 1,
+      "uptime": 88.8,
+      "latencyMs": 5870,
+      "userRating": 3.5,
+      "ratingCount": 2,
       "paymentMethods": [
         "微信",
         "支付宝"
       ],
       "supportsRefund": null,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 41,
-      "name": "Z-API",
-      "url": "https://www.hvoy.ai/sites/apitmlabstore/",
-      "modelCount": 8,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "ByteDance"
-      ],
-      "uptime": 94,
-      "latencyMs": 5910,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 42,
-      "name": "IKunCode",
-      "url": "https://www.hvoy.ai/sites/apiikuncodecc/",
-      "modelCount": 14,
-      "models": [
-        "Anthropic",
-        "Google",
-        "OpenAI"
-      ],
-      "uptime": 100,
-      "latencyMs": 5010,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
       "supportsInvoice": null
     },
     {
-      "rank": 43,
-      "name": "JBB金贝贝",
-      "url": "https://www.hvoy.ai/sites/jbbtcc/",
-      "modelCount": 19,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "DeepSeek",
-        "SpaceXAI",
-        "xAI"
-      ],
-      "uptime": 99.5,
-      "latencyMs": 7280,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 44,
+      "rank": 37,
       "name": "RunAPI",
       "url": "https://www.hvoy.ai/sites/runapico/",
       "modelCount": 27,
@@ -954,8 +786,8 @@
         "月之暗面",
         "智谱"
       ],
-      "uptime": 86.6,
-      "latencyMs": 4600,
+      "uptime": 86.4,
+      "latencyMs": 4570,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -967,7 +799,387 @@
       "supportsInvoice": true
     },
     {
+      "rank": 38,
+      "name": "Toknex",
+      "url": "https://www.hvoy.ai/sites/toknexai/",
+      "modelCount": 13,
+      "models": [
+        "Anthropic",
+        "DeepSeek",
+        "OpenAI"
+      ],
+      "uptime": 99.1,
+      "latencyMs": 4560,
+      "userRating": 4.8,
+      "ratingCount": 5,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 39,
+      "name": "91token",
+      "url": "https://www.hvoy.ai/sites/91tokencom/",
+      "modelCount": 15,
+      "models": [
+        "Anthropic",
+        "DeepSeek",
+        "Google",
+        "MiniMax",
+        "OpenAI",
+        "Xiaomi",
+        "xAI"
+      ],
+      "uptime": 100,
+      "latencyMs": 8210,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 40,
+      "name": "悟空API",
+      "url": "https://www.hvoy.ai/sites/wkapiclub/",
+      "modelCount": 17,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "SpaceXAI",
+        "智谱"
+      ],
+      "uptime": 97.2,
+      "latencyMs": 9450,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 41,
+      "name": "滴滴打T",
+      "url": "https://www.hvoy.ai/sites/apiddtcom/",
+      "modelCount": 13,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "SpaceXAI"
+      ],
+      "uptime": 81,
+      "latencyMs": 8050,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝",
+        "信用卡"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 42,
+      "name": "unity2",
+      "url": "https://www.hvoy.ai/sites/unity2ai/",
+      "modelCount": 14,
+      "models": [
+        "OpenAI",
+        "智谱",
+        "Anthropic",
+        "Google"
+      ],
+      "uptime": 89.6,
+      "latencyMs": 6890,
+      "userRating": 4.9,
+      "ratingCount": 7,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 43,
+      "name": "ClaudeCN",
+      "url": "https://www.hvoy.ai/sites/claudecntop/",
+      "modelCount": 18,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "DeepSeek",
+        "Google",
+        "MiniMax",
+        "智谱"
+      ],
+      "uptime": 98.8,
+      "latencyMs": 6410,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 44,
+      "name": "Euzhi",
+      "url": "https://www.hvoy.ai/sites/apieuzhicom/",
+      "modelCount": 5,
+      "models": [
+        "OpenAI"
+      ],
+      "uptime": 96.4,
+      "latencyMs": 13100,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
       "rank": 45,
+      "name": "浮生云算",
+      "url": "https://www.hvoy.ai/sites/fushengyunsuancom/",
+      "modelCount": 14,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "SpaceXAI",
+        "xAI"
+      ],
+      "uptime": 96.4,
+      "latencyMs": 10790,
+      "userRating": 5,
+      "ratingCount": 2,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 46,
+      "name": "词易",
+      "url": "https://www.hvoy.ai/sites/chiyicncom/",
+      "modelCount": 11,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "uptime": 99,
+      "latencyMs": 9050,
+      "userRating": 5,
+      "ratingCount": 5,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 47,
+      "name": "我的刀盾",
+      "url": "https://www.hvoy.ai/sites/daodunapicom/",
+      "modelCount": 15,
+      "models": [
+        "Anthropic",
+        "Google",
+        "OpenAI"
+      ],
+      "uptime": 83.7,
+      "latencyMs": 4700,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 48,
+      "name": "AutoRouter",
+      "url": "https://www.hvoy.ai/sites/autorouterio/",
+      "modelCount": 22,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "阿里云",
+        "DeepSeek",
+        "月之暗面",
+        "SpaceXAI",
+        "智谱"
+      ],
+      "uptime": 99.7,
+      "latencyMs": 5550,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 49,
+      "name": "Token-AI",
+      "url": "https://www.hvoy.ai/sites/tkenme/",
+      "modelCount": 8,
+      "models": [],
+      "uptime": 95.4,
+      "latencyMs": 11170,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": false,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 50,
+      "name": "智惠API",
+      "url": "https://www.hvoy.ai/sites/apiapi2cncom/",
+      "modelCount": 14,
+      "models": [
+        "Anthropic",
+        "Google",
+        "OpenAI",
+        "SpaceXAI"
+      ],
+      "uptime": 95.2,
+      "latencyMs": 9710,
+      "userRating": 5,
+      "ratingCount": 34,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 51,
+      "name": "zToken",
+      "url": "https://www.hvoy.ai/sites/aiztokendev/",
+      "modelCount": 4,
+      "models": [],
+      "uptime": 100,
+      "latencyMs": 6550,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 52,
+      "name": "Frontier Intelligence",
+      "url": "https://www.hvoy.ai/sites/apifrontierintelligencetech/",
+      "modelCount": 6,
+      "models": [
+        "OpenAI"
+      ],
+      "uptime": 65.5,
+      "latencyMs": 5640,
+      "userRating": 5,
+      "ratingCount": 5,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 53,
+      "name": "tokenshop",
+      "url": "https://www.hvoy.ai/sites/tokenshophomes/",
+      "modelCount": 11,
+      "models": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "uptime": 98.5,
+      "latencyMs": 5500,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 54,
+      "name": "夯炸了AI",
+      "url": "https://www.hvoy.ai/sites/apihangzhalecom/",
+      "modelCount": 15,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "uptime": 83.4,
+      "latencyMs": 6430,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 55,
+      "name": "Mintpop",
+      "url": "https://www.hvoy.ai/sites/mintpopai/",
+      "modelCount": 8,
+      "models": [],
+      "uptime": 99.4,
+      "latencyMs": 9170,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "信用卡"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 56,
       "name": "天枢",
       "url": "https://www.hvoy.ai/sites/tianshuorg/",
       "modelCount": 24,
@@ -982,8 +1194,8 @@
         "SpaceXAI",
         "智谱"
       ],
-      "uptime": 98.8,
-      "latencyMs": 7320,
+      "uptime": 80.7,
+      "latencyMs": 8420,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -994,324 +1206,9 @@
       ],
       "supportsRefund": true,
       "supportsInvoice": true
-    },
-    {
-      "rank": 46,
-      "name": "Lumin AI",
-      "url": "https://www.hvoy.ai/sites/ailuminaicc/",
-      "modelCount": 11,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 99.7,
-      "latencyMs": 5060,
-      "userRating": 5,
-      "ratingCount": 2,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 47,
-      "name": "SuiXiang",
-      "url": "https://www.hvoy.ai/sites/suixiangcom/",
-      "modelCount": 11,
-      "models": [],
-      "uptime": 99.3,
-      "latencyMs": 8490,
-      "userRating": 5,
-      "ratingCount": 2,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 48,
-      "name": "91token",
-      "url": "https://www.hvoy.ai/sites/91tokencom/",
-      "modelCount": 23,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "ByteDance",
-        "Google",
-        "MiniMax",
-        "月之暗面",
-        "xAI",
-        "DeepSeek",
-        "Xiaomi"
-      ],
-      "uptime": 100,
-      "latencyMs": 8720,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 49,
-      "name": "SevnX",
-      "url": "https://www.hvoy.ai/sites/sevnxone/",
-      "modelCount": 10,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 100,
-      "latencyMs": 5300,
-      "userRating": 5,
-      "ratingCount": 3,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 50,
-      "name": "unity2",
-      "url": "https://www.hvoy.ai/sites/unity2ai/",
-      "modelCount": 14,
-      "models": [
-        "OpenAI",
-        "智谱",
-        "Anthropic",
-        "Google"
-      ],
-      "uptime": 96.1,
-      "latencyMs": 6780,
-      "userRating": 4.9,
-      "ratingCount": 7,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 51,
-      "name": "我的刀盾",
-      "url": "https://www.hvoy.ai/sites/daodunapicom/",
-      "modelCount": 15,
-      "models": [
-        "Anthropic",
-        "Google",
-        "OpenAI"
-      ],
-      "uptime": 90.7,
-      "latencyMs": 4370,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 52,
-      "name": "Token-AI",
-      "url": "https://www.hvoy.ai/sites/tkenme/",
-      "modelCount": 8,
-      "models": [],
-      "uptime": 94.9,
-      "latencyMs": 9690,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": false,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 53,
-      "name": "AutoRouter",
-      "url": "https://www.hvoy.ai/sites/autorouterio/",
-      "modelCount": 22,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "阿里云",
-        "DeepSeek",
-        "月之暗面",
-        "SpaceXAI",
-        "智谱"
-      ],
-      "uptime": 98.7,
-      "latencyMs": 4740,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 54,
-      "name": "Mintpop",
-      "url": "https://www.hvoy.ai/sites/mintpopai/",
-      "modelCount": 8,
-      "models": [],
-      "uptime": 100,
-      "latencyMs": 6770,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "信用卡"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 55,
-      "name": "YKH.AI",
-      "url": "https://www.hvoy.ai/sites/apiykhai/",
-      "modelCount": 11,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 87.2,
-      "latencyMs": 5520,
-      "userRating": 5,
-      "ratingCount": 3,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 56,
-      "name": "zToken",
-      "url": "https://www.hvoy.ai/sites/aiztokendev/",
-      "modelCount": 4,
-      "models": [],
-      "uptime": 100,
-      "latencyMs": 6120,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": null
     },
     {
       "rank": 57,
-      "name": "AIGateHub",
-      "url": "https://www.hvoy.ai/sites/apivllmproxycom/",
-      "modelCount": 14,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "Google"
-      ],
-      "uptime": 98.1,
-      "latencyMs": 5530,
-      "userRating": 5,
-      "ratingCount": 2,
-      "paymentMethods": [
-        "USDT",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 58,
-      "name": "智惠API",
-      "url": "https://www.hvoy.ai/sites/apiapi2cncom/",
-      "modelCount": 14,
-      "models": [
-        "Anthropic",
-        "Google",
-        "OpenAI",
-        "SpaceXAI"
-      ],
-      "uptime": 87.1,
-      "latencyMs": 6120,
-      "userRating": 5,
-      "ratingCount": 34,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 59,
-      "name": "tokenshop",
-      "url": "https://www.hvoy.ai/sites/tokenshophomes/",
-      "modelCount": 11,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 97.9,
-      "latencyMs": 5540,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 60,
-      "name": "ClaudeCN",
-      "url": "https://www.hvoy.ai/sites/claudecntop/",
-      "modelCount": 15,
-      "models": [
-        "Anthropic",
-        "DeepSeek",
-        "OpenAI",
-        "MiniMax",
-        "智谱"
-      ],
-      "uptime": 90,
-      "latencyMs": 4180,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 61,
       "name": "聚星AI",
       "url": "https://www.hvoy.ai/sites/juxingaitop/",
       "modelCount": 19,
@@ -1323,8 +1220,8 @@
         "月之暗面",
         "智谱"
       ],
-      "uptime": 99.6,
-      "latencyMs": 13210,
+      "uptime": 96.3,
+      "latencyMs": 11500,
       "userRating": 3,
       "ratingCount": 2,
       "paymentMethods": [
@@ -1335,87 +1232,43 @@
       "supportsInvoice": null
     },
     {
-      "rank": 62,
-      "name": "luchikey",
-      "url": "https://www.hvoy.ai/sites/sub2apiluchikeycom/",
-      "modelCount": 21,
+      "rank": 58,
+      "name": "DragToken",
+      "url": "https://www.hvoy.ai/sites/dragtokenscom/",
+      "modelCount": 14,
       "models": [
         "OpenAI",
         "Anthropic",
-        "DeepSeek",
-        "Google",
-        "月之暗面",
         "SpaceXAI",
-        "智谱",
         "xAI"
       ],
-      "uptime": 98.7,
-      "latencyMs": 11760,
+      "uptime": 69.6,
+      "latencyMs": 6640,
       "userRating": 5,
-      "ratingCount": 4,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 63,
-      "name": "ClauqeAI",
-      "url": "https://www.hvoy.ai/sites/apiclauqeai/",
-      "modelCount": 6,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 90.5,
-      "latencyMs": 5370,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 64,
-      "name": "猪猪 API",
-      "url": "https://www.hvoy.ai/sites/kpzhucom/",
-      "modelCount": 12,
-      "models": [
-        "Anthropic",
-        "Google",
-        "OpenAI"
-      ],
-      "uptime": 95.4,
-      "latencyMs": 5630,
-      "userRating": null,
-      "ratingCount": 0,
+      "ratingCount": 48,
       "paymentMethods": [
         "微信",
         "支付宝",
         "对公转账"
       ],
-      "supportsRefund": true,
-      "supportsInvoice": true
+      "supportsRefund": null,
+      "supportsInvoice": null
     },
     {
-      "rank": 65,
+      "rank": 59,
       "name": "Poixe AI",
       "url": "https://www.hvoy.ai/sites/poixecom/",
-      "modelCount": 18,
+      "modelCount": 20,
       "models": [
         "Anthropic",
         "DeepSeek",
         "Google",
+        "月之暗面",
         "OpenAI",
         "SpaceXAI"
       ],
-      "uptime": 75.5,
-      "latencyMs": 4760,
+      "uptime": 74.4,
+      "latencyMs": 4680,
       "userRating": 5,
       "ratingCount": 1,
       "paymentMethods": [
@@ -1427,102 +1280,7 @@
       "supportsInvoice": null
     },
     {
-      "rank": 66,
-      "name": "AIHUB",
-      "url": "https://www.hvoy.ai/sites/aihubtop/",
-      "modelCount": 4,
-      "models": [],
-      "uptime": 90,
-      "latencyMs": 7340,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 67,
-      "name": "Apizh",
-      "url": "https://www.hvoy.ai/sites/apizhnet/",
-      "modelCount": 7,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 50,
-      "latencyMs": 6610,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 68,
-      "name": "瓦瓦AI",
-      "url": "https://www.hvoy.ai/sites/wawapitop/",
-      "modelCount": 12,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 89.3,
-      "latencyMs": 4960,
-      "userRating": 5,
-      "ratingCount": 24,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 69,
-      "name": "Euzhi",
-      "url": "https://www.hvoy.ai/sites/apieuzhicom/",
-      "modelCount": 5,
-      "models": [
-        "OpenAI"
-      ],
-      "uptime": 100,
-      "latencyMs": 12480,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 70,
-      "name": "词易",
-      "url": "https://www.hvoy.ai/sites/chiyicncom/",
-      "modelCount": 11,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "Google"
-      ],
-      "uptime": 97.5,
-      "latencyMs": 9120,
-      "userRating": 5,
-      "ratingCount": 5,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 71,
+      "rank": 60,
       "name": "SadAI",
       "url": "https://www.hvoy.ai/sites/sadaicc/",
       "modelCount": 8,
@@ -1531,8 +1289,8 @@
         "SpaceXAI",
         "Anthropic"
       ],
-      "uptime": 97.6,
-      "latencyMs": 9690,
+      "uptime": 85.2,
+      "latencyMs": 9520,
       "userRating": 5,
       "ratingCount": 2,
       "paymentMethods": [
@@ -1543,7 +1301,29 @@
       "supportsInvoice": null
     },
     {
-      "rank": 72,
+      "rank": 61,
+      "name": "AnPin AI",
+      "url": "https://www.hvoy.ai/sites/anpinai/",
+      "modelCount": 10,
+      "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 41.5,
+      "latencyMs": 10490,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 62,
       "name": "Apiporter",
       "url": "https://www.hvoy.ai/sites/apiportercom/",
       "modelCount": 22,
@@ -1555,8 +1335,8 @@
         "DeepSeek",
         "智谱"
       ],
-      "uptime": 84.8,
-      "latencyMs": 8980,
+      "uptime": 81,
+      "latencyMs": 10170,
       "userRating": 5,
       "ratingCount": 2,
       "paymentMethods": [
@@ -1567,95 +1347,163 @@
       "supportsInvoice": true
     },
     {
-      "rank": 73,
-      "name": "AnPin AI",
-      "url": "https://www.hvoy.ai/sites/anpinai/",
-      "modelCount": 10,
+      "rank": 63,
+      "name": "ClauqeAI",
+      "url": "https://www.hvoy.ai/sites/apiclauqeai/",
+      "modelCount": 6,
       "models": [
         "Anthropic",
         "OpenAI"
       ],
-      "uptime": 42.4,
-      "latencyMs": 9160,
+      "uptime": 86,
+      "latencyMs": 5220,
       "userRating": 5,
       "ratingCount": 1,
       "paymentMethods": [
-        "USDT",
         "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 74,
-      "name": "quotarouter",
-      "url": "https://www.hvoy.ai/sites/quotarouterai/",
-      "modelCount": 15,
-      "models": [
-        "Anthropic",
-        "DeepSeek",
-        "Google",
-        "OpenAI"
-      ],
-      "uptime": 87.6,
-      "latencyMs": 5860,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "信用卡"
+        "支付宝"
       ],
       "supportsRefund": true,
       "supportsInvoice": null
     },
     {
-      "rank": 75,
-      "name": "悟空API",
-      "url": "https://www.hvoy.ai/sites/wkapiclub/",
-      "modelCount": 17,
+      "rank": 64,
+      "name": "瓦瓦AI",
+      "url": "https://www.hvoy.ai/sites/wawapitop/",
+      "modelCount": 12,
       "models": [
         "OpenAI",
-        "Anthropic",
-        "Google",
-        "SpaceXAI",
-        "智谱"
+        "Anthropic"
       ],
-      "uptime": 99.5,
-      "latencyMs": 5650,
+      "uptime": 89,
+      "latencyMs": 6430,
       "userRating": 5,
-      "ratingCount": 1,
+      "ratingCount": 24,
       "paymentMethods": [
+        "微信",
         "支付宝"
       ],
       "supportsRefund": true,
       "supportsInvoice": true
     },
     {
-      "rank": 76,
-      "name": "Hiyo",
-      "url": "https://www.hvoy.ai/sites/codexhiyotop/",
+      "rank": 65,
+      "name": "辰数AI",
+      "url": "https://www.hvoy.ai/sites/xzgcasia/",
       "modelCount": 4,
-      "models": [
-        "OpenAI"
-      ],
-      "uptime": 100,
-      "latencyMs": 5760,
-      "userRating": 5,
-      "ratingCount": 1,
+      "models": [],
+      "uptime": 82.5,
+      "latencyMs": 11380,
+      "userRating": null,
+      "ratingCount": 0,
       "paymentMethods": [
-        "USDT",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 66,
+      "name": "AIHUB",
+      "url": "https://www.hvoy.ai/sites/aihubtop/",
+      "modelCount": 4,
+      "models": [],
+      "uptime": 83.8,
+      "latencyMs": 9380,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 67,
+      "name": "UoCode",
+      "url": "https://www.hvoy.ai/sites/uocodecom/",
+      "modelCount": 12,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "Google"
+      ],
+      "uptime": 91.1,
+      "latencyMs": 7430,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 68,
+      "name": "优兔API",
+      "url": "https://www.hvoy.ai/sites/apiyou2apicom/",
+      "modelCount": 13,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "SpaceXAI"
+      ],
+      "uptime": 94,
+      "latencyMs": 11880,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
         "微信",
         "支付宝",
         "信用卡"
       ],
       "supportsRefund": true,
-      "supportsInvoice": false
+      "supportsInvoice": null
     },
     {
-      "rank": 77,
+      "rank": 69,
+      "name": "JBB金贝贝",
+      "url": "https://www.hvoy.ai/sites/jbbtcc/",
+      "modelCount": 19,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "DeepSeek",
+        "SpaceXAI",
+        "xAI"
+      ],
+      "uptime": 63.4,
+      "latencyMs": 9150,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 70,
+      "name": "DawCode",
+      "url": "https://www.hvoy.ai/sites/dawclaudecodecom/",
+      "modelCount": 15,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "Google"
+      ],
+      "uptime": 63.1,
+      "latencyMs": 6030,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 71,
       "name": "A6api",
       "url": "https://www.hvoy.ai/sites/a6apicom/",
       "modelCount": 26,
@@ -1671,8 +1519,8 @@
         "智谱",
         "xAI"
       ],
-      "uptime": 97.3,
-      "latencyMs": 6410,
+      "uptime": 97.5,
+      "latencyMs": 7450,
       "userRating": 5,
       "ratingCount": 2,
       "paymentMethods": [
@@ -1684,93 +1532,37 @@
       "supportsInvoice": null
     },
     {
-      "rank": 78,
-      "name": "DawCode",
-      "url": "https://www.hvoy.ai/sites/dawclaudecodecom/",
-      "modelCount": 15,
+      "rank": 72,
+      "name": "Hiyo",
+      "url": "https://www.hvoy.ai/sites/codexhiyotop/",
+      "modelCount": 4,
       "models": [
-        "Anthropic",
-        "OpenAI",
-        "Google"
+        "OpenAI"
       ],
-      "uptime": 61.6,
-      "latencyMs": 5500,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 79,
-      "name": "优兔API",
-      "url": "https://www.hvoy.ai/sites/apiyou2apicom/",
-      "modelCount": 13,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "SpaceXAI"
-      ],
-      "uptime": 93.1,
-      "latencyMs": 9000,
-      "userRating": null,
-      "ratingCount": 0,
+      "uptime": 100,
+      "latencyMs": 7430,
+      "userRating": 5,
+      "ratingCount": 1,
       "paymentMethods": [
+        "USDT",
         "微信",
         "支付宝",
         "信用卡"
       ],
       "supportsRefund": true,
-      "supportsInvoice": null
+      "supportsInvoice": false
     },
     {
-      "rank": 80,
-      "name": "UoCode",
-      "url": "https://www.hvoy.ai/sites/uocodecom/",
-      "modelCount": 13,
+      "rank": 73,
+      "name": "ttflows",
+      "url": "https://www.hvoy.ai/sites/apittflowscom/",
+      "modelCount": 10,
       "models": [
         "Anthropic",
-        "OpenAI",
-        "Google"
+        "OpenAI"
       ],
-      "uptime": 73.9,
-      "latencyMs": 5930,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 81,
-      "name": "夯炸了AI",
-      "url": "https://www.hvoy.ai/sites/apihangzhalecom/",
-      "modelCount": 16,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "SpaceXAI"
-      ],
-      "uptime": 95.7,
-      "latencyMs": 6030,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 82,
-      "name": "ApiBasis",
-      "url": "https://www.hvoy.ai/sites/apibasiscom/",
-      "modelCount": 9,
-      "models": [],
-      "uptime": 71.7,
-      "latencyMs": 5770,
+      "uptime": 97.3,
+      "latencyMs": 6230,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -1780,7 +1572,30 @@
       "supportsInvoice": false
     },
     {
-      "rank": 83,
+      "rank": 74,
+      "name": "quotarouter",
+      "url": "https://www.hvoy.ai/sites/quotarouterai/",
+      "modelCount": 15,
+      "models": [
+        "Anthropic",
+        "DeepSeek",
+        "Google",
+        "OpenAI"
+      ],
+      "uptime": 82,
+      "latencyMs": 6160,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 75,
       "name": "onehop",
       "url": "https://www.hvoy.ai/sites/onehopai/",
       "modelCount": 21,
@@ -1793,8 +1608,8 @@
         "OpenAI",
         "智谱"
       ],
-      "uptime": 87.5,
-      "latencyMs": 6310,
+      "uptime": 96.1,
+      "latencyMs": 6690,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -1806,7 +1621,93 @@
       "supportsInvoice": null
     },
     {
-      "rank": 84,
+      "rank": 76,
+      "name": "AIGateHub",
+      "url": "https://www.hvoy.ai/sites/apivllmproxycom/",
+      "modelCount": 14,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "Google"
+      ],
+      "uptime": 84.7,
+      "latencyMs": 7310,
+      "userRating": 5,
+      "ratingCount": 2,
+      "paymentMethods": [
+        "USDT",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 77,
+      "name": "Dmxcode",
+      "url": "https://www.hvoy.ai/sites/kuaidmxcodecom/",
+      "modelCount": 17,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "Google",
+        "SpaceXAI",
+        "智谱"
+      ],
+      "uptime": 88.2,
+      "latencyMs": 9150,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 78,
+      "name": "RelayNest",
+      "url": "https://www.hvoy.ai/sites/relaynesttop/",
+      "modelCount": 11,
+      "models": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "uptime": 87.4,
+      "latencyMs": 7180,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 79,
+      "name": "猪猪 API",
+      "url": "https://www.hvoy.ai/sites/kpzhucom/",
+      "modelCount": 13,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "Google"
+      ],
+      "uptime": 75.8,
+      "latencyMs": 7000,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 80,
       "name": "SwitchBase",
       "url": "https://www.hvoy.ai/sites/switchbasevip/",
       "modelCount": 10,
@@ -1815,8 +1716,8 @@
         "OpenAI",
         "Google"
       ],
-      "uptime": 53.6,
-      "latencyMs": 10760,
+      "uptime": 53.5,
+      "latencyMs": 11050,
       "userRating": 5,
       "ratingCount": 3,
       "paymentMethods": [
@@ -1828,45 +1729,7 @@
       "supportsInvoice": true
     },
     {
-      "rank": 85,
-      "name": "ttflows",
-      "url": "https://www.hvoy.ai/sites/apittflowscom/",
-      "modelCount": 10,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 99.7,
-      "latencyMs": 7800,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 86,
-      "name": "RelayNest",
-      "url": "https://www.hvoy.ai/sites/relaynesttop/",
-      "modelCount": 11,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 93.3,
-      "latencyMs": 5730,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 87,
+      "rank": 81,
       "name": "Modelflare",
       "url": "https://www.hvoy.ai/sites/modelflaredev/",
       "modelCount": 10,
@@ -1876,8 +1739,8 @@
         "月之暗面",
         "SpaceXAI"
       ],
-      "uptime": 97.8,
-      "latencyMs": 5980,
+      "uptime": 97.6,
+      "latencyMs": 7390,
       "userRating": 5,
       "ratingCount": 1,
       "paymentMethods": [],
@@ -1885,7 +1748,7 @@
       "supportsInvoice": null
     },
     {
-      "rank": 88,
+      "rank": 82,
       "name": "ZZZ",
       "url": "https://www.hvoy.ai/sites/apiej2075com/",
       "modelCount": 13,
@@ -1894,8 +1757,8 @@
         "Anthropic",
         "SpaceXAI"
       ],
-      "uptime": 92.1,
-      "latencyMs": 9930,
+      "uptime": 72.9,
+      "latencyMs": 11340,
       "userRating": 5,
       "ratingCount": 1,
       "paymentMethods": [
@@ -1904,6 +1767,28 @@
       ],
       "supportsRefund": true,
       "supportsInvoice": true
+    },
+    {
+      "rank": 83,
+      "name": "ApiBasis",
+      "url": "https://www.hvoy.ai/sites/apibasiscom/",
+      "modelCount": 15,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "SpaceXAI",
+        "xAI"
+      ],
+      "uptime": 80.1,
+      "latencyMs": 6260,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": false
     }
   ]
 }
