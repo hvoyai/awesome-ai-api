@@ -1,6 +1,6 @@
 {
-  "updatedDate": "2026-09-11",
-  "generatedAt": "2026-09-11T00:10:06.553Z",
+  "updatedDate": "2026-09-12",
+  "generatedAt": "2026-09-12T00:10:06.621Z",
   "note": "所有数据来自于https://www.hvoyai.com 实时更新数据,全网最专业最靠谱的AI 中转站排行榜推荐",
   "sites": [
     {
@@ -30,6 +30,34 @@
     },
     {
       "rank": 2,
+      "name": "Ccode-AI",
+      "url": "https://www.hvoyai.com/sites/ccodedev/",
+      "description": "Ccode 是一家由企业团队长期运营的 AI API 服务平台，主要面向开发者、团队和企业客户。\n平台提供对应厂商的同款模型，不以低价模型替换标称模型；\n在模型版本、参数和上下文相同的情况下，模型能力与官方使用保持一致，但价格普遍低于官方 API。\n\n这家和很多依赖个人维护的小站路线不太一样。\nCcode 配有专业运营及技术团队，提供 7×24 小时技术支持与售后服务，重点投入在容量承接、运行稳定、故障响应和长期供应上，更适合持续调用、多人协作及企业生产环境。\n\n企业客户可以对公付款、申请发票。\nCcode 同时具备中国和海外企业主体，可根据客户所在地区、采购要求及模型服务范围匹配签约主体，并支持签署服务供应、数据隐私等相关合同。\n\n价格方面，Ccode 不一定是同行里最便宜的。\n它更适合愿意为稳定性、专业技术支持、售后响应和企业化交付多付一点成本的客户。\n符合条件的客户还可获得一定范围内的 AI 技能专项培训，以及智能体、工作流和 AI 产品定制等免费增值服务，具体内容和交付范围以双方确认的服务方案为准。\n\n如果只是偶尔调用、只追求最低价，Ccode 未必最划算；\n如果更在意模型真实性、长期稳定、合同发票，以及出了问题能够及时找到人处理，可以先用自己的真实业务小额测试，再决定是否长期使用。",
+      "establishedDate": "2026-05-01",
+      "modelCount": 25,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "智谱",
+        "xAI",
+        "DeepSeek",
+        "月之暗面"
+      ],
+      "uptime": 86.1,
+      "latencyMs": 9260,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "USDT",
+        "支付宝",
+        "对公转账",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 3,
       "name": "CUN.ai",
       "url": "https://www.hvoyai.com/sites/cunai/",
       "description": "CUN.ai 是一个面向开发者和团队的 AI 模型 API 聚合平台，提供 GPT、Claude、DeepSeek、Gemini、Qwen 等主流大模型的统一调用服务。用户可以通过一个 API Key 接入多种模型，适用于 AI 应用开发、Agent 构建、产品原型验证、接口测试和企业内部工具集成等场景。\n平台支持按量计费、套餐订阅、余额充值、模型价格透明展示等功能，帮助开发者更方便地管理模型调用成本，减少多平台账号配置和接口适配成本。CUN.ai 致力于为开发者提供稳定、便捷、高性价比的大模型 API 接入体验。",
@@ -46,8 +74,8 @@
         "智谱",
         "xAI"
       ],
-      "uptime": 83.2,
-      "latencyMs": 11550,
+      "uptime": 88.2,
+      "latencyMs": 11150,
       "userRating": 4.48936170212766,
       "ratingCount": 94,
       "paymentMethods": [
@@ -60,7 +88,29 @@
       "supportsInvoice": true
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "ModCon",
+      "url": "https://www.hvoyai.com/sites/modcontop/",
+      "description": "ModCon 专注提供 Codex，Claude Code一站式聚合中转服务。透明计费，价格有优势。稳定、充足、高性价比。只做有良心的中转站。",
+      "establishedDate": "2025-11-07",
+      "modelCount": 13,
+      "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 93.6,
+      "latencyMs": 8450,
+      "userRating": 5,
+      "ratingCount": 2,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 5,
       "name": "SudoCode",
       "url": "https://www.hvoyai.com/sites/sudocodechat/",
       "description": "2026 全新上线，专注提供 GPT（Codex）与 Claude 两类 API 服务，接口稳定可靠。\n价格如下：\nGPT-5.5 Codex-Plus分组为 ¥1 / ¥6（输入 / 输出）每百万 Token；\nOpus 4.8 CC-Max分组为 ¥7 / ¥35（输入 / 输出）每百万 Token。\n新用户注册可领取 10 元 Codex 日卡体验。\n支持开具发票，可对公转账。",
@@ -70,8 +120,8 @@
         "OpenAI",
         "Anthropic"
       ],
-      "uptime": 90.3,
-      "latencyMs": 10900,
+      "uptime": 89.7,
+      "latencyMs": 8610,
       "userRating": 4.75,
       "ratingCount": 8,
       "paymentMethods": [
@@ -84,25 +134,55 @@
       "supportsInvoice": true
     },
     {
-      "rank": 4,
-      "name": "灵算",
-      "url": "https://www.hvoyai.com/sites/lingsuantop/",
-      "description": "灵算依托官方号池，提供稳定、充足、高性价比的中转服务。我们致力于打造普通人也用得起的 AI 资源平台，让更多用户以更低成本轻松体验优质模型能力。",
-      "establishedDate": "2026-01-01",
-      "modelCount": 26,
+      "rank": 6,
+      "name": "9527code",
+      "url": "https://www.hvoyai.com/sites/9527codes/",
+      "description": "企业级 满血 高速 私有线路\n拒绝残血，拒绝套壳，只做满血官方模型。\n\n我们的 AI 中转站专为追求稳定性和模型质量的用户打造，提供高速、稳定、可靠的 AI 模型中转服务。平台核心服务器采用 10G 高带宽线路，保障请求快速响应，降低延迟，提升调用体验。\n\n我们承诺：\n百分百企业级别满血官方模型。\n不以次充好，不虚假宣传。\n所有模型假一赔百。\n\n无论你是做 AI 应用开发、企业内部系统、自动化工具，还是商业化项目接入，我们都能为你提供稳定可靠的接口支持。",
+      "establishedDate": "2025-10-20",
+      "modelCount": 42,
       "models": [
         "Anthropic",
         "OpenAI",
+        "DeepSeek",
+        "Google",
+        "MiniMax",
+        "月之暗面",
+        "阿里云",
+        "智谱",
+        "xAI"
+      ],
+      "uptime": 71.1,
+      "latencyMs": 10120,
+      "userRating": 4.836363636363636,
+      "ratingCount": 55,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 7,
+      "name": "Modelflare",
+      "url": "https://www.hvoyai.com/sites/originmodelflaredev/",
+      "description": "稳定接入 SOTA 模型。\n更优的模型价格。\nModelflare 为 AI 工具、应用和 Agent 提供稳定的模型请求服务，聚合多类前沿 SOTA 模型，并提供清晰的价格、用量与请求状态。",
+      "establishedDate": "2026-06-27",
+      "modelCount": 23,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "xAI",
         "阿里云",
         "DeepSeek",
         "Google",
         "月之暗面",
-        "智谱",
-        "xAI"
+        "智谱"
       ],
-      "uptime": 97.3,
-      "latencyMs": 10160,
-      "userRating": 4.428571428571429,
+      "uptime": 80.5,
+      "latencyMs": 11540,
+      "userRating": 3.5,
       "ratingCount": 14,
       "paymentMethods": [
         "USDT",
@@ -115,37 +195,7 @@
       "supportsInvoice": true
     },
     {
-      "rank": 5,
-      "name": "9527code",
-      "url": "https://www.hvoyai.com/sites/9527codes/",
-      "description": "企业级 满血 高速 私有线路\n拒绝残血，拒绝套壳，只做满血官方模型。\n\n我们的 AI 中转站专为追求稳定性和模型质量的用户打造，提供高速、稳定、可靠的 AI 模型中转服务。平台核心服务器采用 10G 高带宽线路，保障请求快速响应，降低延迟，提升调用体验。\n\n我们承诺：\n百分百企业级别满血官方模型。\n不以次充好，不虚假宣传。\n所有模型假一赔百。\n\n无论你是做 AI 应用开发、企业内部系统、自动化工具，还是商业化项目接入，我们都能为你提供稳定可靠的接口支持。",
-      "establishedDate": "2025-10-20",
-      "modelCount": 41,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "DeepSeek",
-        "Google",
-        "MiniMax",
-        "月之暗面",
-        "阿里云",
-        "智谱",
-        "xAI"
-      ],
-      "uptime": 81.8,
-      "latencyMs": 9730,
-      "userRating": 4.836363636363636,
-      "ratingCount": 55,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 6,
+      "rank": 8,
       "name": "MuskAI",
       "url": "https://www.hvoyai.com/sites/apimuskapicc/",
       "description": "全新系统架构，针对大模型场景优化。团队成立于 2022 年 12 月 11 日，专注大模型 API 中间层建设与稳定交付。\n您可以使用平台提供的 LLM API 接口轻松构建 AI 产品，同时也可以成为供应商，为平台提供大模型资源以赚取收益。",
@@ -165,162 +215,39 @@
         "智谱",
         "ByteDance"
       ],
-      "uptime": 98.3,
-      "latencyMs": 6470,
-      "userRating": 4.5,
-      "ratingCount": 4,
+      "uptime": 99,
+      "latencyMs": 6410,
+      "userRating": 4,
+      "ratingCount": 5,
       "paymentMethods": [],
       "supportsRefund": null,
       "supportsInvoice": null
     },
     {
-      "rank": 7,
-      "name": "Modelflare",
-      "url": "https://www.hvoyai.com/sites/originmodelflaredev/",
-      "description": "稳定接入 SOTA 模型。\n更优的模型价格。\nModelflare 为 AI 工具、应用和 Agent 提供稳定的模型请求服务，聚合多类前沿 SOTA 模型，并提供清晰的价格、用量与请求状态。",
-      "establishedDate": "2026-06-27",
-      "modelCount": 22,
+      "rank": 9,
+      "name": "云渡",
+      "url": "https://www.hvoyai.com/sites/yundulol/",
+      "description": "云渡 AI 中转平台专注于提供 AI 模型 API 接入服务，支持 OpenAI、Claude等主流模型，提供文本对话、代码生成、图像生成及多模态能力。兼容 OpenAI API 标准，可快速接入现有项目、客户端及各类 AI 应用。",
+      "establishedDate": "2026-02-12",
+      "modelCount": 19,
       "models": [
-        "Anthropic",
         "OpenAI",
-        "xAI",
-        "阿里云",
-        "DeepSeek",
-        "Google",
-        "月之暗面",
-        "智谱"
-      ],
-      "uptime": 76.1,
-      "latencyMs": 11990,
-      "userRating": 3.5,
-      "ratingCount": 14,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 8,
-      "name": "ALRO",
-      "url": "https://www.hvoyai.com/sites/alrohuazhiweilaicom/",
-      "description": "ALRO全模态AI模型聚合服务平台是面向个人与企业的全栈AI生产力基础设施。以词元工厂为核心中枢，深度融通异构尊力、多元横型与应用生态，实现从底层算力到词元的规模化制造、智能调度与价值流转。ALRO伴随式个人智能体、自适应协同工作流引学与全场景智能办公套件，构筑起从个人泛在伴随智能体，到企业白流进群体智能网络的实用生产力闭环。平台聚合国内外领先的大语言，图像生成、视频生成等多模态AI能力，通过统一楼型接入，灵活调用，格式互通，要及企业级管理能力，帮助用户降低AI应用门槛，提高人工智能使用效率，让AI直正成为每个人和每个组织的生产力工具。",
-      "establishedDate": "2026-01-09",
-      "modelCount": 27,
-      "models": [
         "Anthropic",
-        "OpenAI",
-        "DeepSeek",
-        "Google",
-        "MiniMax",
-        "月之暗面",
-        "Tencent Hunyuan",
-        "智谱",
         "xAI"
       ],
-      "uptime": 36,
-      "latencyMs": 10010,
-      "userRating": null,
-      "ratingCount": 0,
+      "uptime": 95.2,
+      "latencyMs": 7530,
+      "userRating": 5,
+      "ratingCount": 3,
       "paymentMethods": [
         "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 9,
-      "name": "Ccode-AI",
-      "url": "https://www.hvoyai.com/sites/ccodedev/",
-      "description": "Ccode 是一家由企业团队长期运营的 AI API 服务平台，主要面向开发者、团队和企业客户。\n平台提供对应厂商的同款模型，不以低价模型替换标称模型；\n在模型版本、参数和上下文相同的情况下，模型能力与官方使用保持一致，但价格普遍低于官方 API。\n\n这家和很多依赖个人维护的小站路线不太一样。\nCcode 配有专业运营及技术团队，提供 7×24 小时技术支持与售后服务，重点投入在容量承接、运行稳定、故障响应和长期供应上，更适合持续调用、多人协作及企业生产环境。\n\n企业客户可以对公付款、申请发票。\nCcode 同时具备中国和海外企业主体，可根据客户所在地区、采购要求及模型服务范围匹配签约主体，并支持签署服务供应、数据隐私等相关合同。\n\n价格方面，Ccode 不一定是同行里最便宜的。\n它更适合愿意为稳定性、专业技术支持、售后响应和企业化交付多付一点成本的客户。\n符合条件的客户还可获得一定范围内的 AI 技能专项培训，以及智能体、工作流和 AI 产品定制等免费增值服务，具体内容和交付范围以双方确认的服务方案为准。\n\n如果只是偶尔调用、只追求最低价，Ccode 未必最划算；\n如果更在意模型真实性、长期稳定、合同发票，以及出了问题能够及时找到人处理，可以先用自己的真实业务小额测试，再决定是否长期使用。",
-      "establishedDate": "2026-05-01",
-      "modelCount": 25,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "智谱",
-        "xAI",
-        "DeepSeek",
-        "月之暗面"
-      ],
-      "uptime": 78,
-      "latencyMs": 7610,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "USDT",
-        "支付宝",
-        "对公转账",
-        "信用卡"
+        "支付宝"
       ],
       "supportsRefund": true,
       "supportsInvoice": true
     },
     {
       "rank": 10,
-      "name": "88API Token聚合平台",
-      "url": "https://www.hvoyai.com/sites/88apiai/",
-      "description": "🧠 聚合 GPT、Claude、Gemini、Grok、DeepSeek 、Kimi、GLM等语言与编程模型；\n🎨 图片模型：GPT-Image、Gemini、Grok 等；\n🎬 视频模型：Seedance、Veo、MiniMax Hailuo H3、Kling、Grok 等；\n🎙️ 语音能力：Whisper、TTS 等。从文案、出图、改图，到视频生成与配音\n🎁新用户注册送体验额度，可以检测模型能力。站内有人工客服值守！\n👉海外企业资质运营 稳定不跑路 提供正规发票 充值比例1:1",
-      "establishedDate": "2026-05-01",
-      "modelCount": 33,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "DeepSeek",
-        "智谱",
-        "xAI",
-        "Google",
-        "MiniMax",
-        "月之暗面",
-        "Tencent Hunyuan",
-        "Xiaomi"
-      ],
-      "uptime": 91.4,
-      "latencyMs": 12570,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "USDT",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": false,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 11,
-      "name": "aicodemirror.ai",
-      "url": "https://www.hvoyai.com/sites/aicodemirrorai/",
-      "description": "AiCodeMirror 提供 Claude  / Codex / Gemini  官方高稳定中转服务，支持企业级高并发、极速开票、7×24 专属技术支持。 \nCodex 官方渠道低至 0.7折，可享受首充8折。注册即送8元永久额度～！！\n已累计服务400+企业/高校、20000+订阅用户、365+天稳定服务",
-      "establishedDate": "2025-02-25",
-      "modelCount": 9,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 84.1,
-      "latencyMs": 12880,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 12,
       "name": "hao.ai",
       "url": "https://www.hvoyai.com/sites/haoai/",
       "description": "hao.ai 是面向开发者和团队的大模型统一 API 网关，支持通过一个 API Key 接入 GPT、Claude、xAI Grok 等主流 AI 模型，并兼容 OpenAI、Anthropic、xAI Grok 等常用协议和 SDK。平台适合 AI 应用开发、编程助手、自动化工具、内容生成、企业内部系统等场景，帮助用户降低多模型接入和维护成本。\n\nhao.ai 的特色包括：OpenAI 兼容接口、Responses / Chat Completions 等常用 API、OpenAI Responses WebSocket 长连接支持、网页版 Chat 对话体验、多模型目录、模型价格对比、模型路由、故障回退和调用日志。平台提供完整的调用明细记录，用户可以查看每次请求的模型、API Key、调用时间、输入/输出用量、缓存用量、缓存命中率、延迟、状态、错误信息和费用明细，方便进行成本核算、问题排查和用量分析。\n\nhao.ai 支持团队管理能力，团队可以统一管理成员、API Key、钱包余额和使用权限，并为团队、成员或 API Key 设置不同的预算和限额，适合多人协作和企业内部项目使用。\n\n价格方面，hao.ai 采用按量计费模式，用户可以根据实际调用量使用不同模型，无需分别维护多个模型平台账号。平台提供清晰的模型价格展示和官方参考价对比，帮助用户在不同模型之间评估成本。\n\n服务方面，hao.ai 提供中文文档、API 文档、集成教程和技术支持，覆盖 Claude Code、Codex、Cursor、Cherry Studio、Chatbox 等常见开发工具和客户端，帮助用户快速完成接入和排查问题。",
@@ -331,10 +258,10 @@
         "OpenAI",
         "xAI"
       ],
-      "uptime": 84.6,
-      "latencyMs": 7750,
+      "uptime": 96.9,
+      "latencyMs": 6920,
       "userRating": 5,
-      "ratingCount": 2,
+      "ratingCount": 3,
       "paymentMethods": [
         "USDT",
         "微信",
@@ -346,19 +273,42 @@
       "supportsInvoice": true
     },
     {
-      "rank": 13,
-      "name": "jcode",
-      "url": "https://www.hvoyai.com/sites/jcodecc/",
-      "description": "**主推 Codex｜稳定 Pro 号池｜主打稳定**\n\n专注 Codex 使用体验，主打稳定，适合日常开发、长时间编码以及高频使用。\n\n### 站内计费方案\n\n**天卡｜¥10**\n\n* 含 **$50 额度**\n* 计费倍率：**1x**\n* 实际折合：**0.20 倍**\n* 一般可使用约 **4000～5000 万 Token**\n* 适合短期体验、临时使用\n\n**周卡｜¥70**\n\n* 含 **$400 额度**\n* 计费倍率：**1x**\n* 实际折合：**0.175 倍**\n* 更适合长期、高频使用\n\n**月卡｜¥300**\n\n* 含 **¥1800 额度**\n* 计费倍率：**1x**\n* 实际折合：**0.167 倍**\n* **额度无周限制，一次性发放**\n* 适合长期、高频、重度 Codex 用户\n* 月度额度更加充足，避免频繁补卡\n\n**余额按量｜0.25 倍**\n\n* 按实际使用量计费\n* 充值多少，用多少\n* 不限制固定套餐周期\n* 适合使用量不固定的用户",
-      "establishedDate": "2025-12-18",
-      "modelCount": 15,
+      "rank": 11,
+      "name": "木易(MueMod)",
+      "url": "https://www.hvoyai.com/sites/muemodtop/",
+      "description": "木易（MueMod） 定位于稳定、实惠的 AI 模型 API 中转平台，支持多种主流模型统一接入，价格透明、按量计费、用量清晰。平台持续优化线路与服务质量，并提供及时的技术支持和售后服务。",
+      "establishedDate": "2026-01-01",
+      "modelCount": 12,
       "models": [
         "Anthropic",
-        "Google",
         "OpenAI"
       ],
-      "uptime": 73.8,
-      "latencyMs": 5160,
+      "uptime": 98.7,
+      "latencyMs": 6340,
+      "userRating": 5,
+      "ratingCount": 2,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 12,
+      "name": "znbcode",
+      "url": "https://www.hvoyai.com/sites/znbcodecom/",
+      "description": "znbcode 同时提供 OpenAI 兼容接口（GPT / DeepSeek / Kimi 系）和 Anthropic 原生接口（Claude 系）。\n拿到密钥后，把你现有工具里的 Base URL 和 API Key 换掉即可，不需要改代码。",
+      "establishedDate": "2026-08-01",
+      "modelCount": 17,
+      "models": [
+        "Anthropic",
+        "DeepSeek",
+        "OpenAI",
+        "月之暗面",
+        "xAI"
+      ],
+      "uptime": 86.2,
+      "latencyMs": 15120,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -369,7 +319,137 @@
       "supportsInvoice": false
     },
     {
+      "rank": 13,
+      "name": "RunAPI",
+      "url": "https://www.hvoyai.com/sites/runapihost/",
+      "description": "RunAPI 是高效稳定的 AI 模型 API 中转平台，一个 API Key 即可访问 OpenAI、Claude、Gemini、DeepSeek、Grok 等 150+ 主流模型，低至 1 折，极其稳定，可以无缝兼容 Claude Code、OpenClaw 等工具。",
+      "establishedDate": "2025-01-15",
+      "modelCount": 47,
+      "models": [
+        "Anthropic",
+        "Google",
+        "OpenAI",
+        "月之暗面",
+        "智谱",
+        "xAI",
+        "阿里云",
+        "DeepSeek",
+        "MiniMax"
+      ],
+      "uptime": 89,
+      "latencyMs": 9810,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "支付宝",
+        "对公转账",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
       "rank": 14,
+      "name": "ToolCode",
+      "url": "https://www.hvoyai.com/sites/toolcodetop/",
+      "description": "Tool Code 致力于打造一个专供 GPT 用户使用的优质中转站，核心宗旨是以稳定且具性价比的方式持续提供服务。我们关注的不只是可用，更是长期体验上的稳定、响应效率和使用成本，让个人用户和团队用户都能用更合理的价格，获得更安心、更顺畅的 GPT 服务体验。",
+      "establishedDate": "2025-12-01",
+      "modelCount": 13,
+      "models": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "uptime": 94.8,
+      "latencyMs": 7600,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 15,
+      "name": "niccom",
+      "url": "https://www.hvoyai.com/sites/niccomcomcn/",
+      "description": "人工智能应用基座，别问我们怎么赚钱，只靠Token交朋友，智能远超预期\n官网：https://www.niccom.com.cn\n稳定token中转服务平台｜长效可用\n高效省心、持续更新、不掉线\n专注各类大模型与智能体服务✨",
+      "establishedDate": "2026-06-28",
+      "modelCount": 52,
+      "models": [
+        "DeepSeek",
+        "月之暗面",
+        "OpenAI",
+        "阿里云",
+        "MiniMax",
+        "智谱",
+        "Anthropic",
+        "Google",
+        "Tencent Hunyuan",
+        "Xiaomi",
+        "xAI",
+        "ByteDance"
+      ],
+      "uptime": 85.5,
+      "latencyMs": 13370,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 16,
+      "name": "TimeRoar AI",
+      "url": "https://www.hvoyai.com/sites/aitimeroaraicom/",
+      "description": "管转直连,提供企业级稳定的ai中转服务,稳定率99以上,正价账号绝不掺水,可以开票,支持企业对接服务",
+      "establishedDate": "2026-07-01",
+      "modelCount": 18,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "Cursor",
+        "xAI"
+      ],
+      "uptime": 100,
+      "latencyMs": 5510,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 17,
+      "name": "EiRouter",
+      "url": "https://www.hvoyai.com/sites/eirouterai/",
+      "description": "新用户注册即送体验额度，不用信用卡。一个账户调用 Claude、GPT、Gemini，页面价即结算价，输入、输出、缓存分开计费，无隐藏倍率。兼容 OpenAI / Anthropic，Cursor / Claude Code / Codex 只改 base_url。微信、支付宝、对公可付，可开发票、可退款。\n调用 https://eirouter.ai\n官方订阅可托管闲置额度，提供者留存 75%：https://cloud.eirouter.ai\nNew users get trial credit, no credit card. Page price is billed price. Host unused official quotas and keep 75% at cloud.eirouter.ai",
+      "establishedDate": "2026-06-05",
+      "modelCount": 12,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "DeepSeek"
+      ],
+      "uptime": 74.5,
+      "latencyMs": 8910,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 18,
       "name": "Moniker",
       "url": "https://www.hvoyai.com/sites/aimonikertop/",
       "description": "本站以 CCMax 纯血版 为核心，Codex-Pro 纯血号池 为辅，致力于为用户提供稳定、高质量的 AI API 服务。目前，大部分用户都选择使用 CCMax 分组，并凭借稳定的体验和纯血性能，获得了众多用户的一致好评。\n核心优势\n稳定的纯血号池\n号池稳定是本站最大的优势之一。我们长期维护纯血号池，持续优化可用性，确保用户能够获得稳定、流畅的使用体验。\n\n快速响应，高效解决问题\n我们始终坚持以用户体验为核心。无论是使用过程中遇到任何问题，还是模型异常、账号故障等情况，都会第一时间响应并处理，尽可能缩短问题恢复时间，让用户无后顾之忧。\n\n优质售后服务\n服务始终是本站最大的竞争力。我们重视每一位用户的反馈，坚持快速响应、积极沟通、高效解决问题，以专业、负责的态度做好每一次售后服务。对我们而言，每一位客户都值得认真对待。\n\n价格、稳定性与售后\nCCMax：采用官方 API 相同的计费方式，人民币 1:1 充值，价格约为官方 1.4 折。\nCodex：价格低至 0.06 元，兼顾高性价比与稳定体验。\n稳定性：长期保持 95%+ 的稳定可用率，持续优化号池质量。\n售后：快速响应、及时处理，是本站一直以来最受用户认可的优势，也是我们长期坚持的服务理念。\n\n我们希望提供的不仅是优惠的价格，更是稳定的号池、可靠的服务和持续的售后支持，让每一位用户都能安心、长期使用。",
@@ -385,8 +465,8 @@
         "月之暗面",
         "xAI"
       ],
-      "uptime": 88,
-      "latencyMs": 8110,
+      "uptime": 93.9,
+      "latencyMs": 8300,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -396,28 +476,61 @@
       "supportsInvoice": true
     },
     {
-      "rank": 15,
-      "name": "RunAPI",
-      "url": "https://www.hvoyai.com/sites/runapihost/",
-      "description": "RunAPI 是高效稳定的 AI 模型 API 中转平台，一个 API Key 即可访问 OpenAI、Claude、Gemini、DeepSeek、Grok 等 150+ 主流模型，低至 1 折，极其稳定，可以无缝兼容 Claude Code、OpenClaw 等工具。",
-      "establishedDate": "2025-01-15",
-      "modelCount": 46,
+      "rank": 19,
+      "name": "88API Token聚合平台",
+      "url": "https://www.hvoyai.com/sites/88apiai/",
+      "description": "🧠 聚合 GPT、Claude、Gemini、Grok、DeepSeek 、Kimi、GLM等语言与编程模型；\n🎨 图片模型：GPT-Image、Gemini、Grok 等；\n🎬 视频模型：Seedance、Veo、MiniMax Hailuo H3、Kling、Grok 等；\n🎙️ 语音能力：Whisper、TTS 等。从文案、出图、改图，到视频生成与配音\n🎁新用户注册送体验额度，可以检测模型能力。站内有人工客服值守！\n👉海外企业资质运营 稳定不跑路 提供正规发票 充值比例1:1",
+      "establishedDate": "2026-05-01",
+      "modelCount": 35,
       "models": [
         "Anthropic",
-        "Google",
         "OpenAI",
-        "月之暗面",
+        "DeepSeek",
         "智谱",
         "xAI",
+        "Google",
+        "MiniMax",
+        "月之暗面",
+        "Tencent Hunyuan",
+        "Xiaomi"
+      ],
+      "uptime": 89.1,
+      "latencyMs": 11870,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "USDT",
+        "支付宝",
+        "对公转账",
+        "信用卡"
+      ],
+      "supportsRefund": false,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 20,
+      "name": "灵算",
+      "url": "https://www.hvoyai.com/sites/lingsuantop/",
+      "description": "灵算依托官方号池，提供稳定、充足、高性价比的中转服务。我们致力于打造普通人也用得起的 AI 资源平台，让更多用户以更低成本轻松体验优质模型能力。",
+      "establishedDate": "2026-01-01",
+      "modelCount": 26,
+      "models": [
+        "Anthropic",
+        "OpenAI",
         "阿里云",
         "DeepSeek",
-        "MiniMax"
+        "Google",
+        "月之暗面",
+        "智谱",
+        "xAI"
       ],
-      "uptime": 84,
-      "latencyMs": 7090,
-      "userRating": null,
-      "ratingCount": 0,
+      "uptime": 94.7,
+      "latencyMs": 8530,
+      "userRating": 4.428571428571429,
+      "ratingCount": 14,
       "paymentMethods": [
+        "USDT",
+        "微信",
         "支付宝",
         "对公转账",
         "信用卡"
@@ -426,103 +539,32 @@
       "supportsInvoice": true
     },
     {
-      "rank": 16,
-      "name": "AutoRouter",
-      "url": "https://www.hvoyai.com/sites/autorouternet/",
-      "description": "AutoRouter 的核心价值在于帮助用户更高效地管理和调用多个 AI 模型或服务商。它通过智能路由、成本优化、故障切换和统一 API 接入，降低开发者的运维复杂度，同时提升 AI 应用的稳定性和成本可控性。",
-      "establishedDate": "2026-04-02",
-      "modelCount": 38,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "Google",
-        "阿里云",
-        "DeepSeek",
-        "月之暗面",
-        "Xiaomi",
-        "智谱",
-        "xAI"
-      ],
-      "uptime": 89.4,
-      "latencyMs": 9850,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 17,
-      "name": "木易(MueMod)",
-      "url": "https://www.hvoyai.com/sites/muemodtop/",
-      "description": "木易（MueMod） 定位于稳定、实惠的 AI 模型 API 中转平台，支持多种主流模型统一接入，价格透明、按量计费、用量清晰。平台持续优化线路与服务质量，并提供及时的技术支持和售后服务。",
-      "establishedDate": "2026-01-01",
-      "modelCount": 12,
+      "rank": 21,
+      "name": "aicodemirror.ai",
+      "url": "https://www.hvoyai.com/sites/aicodemirrorai/",
+      "description": "AiCodeMirror 提供 Claude  / Codex / Gemini  官方高稳定中转服务，支持企业级高并发、极速开票、7×24 专属技术支持。 \nCodex 官方渠道低至 0.7折，可享受首充8折。注册即送8元永久额度～！！\n已累计服务400+企业/高校、20000+订阅用户、365+天稳定服务",
+      "establishedDate": "2025-02-25",
+      "modelCount": 9,
       "models": [
         "Anthropic",
         "OpenAI"
       ],
-      "uptime": 99.5,
-      "latencyMs": 6390,
-      "userRating": 5,
-      "ratingCount": 2,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 18,
-      "name": "云渡",
-      "url": "https://www.hvoyai.com/sites/yundulol/",
-      "description": "云渡 AI 中转平台专注于提供 AI 模型 API 接入服务，支持 OpenAI、Claude等主流模型，提供文本对话、代码生成、图像生成及多模态能力。兼容 OpenAI API 标准，可快速接入现有项目、客户端及各类 AI 应用。",
-      "establishedDate": "2026-02-12",
-      "modelCount": 19,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "xAI"
-      ],
-      "uptime": 94.3,
-      "latencyMs": 9560,
-      "userRating": 5,
-      "ratingCount": 3,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 19,
-      "name": "Super Model",
-      "url": "https://www.hvoyai.com/sites/supermodelcc/",
-      "description": "Super Model 是面向开发者和团队的大模型统一 API 网关，支持通过一个 API Key 接入 Claude 、GPT等主流 AI 模型，并兼容Anthropic、 OpenAI等常用协议和 SDK。平台适合 AI 应用开发、编程助手、自动化工具、内容生成、企业内部系统等场景，帮助用户降低多模型接入和维护成本。\n\nSuper Model 的特色包括：Anthropic Messages 接口、OpenAI 兼容接口、Responses / Chat Completions 等常用 API、OpenAI Responses WebSocket 长连接支持。平台提供完整的调用明细记录，用户可以查看每次请求的模型、API Key、调用时间、输入/输出用量、缓存用量、缓存命中率、延迟、状态、错误信息和费用明细，方便进行成本核算、问题排查和用量分析。",
-      "establishedDate": "2026-08-20",
-      "modelCount": 12,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "xAI"
-      ],
-      "uptime": 97.7,
-      "latencyMs": 5110,
+      "uptime": 89.1,
+      "latencyMs": 12130,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
+        "USDT",
         "微信",
-        "支付宝"
+        "支付宝",
+        "对公转账",
+        "信用卡"
       ],
       "supportsRefund": true,
       "supportsInvoice": true
     },
     {
-      "rank": 20,
+      "rank": 22,
       "name": "YKH.AI",
       "url": "https://www.hvoyai.com/sites/apiykhai/",
       "description": "YKH·AI\nYou Know How.\nYKH 帮你理清想法、写出内容、做出判断，并把问题推进成行动。\n我们是一家可靠高效的 API 中转服务商，自建Pro、MAX号池，提供 Claude Code、Codex、Gemini 等多种服务的中转，稳定可开票。\n最低0.125元/刀，模型价格、倍率全部按照官方模型计算，联系右下角客服领取体验额度。",
@@ -532,8 +574,8 @@
         "OpenAI",
         "Anthropic"
       ],
-      "uptime": 85.2,
-      "latencyMs": 7560,
+      "uptime": 92.1,
+      "latencyMs": 8200,
       "userRating": 5,
       "ratingCount": 3,
       "paymentMethods": [
@@ -547,84 +589,210 @@
       "supportsInvoice": true
     },
     {
-      "rank": 21,
-      "name": "ModCon",
-      "url": "https://www.hvoyai.com/sites/modcontop/",
-      "description": "ModCon 专注提供 Codex，Claude Code一站式聚合中转服务。透明计费，价格有优势。稳定、充足、高性价比。只做有良心的中转站。",
-      "establishedDate": "2025-11-07",
-      "modelCount": 13,
+      "rank": 23,
+      "name": "jcode",
+      "url": "https://www.hvoyai.com/sites/jcodecc/",
+      "description": "**主推 Codex｜稳定 Pro 号池｜主打稳定**\n\n专注 Codex 使用体验，主打稳定，适合日常开发、长时间编码以及高频使用。\n\n### 站内计费方案\n\n**天卡｜¥10**\n\n* 含 **$50 额度**\n* 计费倍率：**1x**\n* 实际折合：**0.20 倍**\n* 一般可使用约 **4000～5000 万 Token**\n* 适合短期体验、临时使用\n\n**周卡｜¥70**\n\n* 含 **$400 额度**\n* 计费倍率：**1x**\n* 实际折合：**0.175 倍**\n* 更适合长期、高频使用\n\n**月卡｜¥300**\n\n* 含 **¥1800 额度**\n* 计费倍率：**1x**\n* 实际折合：**0.167 倍**\n* **额度无周限制，一次性发放**\n* 适合长期、高频、重度 Codex 用户\n* 月度额度更加充足，避免频繁补卡\n\n**余额按量｜0.25 倍**\n\n* 按实际使用量计费\n* 充值多少，用多少\n* 不限制固定套餐周期\n* 适合使用量不固定的用户",
+      "establishedDate": "2025-12-18",
+      "modelCount": 14,
       "models": [
         "Anthropic",
+        "Google",
         "OpenAI"
       ],
-      "uptime": 100,
-      "latencyMs": 10080,
-      "userRating": 5,
-      "ratingCount": 2,
+      "uptime": 48.2,
+      "latencyMs": 4260,
+      "userRating": null,
+      "ratingCount": 0,
       "paymentMethods": [
         "微信",
         "支付宝"
       ],
-      "supportsRefund": null,
-      "supportsInvoice": null
+      "supportsRefund": true,
+      "supportsInvoice": false
     },
     {
-      "rank": 22,
-      "name": "Toknex",
-      "url": "https://www.hvoyai.com/sites/toknexai/",
-      "description": "AI 聚合平台｜企业级大模型 API 服务\n\n我们专注于 AI 大模型 API 聚合与企业级集群服务，为开发者、企业团队、工作室及 AI 创业项目提供稳定、高并发、低延迟的全球化 AI 接入解决方案。\n\n通过统一接口即可快速接入多个主流 AI 模型，无需分别管理多个平台账号、计费体系与复杂配置，大幅降低开发与运维成本。\n\n---\n\n## 已全面支持模型\n\n✅ Claude 全系列模型\n\n✅ OpenAI GPT 全系列模型\n\n✅ Gemini 全系列模型\n\n✅ DeepSeek 全系列模型\n\n未来将持续接入更多领先模型与推理服务，打造真正的一站式 AI 聚合平台。\n\n---\n\n## 企业级底层架构\n\n为保障服务稳定性与可用性，我们采用全球多节点集群部署与智能路由架构。\n\n底层接入包括：\n\n• 官方 API 渠道\n\n• AWS Bedrock\n\n• OpenRouter\n\n• 海外云服务节点\n\n• 多区域智能路由\n\n• 多线路容灾切换\n\n通过多渠道智能调度机制，自动选择最优线路，降低延迟并提高成功率。\n\n---\n\n## 核心优势\n\n### 🚀 高并发集群架构\n\n支持数千用户同时在线调用。\n\n负载均衡自动分流，保障高峰期稳定运行。\n\n### ⚡ 极低延迟\n\n全球多区域节点部署。\n\n自动选择最优出口线路。\n\n### 🔄 智能容灾\n\n单线路异常自动切换。\n\n最大程度降低接口不可用风险。\n\n### 🛠 OpenAI 兼容接口\n\n兼容 OpenAI API 标准格式。\n\n支持现有项目快速迁移。\n\n无需大规模修改代码。\n\n### 🌊 Streaming 流式响应\n\n完整支持流式输出。\n\n适用于聊天机器人、AI 编程助手、自动化工作流等场景。\n\n### 🔑 多 Key 轮询\n\n支持企业级高并发调用。\n\n自动负载均衡与请求分流。\n\n### 🛡 长期稳定运营\n\n7×24 小时监控维护。\n\n持续优化线路质量与模型可用性。\n\n---\n\n# 订阅套餐\n\n## 🎉 休闲套餐（外包党首选）\n\n周末两天接单写代码，轻松回本。\n\n💰 $35 / 月\n\n📅 每周额度自动重置\n\n💵 每周额度：$50\n\n📈 月累计额度：最高 $250\n\n🚀 Claude Standard 分组\n\n相当于花费 $35 获得最高 $250 调用额度。\n\n---\n\n## 💻 Claude 开发套餐\n\n适合个人开发者与轻度项目开发。\n\n💰 $70 / 月\n\n📅 每周额度自动重置\n\n💵 每周额度：$100\n\n📈 月累计额度：最高 $500\n\n🚀 Claude Standard 分组\n\n相当于花费 $70 获得最高 $500 调用额度。\n\n---\n\n## 🔥 GPT 开发套餐\n\n开发代码、AI 应用、自动化项目首选。\n\n💰 $100 / 月\n\n📅 每周额度自动重置\n\n💵 每周额度：$150\n\n📈 月累计额度：最高 $750\n\n🚀 OpenAI Pro 分组\n\n相当于花费 $100 获得最高 $750 调用额度。\n\n---\n\n## ⭐ Claude 月度订阅（高配版）\n\n适合中重度开发用户、工作室及团队使用。\n\n💰 $150 / 月\n\n📅 每周额度自动重置\n\n💵 每周额度：$300\n\n📈 月累计额度：最高 $1500\n\n🚀 Claude Standard 分组\n\n相当于花费 $150 获得最高 $1500 调用额度。\n\n价值放大最高可达 10 倍。\n\n---\n\n# 适用场景\n\n✅ AI 聊天机器人\n\n✅ AI 编程助手\n\n✅ Cursor / Claude Code\n\n✅ Roo Code\n\n✅ Windsurf\n\n✅ Cherry Studio\n\n✅ Dify\n\n✅ Coze\n\n✅ 企业内部 AI 系统\n\n✅ 自动化工作流\n\n✅ AI SaaS 产品\n\n✅ 大规模推理调用\n\n---\n\n# 我们的承诺\n\n稳定，比低价更重要。\n\n持续运营，比短期活动更重要。\n\n对于开发者而言，最宝贵的不是省下几美元，而是在关键时刻 API 始终可用。\n\n我们持续投入服务器、线路优化与集群建设，只为提供长期、稳定、安全、高性能的 AI 接入体验。\n\n欢迎开发者、工作室、企业团队长期合作。",
-      "establishedDate": "2026-05-10",
-      "modelCount": 19,
+      "rank": 24,
+      "name": "AutoRouter",
+      "url": "https://www.hvoyai.com/sites/autorouternet/",
+      "description": "AutoRouter 的核心价值在于帮助用户更高效地管理和调用多个 AI 模型或服务商。它通过智能路由、成本优化、故障切换和统一 API 接入，降低开发者的运维复杂度，同时提升 AI 应用的稳定性和成本可控性。",
+      "establishedDate": "2026-04-02",
+      "modelCount": 40,
       "models": [
         "Anthropic",
-        "DeepSeek",
         "OpenAI",
+        "Google",
+        "阿里云",
+        "DeepSeek",
+        "月之暗面",
+        "Xiaomi",
+        "智谱",
         "xAI"
       ],
       "uptime": 78.8,
-      "latencyMs": 9150,
+      "latencyMs": 13580,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 25,
+      "name": "Euzhi",
+      "url": "https://www.hvoyai.com/sites/euzhivip/",
+      "description": "Euzhi API 公益站、优智图及相关服务均由 Euzhi自有上游资源与自建服务链路 统一调度。\n您的请求不会被转售给任何平台，也不会被用于与当前服务无关的用途。\n福利分组倍率0.08。所有分组都很稳定，首字1.5秒内高达98%。\n本站已针对长上下文与 Coding 场景做缓存优化。近期抽样显示，多数命中请求缓存占比可达 95% 以上。缓存命中越高，实际消耗越低。",
+      "establishedDate": "2026-05-01",
+      "modelCount": 11,
+      "models": [
+        "OpenAI",
+        "xAI"
+      ],
+      "uptime": 93.5,
+      "latencyMs": 12470,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 26,
+      "name": "LMU AI · 灵眸",
+      "url": "https://www.hvoyai.com/sites/apilmuaiai/",
+      "description": "LMU AI · 灵眸 是一家面向企业与开发者的高可用 AI 大模型中转平台。技术上采用多节点智能路由与自建账号池,保障 API 长期稳定可靠、低延迟流式响应,无突发掉线、限流或临时涨价。模型覆盖国内外主流大模型——Claude 全系(含 Claude Code / CC Max 专业池)、OpenAI 与 Codex、Google Gemini,以及智谱 GLM 等国产模型,一个接口全部打通。坚持原生模型直连、不注入、不降智、不掺水,价格长期稳定。平台由实体企业运营,支持正规开票,并承诺随时退款、0 手续费,真正做到\"试错零成本\",适合对稳定性与合规要求高的长期用户。",
+      "establishedDate": "2026-01-02",
+      "modelCount": 8,
+      "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 84.8,
+      "latencyMs": 9620,
       "userRating": 5,
-      "ratingCount": 4,
+      "ratingCount": 2,
       "paymentMethods": [
         "微信",
         "支付宝",
+        "对公转账",
         "信用卡"
       ],
       "supportsRefund": true,
       "supportsInvoice": true
     },
     {
-      "rank": 23,
-      "name": "XycAi(星道智能)",
-      "url": "https://www.hvoyai.com/sites/xycaius/",
-      "description": "企业级开放快速的wss接口，端点采用搬瓦工作为我们的cn2线路，和台湾一些线路作为163回程线路保证回程3网问题线路问题，我们是正规合规对外企业，我们与部分中转站不同，我们是合法合规（有正规大模型备案号，正规出海的其他一些资质）可以解决企业软件安全审查中上家数据合规性问题以及税务问题，因为现在软件上架要求的颇多难点，支持gpt、opus、豆包、DeepSeek、千问、可灵等——文本、视频与多模态,统一在一个 OpenAI 兼容接口之后。",
-      "establishedDate": "2025-11-04",
-      "modelCount": 42,
+      "rank": 27,
+      "name": "词易",
+      "url": "https://www.hvoyai.com/sites/chiyicncom/",
+      "description": "本网站专注于 GPT 接口中转与 AI 能力聚合服务，提供稳定高速的对话、绘图、生图等功能，适合开发者接入和个人用户使用。平台响应快、兼容性强、线路稳定，支持多模型调用与便捷管理，价格透明，售后及时，持续保障服务可用性与使用体验。",
+      "establishedDate": "2026-04-08",
+      "modelCount": 14,
       "models": [
         "OpenAI",
         "Anthropic",
-        "DeepSeek",
-        "Google",
-        "MiniMax",
-        "月之暗面",
-        "智谱",
-        "xAI"
+        "Google"
       ],
-      "uptime": 11.1,
-      "latencyMs": 9980,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [],
-      "supportsRefund": false,
+      "uptime": 95.2,
+      "latencyMs": 11230,
+      "userRating": 4.428571428571429,
+      "ratingCount": 7,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
       "supportsInvoice": true
     },
     {
-      "rank": 24,
+      "rank": 28,
+      "name": "CheapAI",
+      "url": "https://www.hvoyai.com/sites/cheapaiinfo/",
+      "description": "低价 + 让所有人都用得起 GPT 最顶尖的模型\n我们的理念\n我们相信，顶尖 AI 不应该被价格挡在门外。我们的理念很简单：低价 + 让所有人都用得起 GPT 最顶尖的模型。\n绝不掺水，不限制并发，欢迎任何人对接使用",
+      "establishedDate": "2026-08-30",
+      "modelCount": 18,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "阿里云",
+        "DeepSeek",
+        "月之暗面",
+        "智谱"
+      ],
+      "uptime": 81.5,
+      "latencyMs": 13060,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝",
+        "对公转账",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 29,
+      "name": "ccgo",
+      "url": "https://www.hvoyai.com/sites/ccgoaiclub/",
+      "description": "背景：维护团队是大厂背景的同学创建，有同学全职维护\n支持模型：GPT为一手自营号池，全部账号为正价带账单的Pro20x订阅号池，倍率为0.35；\nClaude模型上线为1.5倍率，cctest每小时检测https://cctest.ai/zh/status/ccgo-claude，向用户公开\n我们支持无理由退款，可以开发票，已注册公司和公户\n我们自营的GPT模型首字>6s的请求是减免50%的费用，>30s的请求减免100%的费用\n隐私方面，用户可以设置请求在转发至原厂AI 模型前，会先在ccgo服务器进行本地脱敏处理，自动将邮箱、手机号、IP 地址、API Key、Token、密码、私钥等敏感片段替换为占位符，从而降低敏感信息误传给上游模型的风险。",
+      "establishedDate": "2026-04-27",
+      "modelCount": 9,
+      "models": [
+        "Anthropic",
+        "Google",
+        "OpenAI"
+      ],
+      "uptime": 90.5,
+      "latencyMs": 13520,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 30,
+      "name": "Super Model",
+      "url": "https://www.hvoyai.com/sites/supermodelcc/",
+      "description": "Super Model 是面向开发者和团队的大模型统一 API 网关，支持通过一个 API Key 接入 Claude 、GPT等主流 AI 模型，并兼容Anthropic、 OpenAI等常用协议和 SDK。平台适合 AI 应用开发、编程助手、自动化工具、内容生成、企业内部系统等场景，帮助用户降低多模型接入和维护成本。\n\nSuper Model 的特色包括：Anthropic Messages 接口、OpenAI 兼容接口、Responses / Chat Completions 等常用 API、OpenAI Responses WebSocket 长连接支持。平台提供完整的调用明细记录，用户可以查看每次请求的模型、API Key、调用时间、输入/输出用量、缓存用量、缓存命中率、延迟、状态、错误信息和费用明细，方便进行成本核算、问题排查和用量分析。",
+      "establishedDate": "2026-08-20",
+      "modelCount": 12,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "xAI"
+      ],
+      "uptime": 79.8,
+      "latencyMs": 4100,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 31,
       "name": "UU API",
       "url": "https://www.hvoyai.com/sites/uuapiio/",
       "description": "由于8月初uuapi.net主域名被墙，现更换主域名为uuapi.io ，原.net域名开节点可正常使用，key无需更换。\nUU API 是面向全球开发者与企业的 AI 模型聚合平台，秉持「渠道透明、绝不掺水、绝不映射」的初心，所有模型均为官方直连或一手渠道，保证输出质量与官方一致。\n目前已为数千位开发者和上百家企业提供稳定的 AI 基础设施服务，做一个让开发者放心的良心站点。\nUU API  ——让每一次调用都值得。",
       "establishedDate": "",
-      "modelCount": 30,
+      "modelCount": 34,
       "models": [
         "Anthropic",
         "OpenAI",
@@ -635,8 +803,8 @@
         "智谱",
         "xAI"
       ],
-      "uptime": 78.2,
-      "latencyMs": 7730,
+      "uptime": 71,
+      "latencyMs": 8520,
       "userRating": 5,
       "ratingCount": 14,
       "paymentMethods": [
@@ -649,23 +817,49 @@
       "supportsInvoice": true
     },
     {
-      "rank": 25,
-      "name": "词易",
-      "url": "https://www.hvoyai.com/sites/chiyicncom/",
-      "description": "本网站专注于 GPT 接口中转与 AI 能力聚合服务，提供稳定高速的对话、绘图、生图等功能，适合开发者接入和个人用户使用。平台响应快、兼容性强、线路稳定，支持多模型调用与便捷管理，价格透明，售后及时，持续保障服务可用性与使用体验。",
-      "establishedDate": "2026-04-08",
+      "rank": 32,
+      "name": "瓦瓦AI",
+      "url": "https://www.hvoyai.com/sites/wawapiicom/",
+      "description": "🧠 模型满血 —— Claude / GPT 原生能力，支持任意测试\n🎬 视频全能 —— Grok、SD 2.0，文图视频一步到位\n🖼 图像生成 —— image2 高质量出图\n🎨 无限画布 —— 一键接入，创作不设边界\n⏱ 7×24 稳定 —— 全天候在线，不掉线不断流\n💎 高质服务 —— 享受上帝般服务\n最重要的是！加群享受免费额度！！快来体验吧",
+      "establishedDate": "2026-04-01",
       "modelCount": 14,
       "models": [
         "OpenAI",
-        "Anthropic",
-        "Google"
+        "Anthropic"
       ],
-      "uptime": 96.3,
-      "latencyMs": 11010,
-      "userRating": 4.428571428571429,
-      "ratingCount": 7,
+      "uptime": 85.6,
+      "latencyMs": 11100,
+      "userRating": 5,
+      "ratingCount": 26,
       "paymentMethods": [
+        "USDT",
         "微信",
+        "支付宝",
+        "对公转账",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 33,
+      "name": "AIGateHub",
+      "url": "https://www.hvoyai.com/sites/apivllmproxycom/",
+      "description": "本平台是面向开发者、团队与企业用户的高可用 AI API 中转与聚合服务，致力于提供稳定、低延迟、高性价比的大模型调用能力。平台支持 GPT、Claude、Gemini 等多种主流 AI 模型，通过统一 API 接口即可快速接入，适用于 AI 应用开发、Agent 构建、产品原型验证、自动化工具以及企业内部系统集成等多种场景。\n平台采用稳定资源池与多节点架构设计，结合 Cloudflare CDN 加速分发，有效降低国内访问延迟，提升接口响应速度与调用稳定性。支持高并发请求与多线路调度，能够更好地保障业务连续运行，为开发者提供长期稳定、可靠可用的 API 服务体验。\n同时，平台提供多域名容灾与灵活切换机制，持续优化线路质量与模型支持能力。客服长期在线，问题快速响应，接口异常及时处理，并坚持按量计费、价格透明、无隐形收费，帮助个人开发者、团队和企业以更低成本稳定接入 AI 能力。",
+      "establishedDate": "2026-04-24",
+      "modelCount": 23,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "Google",
+        "xAI"
+      ],
+      "uptime": 84.5,
+      "latencyMs": 10200,
+      "userRating": 5,
+      "ratingCount": 2,
+      "paymentMethods": [
+        "USDT",
         "支付宝",
         "对公转账"
       ],
@@ -673,7 +867,32 @@
       "supportsInvoice": true
     },
     {
-      "rank": 26,
+      "rank": 34,
+      "name": "OmniaKey",
+      "url": "https://www.hvoyai.com/sites/omniakeycom/",
+      "description": "大家好，我们是 OmniaKey团队，很高兴您看到我们的介绍，我们是一个专注 AI 编程场景的多模型 API 中转平台。\n\n团队具备海内外公司主体，核心成员来自国内互联网大厂，如百度、字节、阿里，拥有多年研发与产品经验。\n\n当前平台服务了上千名客户，数百名企业级客户，可开对公发票～\n\nGPT、Claude、Gemini、Grok、GLM、Qwen 等主流模型我们均支持\n\n给您介绍一下当前价格： - GPT 系列省 93% - Claude 系列省 80% - Gemini、Grok、GLM、Qwen 等模型也可按需切换\n\n平台按量计费，无掺水，有的只是偶尔运营活动的降价\n\n感谢您看到这里，有问题欢迎随时咨询官方的中文客服处理，谢谢～\n\n官网：https://omniakey.com/zh 价格：https://omniakey.com/zh#pricing 注册：https://omniakey.com/zh/register 客服：https://t.me/OmniaKey",
+      "establishedDate": "2025-08-02",
+      "modelCount": 8,
+      "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 100,
+      "latencyMs": 4850,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝",
+        "对公转账",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 35,
       "name": "8sToken",
       "url": "https://www.hvoyai.com/sites/8stokencom/",
       "description": "8sToken | 企业级满血 AI API 中继平台\n\n私有专线・官方原模・拒绝残血套壳，假一赔百\n\n当前 AI 中转市场鱼龙混杂，残血阉割模型效果缩水、多层套壳渠道延迟卡顿、参数掺假暗藏合规风险，正成为追求品质的团队落地 AI 业务的核心障碍。\n\n8sToken 专为看重模型原生质量与调用稳定性的企业与开发者打造，我们拒绝降配缩水、拒绝多层套壳、拒绝公网限速，坚持提供百分百满血官方模型，搭配企业级私有高速线路，同时内置全链路 API 治理能力，让每一次调用都原汁原味、稳定高效、安全可控。\n\n百分百满血官方原模，假一赔百品质承诺\n\n我们坚守品质底线，绝不以次充好、不虚假宣传。\n全量模型均接入官方正版渠道，覆盖 GPT、Gemini、Claude 及全系国产大模型，前沿版本同步更新。\n完整保留模型原生能力与输出逻辑，无参数阉割、无功能缩水，调用效果与官方渠道完全一致。\n郑重承诺所有模型假一赔百，品质透明可验证，杜绝任何残血、套壳、掺假行为。\n\n10G 私有专属线路，高速稳定低延迟\n\n平台核心服务器采用 10G 高带宽私有专线部署，搭配独立资源集群，彻底摆脱公网拥堵与波动。\n请求直达官方节点，大幅降低传输延迟，保障每一次调用快速响应。\n专属资源物理隔离，高并发场景下不掉速、不排队，业务高峰时段依然流畅稳定。\nClaude 全部分组全新扩容专属集群，调用速率与并发承载能力全面升级。\n\n企业级治理架构，支撑规模化业务落地\n\n不止于高速中转，8sToken 更是完整的企业级 AI API 治理底座，为业务规模化提供可靠支撑。\n统一接入入口，一套标准调用协议适配所有模型，业务侧一次接入即可灵活切换，上游模型变更对业务无扰动。\n全链路策略编排，路由分发、限流配额、降级容灾、异常重试全链路策略化管理，按需动态调整，无需修改业务代码。\n统一安全边界，密钥、身份、权限、调用范围统一纳管，开发、测试、生产多环境严格隔离，全程调用可审计追溯。\n灵活部署方案，支持公有云、私有化部署、混合架构，适配不同企业的安全等级与基建现状。\n\n全场景适配，全程服务护航\n\n无论是 AI 应用产品研发、企业内部智能系统搭建、自动化工具部署，还是商业化项目批量接入，8sToken 都能提供稳定可靠的接口支撑。使用平台 API 可享专属技术对接支持，配套工具安装服务全程护航，助力业务快速落地。\n\n立即开启满血高速的企业级 AI 调用体验\n官网：[https://8stoken.com](https://link.wtturl.cn/?target=https%3A%2F%2F8stoken.com&scene=im&aid=582478&lang=zh)\n咨询与技术支持：客服 QQ 1722533695（服务时间 9:00-22:00）",
@@ -692,8 +911,8 @@
         "Xiaomi",
         "智谱"
       ],
-      "uptime": 78,
-      "latencyMs": 13130,
+      "uptime": 76.1,
+      "latencyMs": 13100,
       "userRating": 5,
       "ratingCount": 4,
       "paymentMethods": [
@@ -706,7 +925,7 @@
       "supportsInvoice": true
     },
     {
-      "rank": 27,
+      "rank": 36,
       "name": "Cavoti API",
       "url": "https://www.hvoyai.com/sites/cavoticom/",
       "description": "Cavoti API （https://cavoti.com/）是全球领先的 AI API 聚合平台，专注于为开发者提供稳定、高效、一站式的大模型 API 访问服务。平台支持 Claude、Claude Code、GPT、Codex、Gemini、Azure OpenAI 等主流模型，通过统一标准接口，让开发者无需管理多个账号和密钥，即可轻松集成各类 AI 能力。\n核心优势与服务特点：\n\n极致稳定可靠：承诺 99.9% 在线率，针对国内开发者深度优化，尤其适合 Claude Code、Codex CLI 等专业开发场景长期稳定运行。\n丰富模型覆盖：全面接入 Claude 系列、GPT 系列、Gemini 等最新主流模型，满足聊天对话、代码生成、工具集成等多场景需求。\n便捷低成本接入：完全兼容官方 API 格式，接入简单，文档完善，新用户注册即可获得余额奖励，降低使用门槛。\n透明计费与管理：价格透明、与官方保持一致性，支持按量付费和实时用量监控，适合个人开发者、团队及生产环境使用。\n\n无论您是构建 AI 应用、进行智能代码辅助开发，还是日常工具集成，Cavoti API  都能提供稳定可靠的 API 支持，助力开发者提升效率并有效控制成本。",
@@ -716,247 +935,14 @@
         "OpenAI",
         "Anthropic"
       ],
-      "uptime": 89.6,
-      "latencyMs": 10930,
+      "uptime": 79.3,
+      "latencyMs": 11550,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
         "USDT",
         "微信",
         "支付宝",
-        "信用卡"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 28,
-      "name": "Plinero",
-      "url": "https://www.hvoyai.com/sites/plinerocom/",
-      "description": "Plinero 是一站式 AI 模型接口服务平台，面向个人开发者及企业团队，整合了 GPT、Claude、DeepSeek、Gemini、Qwen 等多类热门模型。用户只需使用一个 API Key，即可快速访问不同模型，满足 AI 应用开发、Agent 搭建、产品测试、接口调试以及企业内部系统接入等需求。\n\n平台提供灵活的用量计费和订阅方案，并支持账户充值、模型价格查询等功能，让调用成本更加清晰可控。通过统一的接口和账户体系，Plinero 能够减少多平台配置与重复适配工作，为开发者带来更高效、稳定且具备成本优势的模型调用体验。",
-      "establishedDate": "2026-06-20",
-      "modelCount": 10,
-      "models": [
-        "Anthropic",
-        "DeepSeek",
-        "月之暗面",
-        "智谱"
-      ],
-      "uptime": 84.3,
-      "latencyMs": 10870,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "USDT",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 29,
-      "name": "TimeRoar AI",
-      "url": "https://www.hvoyai.com/sites/aitimeroaraicom/",
-      "description": "管转直连,提供企业级稳定的ai中转服务,稳定率99以上,正价账号绝不掺水,可以开票,支持企业对接服务",
-      "establishedDate": "2026-07-01",
-      "modelCount": 18,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "Cursor",
-        "xAI"
-      ],
-      "uptime": 71.5,
-      "latencyMs": 6250,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 30,
-      "name": "LMU AI · 灵眸",
-      "url": "https://www.hvoyai.com/sites/apilmuaiai/",
-      "description": "LMU AI · 灵眸 是一家面向企业与开发者的高可用 AI 大模型中转平台。技术上采用多节点智能路由与自建账号池,保障 API 长期稳定可靠、低延迟流式响应,无突发掉线、限流或临时涨价。模型覆盖国内外主流大模型——Claude 全系(含 Claude Code / CC Max 专业池)、OpenAI 与 Codex、Google Gemini,以及智谱 GLM 等国产模型,一个接口全部打通。坚持原生模型直连、不注入、不降智、不掺水,价格长期稳定。平台由实体企业运营,支持正规开票,并承诺随时退款、0 手续费,真正做到\"试错零成本\",适合对稳定性与合规要求高的长期用户。",
-      "establishedDate": "2026-01-02",
-      "modelCount": 8,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 74.6,
-      "latencyMs": 8950,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 31,
-      "name": "瓦瓦AI",
-      "url": "https://www.hvoyai.com/sites/wawapiicom/",
-      "description": "🧠 模型满血 —— Claude / GPT 原生能力，支持任意测试\n🎬 视频全能 —— Grok、SD 2.0，文图视频一步到位\n🖼 图像生成 —— image2 高质量出图\n🎨 无限画布 —— 一键接入，创作不设边界\n⏱ 7×24 稳定 —— 全天候在线，不掉线不断流\n💎 高质服务 —— 享受上帝般服务\n最重要的是！加群享受免费额度！！快来体验吧",
-      "establishedDate": "2026-04-01",
-      "modelCount": 14,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 82.3,
-      "latencyMs": 12090,
-      "userRating": 5,
-      "ratingCount": 26,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 32,
-      "name": "Euzhi",
-      "url": "https://www.hvoyai.com/sites/euzhivip/",
-      "description": "Euzhi API 公益站、优智图及相关服务均由 Euzhi自有上游资源与自建服务链路 统一调度。\n您的请求不会被转售给任何平台，也不会被用于与当前服务无关的用途。\n福利分组倍率0.08。所有分组都很稳定，首字1.5秒内高达98%。\n本站已针对长上下文与 Coding 场景做缓存优化。近期抽样显示，多数命中请求缓存占比可达 95% 以上。缓存命中越高，实际消耗越低。",
-      "establishedDate": "2026-05-01",
-      "modelCount": 11,
-      "models": [
-        "OpenAI",
-        "xAI"
-      ],
-      "uptime": 88.1,
-      "latencyMs": 15790,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 33,
-      "name": "niccom",
-      "url": "https://www.hvoyai.com/sites/niccomcomcn/",
-      "description": "人工智能应用基座，别问我们怎么赚钱，只靠Token交朋友，智能远超预期\n官网：https://www.niccom.com.cn\n稳定token中转服务平台｜长效可用\n高效省心、持续更新、不掉线\n专注各类大模型与智能体服务✨",
-      "establishedDate": "2026-06-28",
-      "modelCount": 51,
-      "models": [
-        "DeepSeek",
-        "月之暗面",
-        "OpenAI",
-        "阿里云",
-        "MiniMax",
-        "智谱",
-        "Anthropic",
-        "Google",
-        "Tencent Hunyuan",
-        "Xiaomi",
-        "xAI",
-        "ByteDance"
-      ],
-      "uptime": 71.4,
-      "latencyMs": 13090,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 34,
-      "name": "ccgo",
-      "url": "https://www.hvoyai.com/sites/ccgoaiclub/",
-      "description": "背景：维护团队是大厂背景的同学创建，有同学全职维护\n支持模型：GPT为一手自营号池，全部账号为正价带账单的Pro20x订阅号池，倍率为0.35；\nClaude模型上线为1.5倍率，cctest每小时检测https://cctest.ai/zh/status/ccgo-claude，向用户公开\n我们支持无理由退款，可以开发票，已注册公司和公户\n我们自营的GPT模型首字>6s的请求是减免50%的费用，>30s的请求减免100%的费用\n隐私方面，用户可以设置请求在转发至原厂AI 模型前，会先在ccgo服务器进行本地脱敏处理，自动将邮箱、手机号、IP 地址、API Key、Token、密码、私钥等敏感片段替换为占位符，从而降低敏感信息误传给上游模型的风险。",
-      "establishedDate": "2026-04-27",
-      "modelCount": 9,
-      "models": [
-        "Anthropic",
-        "Google",
-        "OpenAI"
-      ],
-      "uptime": 78.8,
-      "latencyMs": 15060,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 35,
-      "name": "AIGateHub",
-      "url": "https://www.hvoyai.com/sites/apivllmproxycom/",
-      "description": "本平台是面向开发者、团队与企业用户的高可用 AI API 中转与聚合服务，致力于提供稳定、低延迟、高性价比的大模型调用能力。平台支持 GPT、Claude、Gemini 等多种主流 AI 模型，通过统一 API 接口即可快速接入，适用于 AI 应用开发、Agent 构建、产品原型验证、自动化工具以及企业内部系统集成等多种场景。\n平台采用稳定资源池与多节点架构设计，结合 Cloudflare CDN 加速分发，有效降低国内访问延迟，提升接口响应速度与调用稳定性。支持高并发请求与多线路调度，能够更好地保障业务连续运行，为开发者提供长期稳定、可靠可用的 API 服务体验。\n同时，平台提供多域名容灾与灵活切换机制，持续优化线路质量与模型支持能力。客服长期在线，问题快速响应，接口异常及时处理，并坚持按量计费、价格透明、无隐形收费，帮助个人开发者、团队和企业以更低成本稳定接入 AI 能力。",
-      "establishedDate": "2026-04-24",
-      "modelCount": 22,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "Google",
-        "xAI"
-      ],
-      "uptime": 83.1,
-      "latencyMs": 12830,
-      "userRating": 5,
-      "ratingCount": 2,
-      "paymentMethods": [
-        "USDT",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 36,
-      "name": "Modelsell",
-      "url": "https://www.hvoyai.com/sites/modelsellcom/",
-      "description": "企业级Models 统一 API 网关，统一接入 OpenAI、Claude、Gemini、DeepSeek 和私有渠道，并提供共享密钥、计费、故障路由与实时请求可见性。 折扣最低 0.5 折",
-      "establishedDate": "2025-07-01",
-      "modelCount": 47,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "DeepSeek",
-        "Google",
-        "智谱",
-        "月之暗面",
-        "阿里云",
-        "MiniMax",
-        "xAI",
-        "Tencent Hunyuan",
-        "Xiaomi"
-      ],
-      "uptime": 97.9,
-      "latencyMs": 7500,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "对公转账",
         "信用卡"
       ],
       "supportsRefund": null,
@@ -964,35 +950,29 @@
     },
     {
       "rank": 37,
-      "name": "A6api",
-      "url": "https://www.hvoyai.com/sites/a6apicom/",
-      "description": "A6API开放商家入驻，聚合全网所有AI模型资源，支持智能比价与自动调度，优先匹配低价稳定渠道，让用户以更低成本调用GPT、Claude、Gemini、DeepSeek、Grok、Qwen、Kimi、豆包、Llama、Midjourney、Suno等全网AI模型。",
-      "establishedDate": "2025-03-01",
-      "modelCount": 37,
+      "name": "酷API",
+      "url": "https://www.hvoyai.com/sites/kuapicc/",
+      "description": "计费支付：采用灵活透明的计费模式，以人民币（RMB）为结算单位，按百万Token消耗量精准计费。支持微信支付及企业对公转账，并可开具正规增值税发票，满足企业财务合规需求。\n架构韧性：全栈自研引擎，经受过千万级并发请求的压测考验，故障恢复时间（MTTR）控制在行业领先水平。\n网络基建：独享3Gbps海外专属带宽通道，采用动态路由优化算法，有效规避网络抖动，确保跨境业务无缝衔接。\n模型反应：优质模型，响应迅速，claude首字3秒，gpt首字1.5秒，长流不截断，失败不扣费。\n交易便捷：接入微信支付接口，支持即时充值；同时支持企业合同签署与发票开具全流程。\n运维保障：提供VIP售后响应群，由资深技术工程师驻群服务，7x24小时护航。\n服务与承诺：我们坚持“高端定制，服务先行”的理念，为每一位企业客户配备专属售后支持群，提供即时、专业的技术响应。价格定位处于市场中高端区间，这源于我们对硬件性能与链路质量的极致追求——在商业场景中，稳定性即是最高的性价比。",
+      "establishedDate": "2026-07-04",
+      "modelCount": 18,
       "models": [
-        "阿里云",
         "Anthropic",
         "DeepSeek",
-        "Google",
-        "MiniMax",
         "月之暗面",
         "OpenAI",
-        "Tencent Hunyuan",
-        "Xiaomi",
         "智谱",
         "xAI"
       ],
-      "uptime": 78.5,
-      "latencyMs": 13090,
-      "userRating": 5,
-      "ratingCount": 4,
+      "uptime": 82.5,
+      "latencyMs": 8240,
+      "userRating": null,
+      "ratingCount": 0,
       "paymentMethods": [
-        "USDT",
         "微信",
-        "支付宝"
+        "对公转账"
       ],
-      "supportsRefund": null,
-      "supportsInvoice": null
+      "supportsRefund": true,
+      "supportsInvoice": true
     },
     {
       "rank": 38,
@@ -1014,8 +994,8 @@
         "Tencent Hunyuan",
         "Xiaomi"
       ],
-      "uptime": 83,
-      "latencyMs": 11360,
+      "uptime": 91.3,
+      "latencyMs": 8540,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -1029,6 +1009,296 @@
     },
     {
       "rank": 39,
+      "name": "Modelsell",
+      "url": "https://www.hvoyai.com/sites/modelsellcom/",
+      "description": "企业级Models 统一 API 网关，统一接入 OpenAI、Claude、Gemini、DeepSeek 和私有渠道，并提供共享密钥、计费、故障路由与实时请求可见性。 折扣最低 0.5 折",
+      "establishedDate": "2025-07-01",
+      "modelCount": 48,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "DeepSeek",
+        "Google",
+        "智谱",
+        "月之暗面",
+        "阿里云",
+        "MiniMax",
+        "xAI",
+        "Tencent Hunyuan",
+        "Xiaomi"
+      ],
+      "uptime": 98.4,
+      "latencyMs": 7110,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝",
+        "对公转账",
+        "信用卡"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 40,
+      "name": "A6api",
+      "url": "https://www.hvoyai.com/sites/a6apicom/",
+      "description": "A6API开放商家入驻，聚合全网所有AI模型资源，支持智能比价与自动调度，优先匹配低价稳定渠道，让用户以更低成本调用GPT、Claude、Gemini、DeepSeek、Grok、Qwen、Kimi、豆包、Llama、Midjourney、Suno等全网AI模型。",
+      "establishedDate": "2025-03-01",
+      "modelCount": 37,
+      "models": [
+        "阿里云",
+        "Anthropic",
+        "DeepSeek",
+        "Google",
+        "MiniMax",
+        "月之暗面",
+        "OpenAI",
+        "Tencent Hunyuan",
+        "Xiaomi",
+        "智谱",
+        "xAI"
+      ],
+      "uptime": 87.7,
+      "latencyMs": 14770,
+      "userRating": 5,
+      "ratingCount": 4,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 41,
+      "name": "Toknex",
+      "url": "https://www.hvoyai.com/sites/toknexai/",
+      "description": "AI 聚合平台｜企业级大模型 API 服务\n\n我们专注于 AI 大模型 API 聚合与企业级集群服务，为开发者、企业团队、工作室及 AI 创业项目提供稳定、高并发、低延迟的全球化 AI 接入解决方案。\n\n通过统一接口即可快速接入多个主流 AI 模型，无需分别管理多个平台账号、计费体系与复杂配置，大幅降低开发与运维成本。\n\n---\n\n## 已全面支持模型\n\n✅ Claude 全系列模型\n\n✅ OpenAI GPT 全系列模型\n\n✅ Gemini 全系列模型\n\n✅ DeepSeek 全系列模型\n\n未来将持续接入更多领先模型与推理服务，打造真正的一站式 AI 聚合平台。\n\n---\n\n## 企业级底层架构\n\n为保障服务稳定性与可用性，我们采用全球多节点集群部署与智能路由架构。\n\n底层接入包括：\n\n• 官方 API 渠道\n\n• AWS Bedrock\n\n• OpenRouter\n\n• 海外云服务节点\n\n• 多区域智能路由\n\n• 多线路容灾切换\n\n通过多渠道智能调度机制，自动选择最优线路，降低延迟并提高成功率。\n\n---\n\n## 核心优势\n\n### 🚀 高并发集群架构\n\n支持数千用户同时在线调用。\n\n负载均衡自动分流，保障高峰期稳定运行。\n\n### ⚡ 极低延迟\n\n全球多区域节点部署。\n\n自动选择最优出口线路。\n\n### 🔄 智能容灾\n\n单线路异常自动切换。\n\n最大程度降低接口不可用风险。\n\n### 🛠 OpenAI 兼容接口\n\n兼容 OpenAI API 标准格式。\n\n支持现有项目快速迁移。\n\n无需大规模修改代码。\n\n### 🌊 Streaming 流式响应\n\n完整支持流式输出。\n\n适用于聊天机器人、AI 编程助手、自动化工作流等场景。\n\n### 🔑 多 Key 轮询\n\n支持企业级高并发调用。\n\n自动负载均衡与请求分流。\n\n### 🛡 长期稳定运营\n\n7×24 小时监控维护。\n\n持续优化线路质量与模型可用性。\n\n---\n\n# 订阅套餐\n\n## 🎉 休闲套餐（外包党首选）\n\n周末两天接单写代码，轻松回本。\n\n💰 $35 / 月\n\n📅 每周额度自动重置\n\n💵 每周额度：$50\n\n📈 月累计额度：最高 $250\n\n🚀 Claude Standard 分组\n\n相当于花费 $35 获得最高 $250 调用额度。\n\n---\n\n## 💻 Claude 开发套餐\n\n适合个人开发者与轻度项目开发。\n\n💰 $70 / 月\n\n📅 每周额度自动重置\n\n💵 每周额度：$100\n\n📈 月累计额度：最高 $500\n\n🚀 Claude Standard 分组\n\n相当于花费 $70 获得最高 $500 调用额度。\n\n---\n\n## 🔥 GPT 开发套餐\n\n开发代码、AI 应用、自动化项目首选。\n\n💰 $100 / 月\n\n📅 每周额度自动重置\n\n💵 每周额度：$150\n\n📈 月累计额度：最高 $750\n\n🚀 OpenAI Pro 分组\n\n相当于花费 $100 获得最高 $750 调用额度。\n\n---\n\n## ⭐ Claude 月度订阅（高配版）\n\n适合中重度开发用户、工作室及团队使用。\n\n💰 $150 / 月\n\n📅 每周额度自动重置\n\n💵 每周额度：$300\n\n📈 月累计额度：最高 $1500\n\n🚀 Claude Standard 分组\n\n相当于花费 $150 获得最高 $1500 调用额度。\n\n价值放大最高可达 10 倍。\n\n---\n\n# 适用场景\n\n✅ AI 聊天机器人\n\n✅ AI 编程助手\n\n✅ Cursor / Claude Code\n\n✅ Roo Code\n\n✅ Windsurf\n\n✅ Cherry Studio\n\n✅ Dify\n\n✅ Coze\n\n✅ 企业内部 AI 系统\n\n✅ 自动化工作流\n\n✅ AI SaaS 产品\n\n✅ 大规模推理调用\n\n---\n\n# 我们的承诺\n\n稳定，比低价更重要。\n\n持续运营，比短期活动更重要。\n\n对于开发者而言，最宝贵的不是省下几美元，而是在关键时刻 API 始终可用。\n\n我们持续投入服务器、线路优化与集群建设，只为提供长期、稳定、安全、高性能的 AI 接入体验。\n\n欢迎开发者、工作室、企业团队长期合作。",
+      "establishedDate": "2026-05-10",
+      "modelCount": 19,
+      "models": [
+        "Anthropic",
+        "DeepSeek",
+        "OpenAI",
+        "xAI"
+      ],
+      "uptime": 61.8,
+      "latencyMs": 12340,
+      "userRating": 5,
+      "ratingCount": 4,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 42,
+      "name": "模方",
+      "url": "https://www.hvoyai.com/sites/apimodelscubecom/",
+      "description": "Modelscube 一站式 AI 模型接口平台，多类大模型全覆盖，线路稳定、资费低廉，极速响应，7×24 小时在线售后，适配开发商用场景。",
+      "establishedDate": "2026-01-02",
+      "modelCount": 21,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "DeepSeek"
+      ],
+      "uptime": 99.7,
+      "latencyMs": 5630,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 43,
+      "name": "Like·AI",
+      "url": "https://www.hvoyai.com/sites/likeaicc/",
+      "description": "Like·AI—— AI 大模型中转站，为开发者提供纯净、高效的算力通道\n🚀 站点定位\n我们是专注于AI 大模型API中转的技术服务型平台，主打不掺水、低倍率、超稳定。7x24小时服务，为您提供最原汁原味的模型调用体验。\n\n✨ 核心优势\n真·不掺水（Zero Tampering）\n我们承诺：无参数篡改，无回传截断，无水文填充。所有请求透传至源站，返回原始数据流。您调用 temperature=0 就是0，max_tokens 绝不被恶意占用，确保您在调试和生产环境中的结果一致性。\n极致低倍率（Low Multiplier）\n拒绝行业高倍率的“智商税”。我们采用接近官方成本的定价策略，倍率远低于市场平均水平。用量越大，单价越低，让您的项目在推理成本上拥有绝对的竞争优势。\n企业级稳定性（Enterprise Stability）\n自建高性能中转节点，优化国际链路。支持多Key轮询与自动熔断，单点故障不影响业务运行。配合智能限流与重试机制，保障高并发场景下的持续可用性。\n\n🛠️ 服务特点\n全模型兼容：无缝对接 GPT-5.6、Claude 5.0、Gemini 3.5 等主流及最新模型。\n原生流式传输：完美支持 Stream 模式，首字延迟（TTFB）极低，打字机效果流畅自然。\nOpenAI 兼容接口：仅需修改 base_url，无需改动现有代码逻辑，迁移成本为零。\n实时用量监控：后台提供精细到每一分钱的账单系统，支持按日/周/月统计，消费明明白白。\n\n💰 价格体系\n公开透明：官网实时公示各模型价格，无隐藏收费。\n灵活计费：支持按量付费，账户余额永不过期。\n阶梯折扣：针对高频调用用户（企业级），提供专属VIP低价通道，请联系客服洽谈。\n\n🔒 稳定性保障\n99.9% SLA：我们致力于提供高可用服务，基础设施冗余部署。\n心跳监测：7x24小时自动化监控节点状态，故障秒级切换。\n高并发支持：底层架构支持弹性扩容，从容应对流量洪峰。\n\n📞 售后服务\n极速响应：Telegram/工单系统支持，技术人员在线答疑，拒绝机器人套话。\n技术赋能：不仅解决调用问题，更能提供模型选型、Prompt 优化等专业建议。\n专属通道：高等级用户配备一对一客户经理，享受优先技术支持。\n【立即接入，体验纯粹的AI算力】\n访问官网：https://like-ai.cc",
+      "establishedDate": "2026-01-01",
+      "modelCount": 17,
+      "models": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "uptime": 90.4,
+      "latencyMs": 8610,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 44,
+      "name": "远桥云 API",
+      "url": "https://www.hvoyai.com/sites/yuanqiaoyuncom/",
+      "description": "🚀 远桥云 API｜为 Codex、Claude Code 和 Agent 开发者提供多模型 API 服务\n\n⚡ GPT / Claude / Grok / Gemini 及国内外主流模型统一接入\n🧑‍💻 Codex、Claude Code、Agent、OpenAI SDK 等开发场景直接使用\n🔑 一个 API Key 调用多种模型，无需反复切换平台\n📊 模型价格、调用日志、Token 消耗和余额清晰可查\n📚 提供完整接入文档，新手也可以快速跑通\n🎁 新用户提供测试额度，进群领额度，先测试再使用",
+      "establishedDate": "2026-05-14",
+      "modelCount": 30,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "Google",
+        "月之暗面",
+        "智谱",
+        "ByteDance",
+        "DeepSeek",
+        "xAI"
+      ],
+      "uptime": 83.9,
+      "latencyMs": 11800,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 45,
+      "name": "Yomi API",
+      "url": "https://www.hvoyai.com/sites/yomiapicom/",
+      "description": "Yomi API 是 AI 大模型 API 聚合平台。传统中转站只解决\"连得上\"，Yomi 更进一步——专注解决\"用得高效\"：把多模型选型、比价、性能监控、统一计费整合进一套系统。\n\nQQ群不定期发放大额福利：1078436366\n\n稳定接入 GPT、Claude、Gemini、DeepSeek 等 40+ 模型，全系 OpenAI 兼容、零改造接入；模型广场实时比价 + 24h 性能快照，让\"哪个最划算/最快/最稳\"变成可量化决策。按 token 透明计费、无隐藏扣量，一张账单统管全模型消耗，最低可至官方价一折，即充即用、无月费无最低消费。\n\n东京高防节点 + Cloudflare 加速，SLA 保障，控制台实时公开延迟/TPS/成功率；提供全天售后，不满意随时可退款，尤其适配企业级用户规模化调用。",
+      "establishedDate": "2026-07-25",
+      "modelCount": 29,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "DeepSeek",
+        "Google",
+        "月之暗面",
+        "智谱",
+        "xAI"
+      ],
+      "uptime": 74.3,
+      "latencyMs": 8520,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 46,
+      "name": "XycAi(星道智能)",
+      "url": "https://www.hvoyai.com/sites/xycaius/",
+      "description": "企业级开放快速的wss接口，端点采用搬瓦工作为我们的cn2线路，和台湾一些线路作为163回程线路保证回程3网问题线路问题，我们是正规合规对外企业，我们与部分中转站不同，我们是合法合规（有正规大模型备案号，正规出海的其他一些资质）可以解决企业软件安全审查中上家数据合规性问题以及税务问题，因为现在软件上架要求的颇多难点，支持gpt、opus、豆包、DeepSeek、千问、可灵等——文本、视频与多模态,统一在一个 OpenAI 兼容接口之后。",
+      "establishedDate": "2025-11-04",
+      "modelCount": 42,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "DeepSeek",
+        "Google",
+        "MiniMax",
+        "月之暗面",
+        "智谱",
+        "xAI"
+      ],
+      "uptime": 35.3,
+      "latencyMs": 10710,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [],
+      "supportsRefund": false,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 47,
+      "name": "Plinero",
+      "url": "https://www.hvoyai.com/sites/plinerocom/",
+      "description": "Plinero 是一站式 AI 模型接口服务平台，面向个人开发者及企业团队，整合了 GPT、Claude、DeepSeek、Gemini、Qwen 等多类热门模型。用户只需使用一个 API Key，即可快速访问不同模型，满足 AI 应用开发、Agent 搭建、产品测试、接口调试以及企业内部系统接入等需求。\n\n平台提供灵活的用量计费和订阅方案，并支持账户充值、模型价格查询等功能，让调用成本更加清晰可控。通过统一的接口和账户体系，Plinero 能够减少多平台配置与重复适配工作，为开发者带来更高效、稳定且具备成本优势的模型调用体验。",
+      "establishedDate": "2026-06-20",
+      "modelCount": 13,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "DeepSeek",
+        "月之暗面",
+        "智谱"
+      ],
+      "uptime": 61.1,
+      "latencyMs": 15250,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "USDT",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 48,
+      "name": "relaycore",
+      "url": "https://www.hvoyai.com/sites/relaycorecn/",
+      "description": "成本价运行, 人越多成本越低, 倍率越低 !\nRelayCore 是面向开发者的 AI API 中转服务，统一接入 Claude、GPT、Gemini 等主流模型，兼容 Codex、Claude Code、Gemini CLI 及 OpenAI API 生态。平台提供多线路调度、Token 级透明计费、用量统计与模型自由选择，适合个人开发、AI 编程、Agent 应用及团队项目。",
+      "establishedDate": "2026-07-01",
+      "modelCount": 39,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "DeepSeek",
+        "Google",
+        "智谱",
+        "xAI",
+        "阿里云",
+        "MiniMax",
+        "月之暗面",
+        "Tencent Hunyuan",
+        "Xiaomi"
+      ],
+      "uptime": 84.2,
+      "latencyMs": 14620,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 49,
+      "name": "Logits Token",
+      "url": "https://www.hvoyai.com/sites/logitstokencom/",
+      "description": "Logits Token：更快、更稳、更有保障的 AI API 服务\n\nLogits Token 致力于为开发者和企业提供高性能、稳定可靠的 AI 模型调用服务，支持 GPT、Gemini、Claude 等主流模型，提供统一的 API 接入方式，让应用开发更加简单高效。\n\n我们持续优化请求链路与模型路由，降低响应延迟，提升高并发场景下的稳定性，帮助用户获得更快速、更流畅的调用体验。\n\n针对 GPT 流式请求，我们还提供独特的“首字超时赔付机制”：当请求首个 Token 响应超过平台设定阈值时，系统将依据赔付规则自动返还部分或全部费用，降低调用延迟带来的使用风险。\n\n选择 Logits Token，享受快速、稳定、透明，并且更有保障的 AI API 服务。",
+      "establishedDate": "2026-09-04",
+      "modelCount": 12,
+      "models": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "uptime": 75,
+      "latencyMs": 7210,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 50,
       "name": "LLMAPI",
       "url": "https://www.hvoyai.com/sites/llmapipro/",
       "description": "LLMAPI.pro 专业稳定,高质量多渠道均衡负载\n同步官方模型, API又快又稳, \n除了自建号池,还会用大量友商渠道来做均衡负载\n选择我们,就是选择放心,就是选择精挑细选,就是避免踩坑\n欢迎体验",
@@ -1039,8 +1309,8 @@
         "Anthropic",
         "Google"
       ],
-      "uptime": 75.4,
-      "latencyMs": 12400,
+      "uptime": 75.2,
+      "latencyMs": 13130,
       "userRating": 2.75,
       "ratingCount": 8,
       "paymentMethods": [
@@ -1054,48 +1324,54 @@
       "supportsInvoice": true
     },
     {
-      "rank": 40,
-      "name": "酷API",
-      "url": "https://www.hvoyai.com/sites/kuapicc/",
-      "description": "计费支付：采用灵活透明的计费模式，以人民币（RMB）为结算单位，按百万Token消耗量精准计费。支持微信支付及企业对公转账，并可开具正规增值税发票，满足企业财务合规需求。\n架构韧性：全栈自研引擎，经受过千万级并发请求的压测考验，故障恢复时间（MTTR）控制在行业领先水平。\n网络基建：独享3Gbps海外专属带宽通道，采用动态路由优化算法，有效规避网络抖动，确保跨境业务无缝衔接。\n模型反应：优质模型，响应迅速，claude首字3秒，gpt首字1.5秒，长流不截断，失败不扣费。\n交易便捷：接入微信支付接口，支持即时充值；同时支持企业合同签署与发票开具全流程。\n运维保障：提供VIP售后响应群，由资深技术工程师驻群服务，7x24小时护航。\n服务与承诺：我们坚持“高端定制，服务先行”的理念，为每一位企业客户配备专属售后支持群，提供即时、专业的技术响应。价格定位处于市场中高端区间，这源于我们对硬件性能与链路质量的极致追求——在商业场景中，稳定性即是最高的性价比。",
-      "establishedDate": "2026-07-04",
-      "modelCount": 19,
+      "rank": 51,
+      "name": "智流 FluxLane",
+      "url": "https://www.hvoyai.com/sites/fluxlanecn/",
+      "description": "🎁新人注册赠送2美元额度\n🔥 DeepSeek 官转线路，全时段享闲时价格，低倍率，稳定调用\n🚀 支持 OpenAI / Claude / Gemini / DeepSeek / Grok / GLM / Kimi 及一系列生图模型\n⚡ GPT倍率低至0.06x，claude低至0.4x，国模官转低至0.5x\n📊 API Key、调用记录、线路状态、用量数据一目了然\n🎯 国内直连，专用线路，超级稳定，在线率99.99%，TTFT长期＜3S\n✨ 丰富的企业/高校合作经验，可根据实际情况快速开具发票（包含专票）/合同/采购单/询价单/招投标等，解决采购报销难题。",
+      "establishedDate": "2026-07-15",
+      "modelCount": 27,
       "models": [
         "Anthropic",
+        "OpenAI",
         "DeepSeek",
         "月之暗面",
-        "OpenAI",
         "智谱",
-        "xAI"
+        "xAI",
+        "阿里云",
+        "Google"
       ],
-      "uptime": 77.5,
-      "latencyMs": 9250,
-      "userRating": null,
-      "ratingCount": 0,
+      "uptime": 78.3,
+      "latencyMs": 11060,
+      "userRating": 5,
+      "ratingCount": 1,
       "paymentMethods": [
         "微信",
-        "对公转账"
+        "支付宝",
+        "对公转账",
+        "信用卡"
       ],
       "supportsRefund": true,
       "supportsInvoice": true
     },
     {
-      "rank": 41,
-      "name": "极策",
-      "url": "https://www.hvoyai.com/sites/apijiceapicom/",
-      "description": "本站为专业 AI API 中转服务商，全面聚合 GPT, Claude  等主流大模型。提供企业级高可用线路，低延迟、极速响应；价格透明实惠，支持按量计费；配备专业客服与技术售后，保障业务稳定无忧！",
-      "establishedDate": "2026-06-25",
-      "modelCount": 16,
+      "rank": 52,
+      "name": "Moe Api",
+      "url": "https://www.hvoyai.com/sites/moeapicloud/",
+      "description": "Moe API 是面向个人开发者与团队的一站式 AI 模型 API 平台。通过一个账户、一套 API，即可接入多种主流模型，并兼容 OpenAI、Claude、Gemini 等常用接口。\n平台提供透明的模型价格和调用记录，按实际用量计费；\n通过多渠道监控与智能路由，尽量降低单一渠道故障的影响。\n遇到接入、充值、计费或账户问题，可查阅使用文档或加入 QQ 技术交流群 1045237768 联系管理员。",
+      "establishedDate": "2026-06-06",
+      "modelCount": 20,
       "models": [
+        "OpenAI",
         "Anthropic",
-        "OpenAI"
+        "Google",
+        "月之暗面",
+        "智谱"
       ],
-      "uptime": 40,
-      "latencyMs": 6610,
-      "userRating": null,
-      "ratingCount": 0,
+      "uptime": 87.5,
+      "latencyMs": 13050,
+      "userRating": 4,
+      "ratingCount": 1,
       "paymentMethods": [
-        "USDT",
         "微信",
         "支付宝",
         "对公转账"
@@ -1104,12 +1380,66 @@
       "supportsInvoice": true
     },
     {
-      "rank": 42,
+      "rank": 53,
+      "name": "GGUUAI",
+      "url": "https://www.hvoyai.com/sites/gguuaicom/",
+      "description": "GGUUAI 为开发者提供稳定、高速、高性价比的大模型API 中转服务。\n\n全站覆盖 Claude、GPT、Gemini及 国内 等主流模型，价格透明、模型真实。\n\n支持负责均衡、智能容灾，提供高可用性的API服务。",
+      "establishedDate": "2026-06-14",
+      "modelCount": 22,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "xAI"
+      ],
+      "uptime": 74.9,
+      "latencyMs": 14690,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "信用卡"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 54,
+      "name": "GPTEAM",
+      "url": "https://www.hvoyai.com/sites/portalgpteamservicescom/",
+      "description": "专注提供稳定可靠的GPT系列模型服务。底层采用纯Pro官方订阅号池，四、五、六月零故障，极致稳定。主打高性价比，GPT-5.5约 ￥1.3 / 1M Token。承诺无忧售后，遇长期不可用等异常均支持退款保障。",
+      "establishedDate": "2025-12-20",
+      "modelCount": 30,
+      "models": [
+        "Anthropic",
+        "ByteDance",
+        "DeepSeek",
+        "Google",
+        "MiniMax",
+        "月之暗面",
+        "OpenAI",
+        "Xiaomi",
+        "智谱"
+      ],
+      "uptime": 89.1,
+      "latencyMs": 9500,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 55,
       "name": "API快连",
       "url": "https://www.hvoyai.com/sites/apiklai/",
       "description": "API 快连（apikl.com）面向开发者、团队与企业提供 Claude、Codex 等主流大模型 API 接入服务。平台以企业级稳定与模型保真为核心，采用多账号号池智能负载均衡与自动故障转移，提升服务持续可用性；坚持正价高质量号池，真实模型、不降智，并提供主流接口兼容、实时用量统计与透明按量计费，帮助业务快速、稳定地接入全球领先 AI 模型。",
       "establishedDate": "2026-06-01",
-      "modelCount": 34,
+      "modelCount": 36,
       "models": [
         "OpenAI",
         "Anthropic",
@@ -1120,8 +1450,8 @@
         "月之暗面",
         "智谱"
       ],
-      "uptime": 64,
-      "latencyMs": 14010,
+      "uptime": 63.4,
+      "latencyMs": 15160,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -1134,24 +1464,264 @@
       "supportsInvoice": true
     },
     {
-      "rank": 43,
-      "name": "远桥云 API",
-      "url": "https://www.hvoyai.com/sites/yuanqiaoyuncom/",
-      "description": "🚀 远桥云 API｜为 Codex、Claude Code 和 Agent 开发者提供多模型 API 服务\n\n⚡ GPT / Claude / Grok / Gemini 及国内外主流模型统一接入\n🧑‍💻 Codex、Claude Code、Agent、OpenAI SDK 等开发场景直接使用\n🔑 一个 API Key 调用多种模型，无需反复切换平台\n📊 模型价格、调用日志、Token 消耗和余额清晰可查\n📚 提供完整接入文档，新手也可以快速跑通\n🎁 新用户提供测试额度，进群领额度，先测试再使用",
-      "establishedDate": "2026-05-14",
-      "modelCount": 28,
+      "rank": 56,
+      "name": "VovoKey｜启界",
+      "url": "https://www.hvoyai.com/sites/vovokeycom/",
+      "description": "VovoKey 是面向开发者、AI 团队与企业的多模型 API 服务平台，重点提供 Claude、GPT/Codex、Gemini、Grok和国产 等主流模型的稳定接入。兼容 OpenAI、Anthropic 常用协议，可快速接入 Claude Code、Codex、Agent、AI 应用及企业内部系统，减少多平台账号、接口适配和线路维护成本。\n\n我们不只关注“模型能不能调用”，更关注模型是否真实、线路是否稳定、Token 与费用是否准确。VovoKey 持续对生产线路进行可用性、延迟、模型一致性及调用质量监测，并主动接入第三方检测，让线路质量尽可能由真实数据验证，而不是只靠宣传。\n\n所有模型均提供清晰的价格与调用记录，可查看输入、输出、缓存 Token、请求状态及实际费用，方便开发者核算成本和快速排查异常。不同模型与线路根据质量、稳定性和成本持续优化，不以极端低价作为唯一目标。\n\nVovoKey 同时提供接入文档与技术支持，遇到 API 兼容、Claude Code、Codex、模型调用或计费问题可协助排查。团队及企业用户可获得更完整的接入支持，并支持发票等企业服务。\n\n如果你需要的是一个价格透明、模型可验证、出了问题有人处理的长期 API 服务，VovoKey 希望成为比“单纯低价中转”更可靠的选择。",
+      "establishedDate": "2026-02-05",
+      "modelCount": 34,
+      "models": [
+        "Anthropic",
+        "Google",
+        "OpenAI",
+        "DeepSeek",
+        "月之暗面",
+        "智谱",
+        "xAI"
+      ],
+      "uptime": 72.9,
+      "latencyMs": 10920,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 57,
+      "name": "gods",
+      "url": "https://www.hvoyai.com/sites/meisgoldtop/",
+      "description": "接口运行稳定不掺水，拒绝虚标稀释算力，价格长期维持市面最低档位，现有 0.06 倍率 GPT 可供调用，响应速度快，可用性强，实测落地使用体验靠谱",
+      "establishedDate": "2026-06-29",
+      "modelCount": 10,
+      "models": [
+        "OpenAI"
+      ],
+      "uptime": 83.7,
+      "latencyMs": 13770,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 58,
+      "name": "AnPin AI",
+      "url": "https://www.hvoyai.com/sites/anpinai/",
+      "description": "ANPIN.AI 是一个技术与资源双核驱动的 AI 中转平台。技术方面具备多节点智能路由、1Gbps 海外专线、30TB 带宽、99.99% 稳定性和毫秒级流式响应。资源方面依托多年 Web3 老牌号商背景，自建号池和账号体系，全功率账号长期可控。平台承诺无突然掉线、失效、限流或涨价问题，适合对稳定性要求高的长期用户。",
+      "establishedDate": "2026-02-22",
+      "modelCount": 10,
+      "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 77.3,
+      "latencyMs": 13700,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 59,
+      "name": "UniLink",
+      "url": "https://www.hvoyai.com/sites/apiunilinkwork/",
+      "description": "UniLink 的核心价值在于帮助用户更高效地管理和调用多个 AI 模型或服务商。它通过智能路由、成本优化、故障切换和统一 API 接入，降低开发者的运维复杂度，同时提升 AI 应用的稳定性和成本可控性。",
+      "establishedDate": "2026-08-01",
+      "modelCount": 34,
+      "models": [
+        "Google",
+        "OpenAI",
+        "Anthropic",
+        "DeepSeek",
+        "月之暗面",
+        "智谱",
+        "xAI"
+      ],
+      "uptime": 86.7,
+      "latencyMs": 15710,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 60,
+      "name": "XMAPI",
+      "url": "https://www.hvoyai.com/sites/xbhuizcom/",
+      "description": "XMAPI —— 高速稳定的AI模型中转平台。覆盖GPT、Claude 等主流模型，三网优化专线，在线率98%+。为开发者和企业提供高性价比、即开即用的API服务，支持多模型统一接入。",
+      "establishedDate": "2026-03-06",
+      "modelCount": 6,
+      "models": [
+        "OpenAI"
+      ],
+      "uptime": 69.9,
+      "latencyMs": 16010,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "对公转账",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 61,
+      "name": "夯炸了AI",
+      "url": "https://www.hvoyai.com/sites/apihangzhalecom/",
+      "description": "纯pro,plus号池的codex支持任何检测，一切为了稳定，价格优势大，稳定响应",
+      "establishedDate": "2026-05-01",
+      "modelCount": 22,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "xAI",
+        "Cursor",
+        "Google"
+      ],
+      "uptime": 94.6,
+      "latencyMs": 6820,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 62,
+      "name": "悟空API",
+      "url": "https://www.hvoyai.com/sites/wkapipro/",
+      "description": "亲爱的用户，大家好！本站所有模型全部保真支持全方面cctest实测核验，价格质量经得起全网对比，欢迎下游对接！\n\n我们承诺：\n百分百企业级别满血官方模型。\n不以次充好，不虚假宣传。\n所有模型假一赔百。\n\n无论你是做 AI 应用开发、企业内部系统、自动化工具，还是商业化项目接入，我们都能为你提供稳定可靠的接口支持。",
+      "establishedDate": "2026-04-18",
+      "modelCount": 23,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "智谱",
+        "DeepSeek",
+        "Google",
+        "月之暗面",
+        "xAI"
+      ],
+      "uptime": 66.7,
+      "latencyMs": 15980,
+      "userRating": 3.8333333333333335,
+      "ratingCount": 6,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 63,
+      "name": "极策",
+      "url": "https://www.hvoyai.com/sites/apijiceapicom/",
+      "description": "本站为专业 AI API 中转服务商，全面聚合 GPT, Claude  等主流大模型。提供企业级高可用线路，低延迟、极速响应；价格透明实惠，支持按量计费；配备专业客服与技术售后，保障业务稳定无忧！",
+      "establishedDate": "2026-06-25",
+      "modelCount": 16,
+      "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 39.5,
+      "latencyMs": 6750,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 64,
+      "name": "ttflows",
+      "url": "https://www.hvoyai.com/sites/apittflowscom/",
+      "description": "ttflows 天梯流是一站式 AI API 服务平台，汇聚多种主流大模型，支持 OpenAI API 和 Anthropic API 接口，兼容各类 AI 客户端和开发工具，价格透明、接入简单、持续优化，欢迎开发者和 AI 爱好者体验交流。",
+      "establishedDate": "2026-07-01",
+      "modelCount": 12,
+      "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 92,
+      "latencyMs": 10300,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 65,
+      "name": "Apiko",
+      "url": "https://www.hvoyai.com/sites/apikotop/",
+      "description": "全新UI！\n高防美国服务器\n低首字延迟！\n支持全国模！御三家！Codex- plus低至0.1x！\n火速来蹬，实时更新最新大模型！",
+      "establishedDate": "2026-09-01",
+      "modelCount": 20,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "DeepSeek",
+        "月之暗面",
+        "智谱",
+        "xAI"
+      ],
+      "uptime": 58.3,
+      "latencyMs": 3610,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 66,
+      "name": "SpiderMan-API",
+      "url": "https://www.hvoyai.com/sites/spidermanapicom/",
+      "description": "高稳定低倍率，价格实惠，接入便捷适配多客户端，调用流畅少报错，计费透明，遇到问题可快速提供售后协助。",
+      "establishedDate": "2026-04-09",
+      "modelCount": 19,
       "models": [
         "Anthropic",
         "OpenAI",
         "Google",
         "月之暗面",
-        "智谱",
-        "ByteDance",
-        "DeepSeek",
-        "xAI"
+        "智谱"
       ],
-      "uptime": 66.2,
-      "latencyMs": 12790,
+      "uptime": 77.7,
+      "latencyMs": 13670,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -1161,31 +1731,7 @@
       "supportsInvoice": true
     },
     {
-      "rank": 44,
-      "name": "znbcode",
-      "url": "https://www.hvoyai.com/sites/znbcodecom/",
-      "description": "znbcode 同时提供 OpenAI 兼容接口（GPT / DeepSeek / Kimi 系）和 Anthropic 原生接口（Claude 系）。\n拿到密钥后，把你现有工具里的 Base URL 和 API Key 换掉即可，不需要改代码。",
-      "establishedDate": "2026-08-01",
-      "modelCount": 13,
-      "models": [
-        "Anthropic",
-        "DeepSeek",
-        "OpenAI",
-        "月之暗面"
-      ],
-      "uptime": 72.4,
-      "latencyMs": 15470,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 45,
+      "rank": 67,
       "name": "Volt",
       "url": "https://www.hvoyai.com/sites/voltapiai/",
       "description": "claude-api.org 是 Claude / GPT / Gemini 三家模型的 API 中转服务,\n一个 Key 调用全部模型,原生官方模型输出。主流客户端无缝接入,\n国内直连不掉线。注册送 $10,邀请返利 15%,完整文档 doc.claude-api.org。",
@@ -1203,8 +1749,8 @@
         "智谱",
         "xAI"
       ],
-      "uptime": 64.5,
-      "latencyMs": 15470,
+      "uptime": 50,
+      "latencyMs": 19060,
       "userRating": 5,
       "ratingCount": 3,
       "paymentMethods": [
@@ -1217,289 +1763,97 @@
       "supportsInvoice": true
     },
     {
-      "rank": 46,
-      "name": "悟空API",
-      "url": "https://www.hvoyai.com/sites/wkapipro/",
-      "description": "亲爱的用户，大家好！本站所有模型全部保真支持全方面cctest实测核验，价格质量经得起全网对比，欢迎下游对接！\n\n我们承诺：\n百分百企业级别满血官方模型。\n不以次充好，不虚假宣传。\n所有模型假一赔百。\n\n无论你是做 AI 应用开发、企业内部系统、自动化工具，还是商业化项目接入，我们都能为你提供稳定可靠的接口支持。",
-      "establishedDate": "2026-04-18",
-      "modelCount": 22,
+      "rank": 68,
+      "name": "智惠API",
+      "url": "https://www.hvoyai.com/sites/apiapi2cncom/",
+      "description": "为专业开发者构建的高速 AI 枢纽，毫秒级流式响应。三网顶级直连：节点全面部署 CN2 GIA、CMIN2 及 CU Premium 高端优化线路，有效解决丢包与延迟问题，提供高可用访问体验。完整支持 Claude、GPT、Gemini、Grok 全系大模型，核心模型超值定价，我们采用最佳性价比竞争策略，致力于为用户带来最省钱的方案！目前已经推出会员等级计划，根据不同会员等级每次充值享受不同的额外赠送比例，用于奖励忠诚会员，站内消费越久，权益越高。",
+      "establishedDate": "2026-04-01",
+      "modelCount": 16,
       "models": [
         "OpenAI",
         "Anthropic",
-        "智谱",
-        "DeepSeek",
         "Google",
-        "月之暗面",
         "xAI"
       ],
-      "uptime": 66.7,
-      "latencyMs": 12830,
-      "userRating": 3.8333333333333335,
-      "ratingCount": 6,
+      "uptime": 94,
+      "latencyMs": 8770,
+      "userRating": 5,
+      "ratingCount": 34,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 69,
+      "name": "SevnX",
+      "url": "https://www.hvoyai.com/sites/sevnxlol/",
+      "description": "Sevnx 是一家专注于 AI 模型接口聚合与加速的可靠、高效的 API 中转服务商。\n它通过统一的网关，为开发者和企业提供 Claude、ChatGPT 等多种主流大语言模型的便捷接入服务。\n无需逐一对接官方接口，也无需担心地域限制或速率波动，Sevnx 以稳定的带宽、低延迟响应和高可用性架构，保障每一次调用的质量。\n同时，Sevnx 支持灵活的计费方式、丰富的参数配置与简洁的 API 文档，帮助用户快速集成、降本增效，是构建智能应用、聊天机器人或内容生成工具的理想中转枢纽。",
+      "establishedDate": "2026-05-01",
+      "modelCount": 9,
+      "models": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "uptime": 79.6,
+      "latencyMs": 11670,
+      "userRating": 5,
+      "ratingCount": 4,
       "paymentMethods": [
         "微信",
         "支付宝"
       ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 47,
-      "name": "relaycore",
-      "url": "https://www.hvoyai.com/sites/relaycorecn/",
-      "description": "成本价运行, 人越多成本越低, 倍率越低 !\nRelayCore 是面向开发者的 AI API 中转服务，统一接入 Claude、GPT、Gemini 等主流模型，兼容 Codex、Claude Code、Gemini CLI 及 OpenAI API 生态。平台提供多线路调度、Token 级透明计费、用量统计与模型自由选择，适合个人开发、AI 编程、Agent 应用及团队项目。",
-      "establishedDate": "2026-07-01",
-      "modelCount": 38,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "DeepSeek",
-        "Google",
-        "智谱",
-        "xAI",
-        "阿里云",
-        "MiniMax",
-        "月之暗面",
-        "Tencent Hunyuan",
-        "Xiaomi"
-      ],
-      "uptime": 69.4,
-      "latencyMs": 14340,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 48,
-      "name": "模方",
-      "url": "https://www.hvoyai.com/sites/apimodelscubecom/",
-      "description": "Modelscube 一站式 AI 模型接口平台，多类大模型全覆盖，线路稳定、资费低廉，极速响应，7×24 小时在线售后，适配开发商用场景。",
-      "establishedDate": "2026-01-02",
-      "modelCount": 21,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "DeepSeek"
-      ],
-      "uptime": 83.9,
-      "latencyMs": 6270,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "支付宝"
-      ],
       "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 49,
-      "name": "ToolCode",
-      "url": "https://www.hvoyai.com/sites/toolcodetop/",
-      "description": "Tool Code 致力于打造一个专供 GPT 用户使用的优质中转站，核心宗旨是以稳定且具性价比的方式持续提供服务。我们关注的不只是可用，更是长期体验上的稳定、响应效率和使用成本，让个人用户和团队用户都能用更合理的价格，获得更安心、更顺畅的 GPT 服务体验。",
-      "establishedDate": "2025-12-01",
-      "modelCount": 13,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 88.9,
-      "latencyMs": 9270,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
       "supportsInvoice": true
     },
     {
-      "rank": 50,
-      "name": "Logits Token",
-      "url": "https://www.hvoyai.com/sites/logitstokencom/",
-      "description": "Logits Token：更快、更稳、更有保障的 AI API 服务\n\nLogits Token 致力于为开发者和企业提供高性能、稳定可靠的 AI 模型调用服务，支持 GPT、Gemini、Claude 等主流模型，提供统一的 API 接入方式，让应用开发更加简单高效。\n\n我们持续优化请求链路与模型路由，降低响应延迟，提升高并发场景下的稳定性，帮助用户获得更快速、更流畅的调用体验。\n\n针对 GPT 流式请求，我们还提供独特的“首字超时赔付机制”：当请求首个 Token 响应超过平台设定阈值时，系统将依据赔付规则自动返还部分或全部费用，降低调用延迟带来的使用风险。\n\n选择 Logits Token，享受快速、稳定、透明，并且更有保障的 AI API 服务。",
-      "establishedDate": "2026-09-04",
+      "rank": 70,
+      "name": "溯光",
+      "url": "https://www.hvoyai.com/sites/suguangapicc/",
+      "description": "溯光是一家可靠高效的 API 中转服务商，提供 GPT、Claude、Grok 等多种模型服务的中转。\n“溯光”意为追溯光源。我们始终站在用户角度，帮你从众多模型中筛选出更合适的能力，而不是让你被模型选择束缚。\n自 2026 年起，溯光持续优化多模型统一接入，降低使用门槛。",
+      "establishedDate": "2026-08-03",
       "modelCount": 12,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 62.9,
-      "latencyMs": 8300,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 51,
-      "name": "AnPin AI",
-      "url": "https://www.hvoyai.com/sites/anpinai/",
-      "description": "ANPIN.AI 是一个技术与资源双核驱动的 AI 中转平台。技术方面具备多节点智能路由、1Gbps 海外专线、30TB 带宽、99.99% 稳定性和毫秒级流式响应。资源方面依托多年 Web3 老牌号商背景，自建号池和账号体系，全功率账号长期可控。平台承诺无突然掉线、失效、限流或涨价问题，适合对稳定性要求高的长期用户。",
-      "establishedDate": "2026-02-22",
-      "modelCount": 10,
       "models": [
         "Anthropic",
         "OpenAI"
       ],
-      "uptime": 81.7,
-      "latencyMs": 13030,
-      "userRating": 5,
-      "ratingCount": 1,
+      "uptime": 40.5,
+      "latencyMs": 8300,
+      "userRating": null,
+      "ratingCount": 0,
       "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "对公转账"
+        "支付宝"
       ],
       "supportsRefund": null,
       "supportsInvoice": null
     },
     {
-      "rank": 52,
-      "name": "UniLink",
-      "url": "https://www.hvoyai.com/sites/apiunilinkwork/",
-      "description": "UniLink 的核心价值在于帮助用户更高效地管理和调用多个 AI 模型或服务商。它通过智能路由、成本优化、故障切换和统一 API 接入，降低开发者的运维复杂度，同时提升 AI 应用的稳定性和成本可控性。",
-      "establishedDate": "2026-08-01",
-      "modelCount": 33,
+      "rank": 71,
+      "name": "Aliapi",
+      "url": "https://www.hvoyai.com/sites/aliapicn/",
+      "description": "AliAPI 是面向开发者、团队及企业的大模型 API 中转服务平台，提供 Claude、Kiro、OpenAI 等主流模型的便捷接入服务。平台采用统一标准接口，接入简单、响应高效、计费灵活，帮助用户快速完成 AI 应用开发与模型切换。\n凭借稳定的服务能力和极具竞争力的价格，OpenAI 模型低至官方价格的 0.07 倍，有效降低模型调用成本。无论是个人项目、批量任务还是企业级应用，AliAPI 都能提供便捷、稳定且高性价比的模型服务。",
+      "establishedDate": "2026-07-01",
+      "modelCount": 9,
       "models": [
-        "Google",
         "OpenAI",
-        "Anthropic",
-        "DeepSeek",
-        "月之暗面",
-        "智谱",
-        "xAI"
+        "Anthropic"
       ],
-      "uptime": 88.3,
-      "latencyMs": 18190,
-      "userRating": null,
-      "ratingCount": 0,
+      "uptime": 86.6,
+      "latencyMs": 10480,
+      "userRating": 1,
+      "ratingCount": 1,
       "paymentMethods": [
+        "微信",
         "支付宝"
       ],
       "supportsRefund": true,
       "supportsInvoice": false
     },
     {
-      "rank": 53,
-      "name": "Moe Api",
-      "url": "https://www.hvoyai.com/sites/moeapicloud/",
-      "description": "Moe API 是面向个人开发者与团队的一站式 AI 模型 API 平台。通过一个账户、一套 API，即可接入多种主流模型，并兼容 OpenAI、Claude、Gemini 等常用接口。\n平台提供透明的模型价格和调用记录，按实际用量计费；\n通过多渠道监控与智能路由，尽量降低单一渠道故障的影响。\n遇到接入、充值、计费或账户问题，可查阅使用文档或加入 QQ 技术交流群 1045237768 联系管理员。",
-      "establishedDate": "2026-06-06",
-      "modelCount": 19,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "月之暗面",
-        "智谱"
-      ],
-      "uptime": 66.6,
-      "latencyMs": 14640,
-      "userRating": 4,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 54,
-      "name": "智流 FluxLane",
-      "url": "https://www.hvoyai.com/sites/fluxlanecn/",
-      "description": "🎁新人注册赠送2美元额度\n🔥 DeepSeek 官转线路，全时段享闲时价格，低倍率，稳定调用\n🚀 支持 OpenAI / Claude / Gemini / DeepSeek / Grok / GLM / Kimi 及一系列生图模型\n⚡ GPT倍率低至0.06x，claude低至0.4x，国模官转低至0.5x\n📊 API Key、调用记录、线路状态、用量数据一目了然\n🎯 国内直连，专用线路，超级稳定，在线率99.99%，TTFT长期＜3S\n✨ 丰富的企业/高校合作经验，可根据实际情况快速开具发票（包含专票）/合同/采购单/询价单/招投标等，解决采购报销难题。",
-      "establishedDate": "2026-07-15",
-      "modelCount": 27,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "DeepSeek",
-        "月之暗面",
-        "智谱",
-        "xAI",
-        "阿里云",
-        "Google"
-      ],
-      "uptime": 68.8,
-      "latencyMs": 11660,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 55,
-      "name": "GPTEAM",
-      "url": "https://www.hvoyai.com/sites/portalgpteamservicescom/",
-      "description": "专注提供稳定可靠的GPT系列模型服务。底层采用纯Pro官方订阅号池，四、五、六月零故障，极致稳定。主打高性价比，GPT-5.5约 ￥1.3 / 1M Token。承诺无忧售后，遇长期不可用等异常均支持退款保障。",
-      "establishedDate": "2025-12-20",
-      "modelCount": 29,
-      "models": [
-        "Anthropic",
-        "ByteDance",
-        "DeepSeek",
-        "Google",
-        "MiniMax",
-        "月之暗面",
-        "OpenAI",
-        "Xiaomi",
-        "智谱"
-      ],
-      "uptime": 72.8,
-      "latencyMs": 9950,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 56,
-      "name": "夯炸了AI",
-      "url": "https://www.hvoyai.com/sites/apihangzhalecom/",
-      "description": "纯pro,plus号池的codex支持任何检测，一切为了稳定，价格优势大，稳定响应",
-      "establishedDate": "2026-05-01",
-      "modelCount": 25,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "xAI",
-        "Cursor",
-        "Google"
-      ],
-      "uptime": 77.4,
-      "latencyMs": 7130,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 57,
+      "rank": 72,
       "name": "onehop",
       "url": "https://www.hvoyai.com/sites/onehopai/",
       "description": "OneHop.ai 是面向开发者和企业的 AI Gateway，用一个 API 统一接入多家主流大模型。平台支持按量计费、价格透明、余额可退，提供测试 token，降低接入和试用成本；同时提供多层冗余与稳定路由，减少服务中断风险，并配套官方支持，适合生产环境长期使用。",
@@ -1514,8 +1868,8 @@
         "OpenAI",
         "智谱"
       ],
-      "uptime": 90.8,
-      "latencyMs": 10610,
+      "uptime": 86.6,
+      "latencyMs": 13030,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -1527,227 +1881,15 @@
       "supportsInvoice": null
     },
     {
-      "rank": 58,
-      "name": "ttflows",
-      "url": "https://www.hvoyai.com/sites/apittflowscom/",
-      "description": "ttflows 天梯流是一站式 AI API 服务平台，汇聚多种主流大模型，支持 OpenAI API 和 Anthropic API 接口，兼容各类 AI 客户端和开发工具，价格透明、接入简单、持续优化，欢迎开发者和 AI 爱好者体验交流。",
-      "establishedDate": "2026-07-01",
-      "modelCount": 12,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 85.7,
-      "latencyMs": 12950,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 59,
-      "name": "VovoKey｜启界",
-      "url": "https://www.hvoyai.com/sites/vovokeycom/",
-      "description": "VovoKey 是面向开发者、AI 团队与企业的多模型 API 服务平台，重点提供 Claude、GPT/Codex、Gemini、Grok和国产 等主流模型的稳定接入。兼容 OpenAI、Anthropic 常用协议，可快速接入 Claude Code、Codex、Agent、AI 应用及企业内部系统，减少多平台账号、接口适配和线路维护成本。\n\n我们不只关注“模型能不能调用”，更关注模型是否真实、线路是否稳定、Token 与费用是否准确。VovoKey 持续对生产线路进行可用性、延迟、模型一致性及调用质量监测，并主动接入第三方检测，让线路质量尽可能由真实数据验证，而不是只靠宣传。\n\n所有模型均提供清晰的价格与调用记录，可查看输入、输出、缓存 Token、请求状态及实际费用，方便开发者核算成本和快速排查异常。不同模型与线路根据质量、稳定性和成本持续优化，不以极端低价作为唯一目标。\n\nVovoKey 同时提供接入文档与技术支持，遇到 API 兼容、Claude Code、Codex、模型调用或计费问题可协助排查。团队及企业用户可获得更完整的接入支持，并支持发票等企业服务。\n\n如果你需要的是一个价格透明、模型可验证、出了问题有人处理的长期 API 服务，VovoKey 希望成为比“单纯低价中转”更可靠的选择。",
-      "establishedDate": "2026-02-05",
-      "modelCount": 33,
-      "models": [
-        "Anthropic",
-        "Google",
-        "OpenAI",
-        "DeepSeek",
-        "月之暗面",
-        "智谱",
-        "xAI"
-      ],
-      "uptime": 58.8,
-      "latencyMs": 15240,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 60,
-      "name": "智惠API",
-      "url": "https://www.hvoyai.com/sites/apiapi2cncom/",
-      "description": "为专业开发者构建的高速 AI 枢纽，毫秒级流式响应。三网顶级直连：节点全面部署 CN2 GIA、CMIN2 及 CU Premium 高端优化线路，有效解决丢包与延迟问题，提供高可用访问体验。完整支持 Claude、GPT、Gemini、Grok 全系大模型，核心模型超值定价，我们采用最佳性价比竞争策略，致力于为用户带来最省钱的方案！目前已经推出会员等级计划，根据不同会员等级每次充值享受不同的额外赠送比例，用于奖励忠诚会员，站内消费越久，权益越高。",
-      "establishedDate": "2026-04-01",
-      "modelCount": 18,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "DeepSeek",
-        "Google",
-        "月之暗面",
-        "xAI"
-      ],
-      "uptime": 73.3,
-      "latencyMs": 11910,
-      "userRating": 5,
-      "ratingCount": 34,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 61,
-      "name": "OmniaKey",
-      "url": "https://www.hvoyai.com/sites/omniakeycom/",
-      "description": "大家好，我们是 OmniaKey团队，很高兴您看到我们的介绍，我们是一个专注 AI 编程场景的多模型 API 中转平台。\n\n团队具备海内外公司主体，核心成员来自国内互联网大厂，如百度、字节、阿里，拥有多年研发与产品经验。\n\n当前平台服务了上千名客户，数百名企业级客户，可开对公发票～\n\nGPT、Claude、Gemini、Grok、GLM、Qwen 等主流模型我们均支持\n\n给您介绍一下当前价格： - GPT 系列省 93% - Claude 系列省 80% - Gemini、Grok、GLM、Qwen 等模型也可按需切换\n\n平台按量计费，无掺水，有的只是偶尔运营活动的降价\n\n感谢您看到这里，有问题欢迎随时咨询官方的中文客服处理，谢谢～\n\n官网：https://omniakey.com/zh 价格：https://omniakey.com/zh#pricing 注册：https://omniakey.com/zh/register 客服：https://t.me/OmniaKey",
-      "establishedDate": "2025-08-02",
-      "modelCount": 8,
-      "models": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "uptime": 69.1,
-      "latencyMs": 8800,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 62,
-      "name": "幻灵AI",
-      "url": "https://www.hvoyai.com/sites/apihuanlingicu/",
-      "description": "提供稳定，平价，高速，高质量的token中转服务，pro分组为官方纯pro号池。模型保真保稳保纯。欢迎大家体验",
-      "establishedDate": "2026-07-20",
-      "modelCount": 19,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "Cursor",
-        "xAI"
-      ],
-      "uptime": 61.8,
-      "latencyMs": 12730,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 63,
-      "name": "FluxionAI",
-      "url": "https://www.hvoyai.com/sites/fluxionaispace/",
-      "description": "稳定的AI模型接入平台。基于自建号池，坚持模型一致性，拒绝掺假、半血与套壳。支持订阅与余额计费，可开具发票。",
-      "establishedDate": "2026-05-12",
-      "modelCount": 25,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "Google",
-        "月之暗面",
-        "智谱",
-        "xAI"
-      ],
-      "uptime": 41.2,
-      "latencyMs": 11160,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 64,
-      "name": "無忧 AI",
-      "url": "https://www.hvoyai.com/sites/wuyouaionline/",
-      "description": "【稳定平替】全网首选Claude, GPT 聚合网关，告别 API 报错！零成本迁移：提供标准的 Anthropic OpenAI 兼容端点，原有项目只需修改 baseURL 即可完美运行。稳健智能路由：基于容量与健康度自动分流，告别并发限制，告别单点故障。极度透明定价：无隐藏费用，按实际用量精准计费，让你的每一分钱都花在刀刃上。核心优势：专为Claude, GPT 模型优化中转链路，延迟更低，响应更快！",
-      "establishedDate": "2026-07-01",
-      "modelCount": 4,
-      "models": [
-        "OpenAI"
-      ],
-      "uptime": 65.9,
-      "latencyMs": 16860,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 65,
-      "name": "Aliapi",
-      "url": "https://www.hvoyai.com/sites/aliapicn/",
-      "description": "AliAPI 是面向开发者、团队及企业的大模型 API 中转服务平台，提供 Claude、Kiro、OpenAI 等主流模型的便捷接入服务。平台采用统一标准接口，接入简单、响应高效、计费灵活，帮助用户快速完成 AI 应用开发与模型切换。\n凭借稳定的服务能力和极具竞争力的价格，OpenAI 模型低至官方价格的 0.07 倍，有效降低模型调用成本。无论是个人项目、批量任务还是企业级应用，AliAPI 都能提供便捷、稳定且高性价比的模型服务。",
-      "establishedDate": "2026-07-01",
-      "modelCount": 9,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 76.5,
-      "latencyMs": 11550,
-      "userRating": 1,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 66,
-      "name": "SevnX",
-      "url": "https://www.hvoyai.com/sites/sevnxlol/",
-      "description": "Sevnx 是一家专注于 AI 模型接口聚合与加速的可靠、高效的 API 中转服务商。\n它通过统一的网关，为开发者和企业提供 Claude、ChatGPT 等多种主流大语言模型的便捷接入服务。\n无需逐一对接官方接口，也无需担心地域限制或速率波动，Sevnx 以稳定的带宽、低延迟响应和高可用性架构，保障每一次调用的质量。\n同时，Sevnx 支持灵活的计费方式、丰富的参数配置与简洁的 API 文档，帮助用户快速集成、降本增效，是构建智能应用、聊天机器人或内容生成工具的理想中转枢纽。",
-      "establishedDate": "2026-05-01",
-      "modelCount": 9,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 66.8,
-      "latencyMs": 13070,
-      "userRating": 5,
-      "ratingCount": 4,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 67,
+      "rank": 73,
       "name": "天枢",
       "url": "https://www.hvoyai.com/sites/tianshunet/",
       "description": "高性价比大模型 API 聚合平台,一个接口接入海量主流与新锐模型,按量计费、价格透明、稳定低价、即开即用,多线路高可用,客服售后及时。",
       "establishedDate": "2025-12-05",
-      "modelCount": 35,
+      "modelCount": 36,
       "models": [
-        "Anthropic",
         "OpenAI",
+        "Anthropic",
         "Google",
         "阿里云",
         "ByteDance",
@@ -1757,8 +1899,8 @@
         "智谱",
         "xAI"
       ],
-      "uptime": 49.6,
-      "latencyMs": 18620,
+      "uptime": 54.5,
+      "latencyMs": 16450,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -1768,182 +1910,10 @@
         "对公转账"
       ],
       "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 68,
-      "name": "稳定中转",
-      "url": "https://www.hvoyai.com/sites/xnfiq104an1x80scom/",
-      "description": "主打高稳定性，提供Codex全系列模型，纯余额站点，充值可退，固定分组不调倍率，0.05-0.3倍率。\n主页地址www.稳定中转.com\n备用地址www.ai6666.shop",
-      "establishedDate": "2026-07-01",
-      "modelCount": 15,
-      "models": [
-        "OpenAI",
-        "xAI",
-        "Anthropic",
-        "Google"
-      ],
-      "uptime": 56.5,
-      "latencyMs": 15170,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 69,
-      "name": "aruhub API",
-      "url": "https://www.hvoyai.com/sites/aruhubcom/",
-      "description": "AruHub 提供 GPT、Claude 等模型 API 接入，价格透明 不掺水，大量号池响应快，稳定性高，按实际用量计费，有问题可联系售后处理。可开发票可。",
-      "establishedDate": "2026-05-15",
-      "modelCount": 10,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "DeepSeek",
-        "月之暗面",
-        "智谱"
-      ],
-      "uptime": 35.7,
-      "latencyMs": 15070,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 70,
-      "name": "浮生云算",
-      "url": "https://www.hvoyai.com/sites/fushengyunsuancom/",
-      "description": "运营稳定，自营号池，3g上下行高速物理机。欢迎尝试。",
-      "establishedDate": "2026-04-11",
-      "modelCount": 10,
-      "models": [
-        "OpenAI",
-        "xAI"
-      ],
-      "uptime": 57.1,
-      "latencyMs": 16980,
-      "userRating": 5,
-      "ratingCount": 2,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": false
-    },
-    {
-      "rank": 71,
-      "name": "DawCode",
-      "url": "https://www.hvoyai.com/sites/dawclaudecodecom/",
-      "description": "Daw Code专注编程智能体，极致性能体验\n\n1. 极低延迟\n全球多节点部署，智能就近路由，确保每次 API 调用都以最短路径到达。\n\n2. 纯净 IP 隔离\n动态 IP 池技术，每个请求独立隔离，杜绝污染封禁风险。\n\n3. 超低费率\n特惠系列低至 0.26 一刀，按量计费，余额永不过期。\n\n4. 高缓存命中\n官方级缓存优化策略，大幅提升缓存命中率，特惠渠道同样享有。",
-      "establishedDate": "2025-11-25",
-      "modelCount": 22,
-      "models": [
-        "Anthropic",
-        "OpenAI",
-        "Google",
-        "xAI"
-      ],
-      "uptime": 48.7,
-      "latencyMs": 5780,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 72,
-      "name": "卡拉 Khala",
-      "url": "https://www.hvoyai.com/sites/khalaonline/",
-      "description": "站点名称：卡拉 Khala 网址：https://khala.online/\n\n卡拉 Khala —— OpenAI 兼容 API 中转站，一个 Key 畅用多模型。\n\n🧠 全模型聚合：GPT 系列 + DeepSeek + 生图，一个 Key 全打通，主推 GPT。\n⚡ 支持流式输出：首 Token 快，响应流畅不卡顿，长篇生成体验好。\n🎨 网页开箱即用（chat.khala.online）：浏览器直接对话+生图，客户端都不用配，上手更快。\n💰 透明按量计费：用多少扣多少，没有任何套餐套路，对比清晰。\n🎁 首充优惠：新用户加 QQ 群，享首充优惠，每账号一次。\n🎁 新用户注册就送0.5试用额度，每日签到随机赠送额度。\n🔒 双线冗余：洛杉矶 + 腾讯云双服务器，稳定在线不跑路。\n✅ 支付/开票：支持微信支付；可对公转账、开票。\n💸 退款保障：余额支持全额退款，用不完随时可退，联系管理员即可办理。\n💬 售后群：QQ 用户交流群 1049606415，有问题直接找管理员。\n\n——新用户注册即可调用，多模型随取随用。",
-      "establishedDate": "2026-08-09",
-      "modelCount": 10,
-      "models": [
-        "OpenAI",
-        "DeepSeek",
-        "xAI"
-      ],
-      "uptime": 46.5,
-      "latencyMs": 11660,
-      "userRating": 5,
-      "ratingCount": 1,
-      "paymentMethods": [
-        "微信"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 73,
-      "name": "Token-AI",
-      "url": "https://www.hvoyai.com/sites/tkenlol/",
-      "description": "本站提供稳定、低价、易接入的 AI API 中转服务，支持多种主流模型调用。无需复杂配置，生成 API Key 即可接入网站、程序、机器人和自动化工具。按量计费，余额透明，调用记录清晰，适合个人开发者和团队长期使用。直接国内企业大额开票，支持对公。",
-      "establishedDate": "2026-05-01",
-      "modelCount": 23,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "xAI"
-      ],
-      "uptime": 76.8,
-      "latencyMs": 7660,
-      "userRating": 3,
-      "ratingCount": 4,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": false,
       "supportsInvoice": true
     },
     {
       "rank": 74,
-      "name": "迈威AI",
-      "url": "https://www.hvoyai.com/sites/mxwellai/",
-      "description": "迈威AI是面向开发者的多模型 API 中转服务，支持 OpenAI、Claude等主流模型统一接入。采用自研调度器，提供稳定的请求转发、线路调度、用量统计和 API 密钥管理，持续维护更新，适用于 Claude Code、Codex CLI 及常见 OpenAI 兼容客户端。",
-      "establishedDate": "2026-04-03",
-      "modelCount": 28,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "xAI",
-        "阿里云",
-        "Cursor",
-        "DeepSeek",
-        "Google",
-        "月之暗面",
-        "智谱"
-      ],
-      "uptime": 68.2,
-      "latencyMs": 16150,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 75,
       "name": "Portdan AI",
       "url": "https://www.hvoyai.com/sites/portdancom/",
       "description": "Portdan AI聚合是面向开发者和团队的海外大模型 API 接入平台，支持 Claude Code、Codex、Gemini、GPT、DeepSeek、Kimi 等主流模型与工具场景。用户可通过统一 API Key 接入不同模型分组，按需选择适合 AI 编程、Agent 开发、自动化工作流和多模型测试的线路。平台提供清晰的文档、模型广场与分组说明，适合低成本试用和长期集成；订单在符合服务规则的情况下支持申请退款，降低首次接入和迁移试错成本。",
@@ -1952,8 +1922,8 @@
       "models": [
         "OpenAI"
       ],
-      "uptime": 93.7,
-      "latencyMs": 8670,
+      "uptime": 96,
+      "latencyMs": 11340,
       "userRating": 3,
       "ratingCount": 2,
       "paymentMethods": [
@@ -1966,12 +1936,32 @@
       "supportsInvoice": true
     },
     {
+      "rank": 75,
+      "name": "幻灵AI",
+      "url": "https://www.hvoyai.com/sites/apihuanlingicu/",
+      "description": "提供稳定，平价，高速，高质量的token中转服务，pro分组为官方纯pro号池。模型保真保稳保纯。欢迎大家体验",
+      "establishedDate": "2026-07-20",
+      "modelCount": 18,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "xAI"
+      ],
+      "uptime": 93.8,
+      "latencyMs": 12280,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [],
+      "supportsRefund": null,
+      "supportsInvoice": true
+    },
+    {
       "rank": 76,
       "name": "MX-AI",
       "url": "https://www.hvoyai.com/sites/mxzzzxyz/",
       "description": "稳定的企业级 AI 中转站，统一聚合 OpenAI、Claude、Gemini image2 香蕉生图 等主流模型接口！主打产品 GPT 三种分组 Plus Pro 企业 用户按需选择 三种分组全天24h可用 Pro和企业级针对追求极致稳定用户 首字10s内 高缓存 高命中 低延迟！Claude krio高缓存 满血MAX 两种分组 kiro缓存可达99% 满血禾维可测100分 全天24h可用！生图image2 香蕉 全天99%可调用 官方不炸我不炸！网页底层架构已深度优化 速度快延迟低 功能齐全 用户体验极好！充值梯度优惠 消费梯度优惠叠加 用了您就会爱上！",
       "establishedDate": "2026-06-13",
-      "modelCount": 28,
+      "modelCount": 29,
       "models": [
         "OpenAI",
         "Anthropic",
@@ -1982,8 +1972,8 @@
         "智谱",
         "xAI"
       ],
-      "uptime": 93.6,
-      "latencyMs": 8150,
+      "uptime": 97.2,
+      "latencyMs": 7310,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -1996,11 +1986,107 @@
     },
     {
       "rank": 77,
+      "name": "迈威AI",
+      "url": "https://www.hvoyai.com/sites/mxwellai/",
+      "description": "迈威AI是面向开发者的多模型 API 中转服务，支持 OpenAI、Claude等主流模型统一接入。采用自研调度器，提供稳定的请求转发、线路调度、用量统计和 API 密钥管理，持续维护更新，适用于 Claude Code、Codex CLI 及常见 OpenAI 兼容客户端。",
+      "establishedDate": "2026-04-03",
+      "modelCount": 28,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "xAI",
+        "阿里云",
+        "DeepSeek",
+        "Google",
+        "月之暗面",
+        "智谱"
+      ],
+      "uptime": 69.4,
+      "latencyMs": 15010,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 78,
+      "name": "八戒API",
+      "url": "https://www.hvoyai.com/sites/bajieapicom/",
+      "description": "我们专注提供稳定、高性价比的 AI API 中转服务，现已支持 GPT-5.5、GPT-5.6 Sol、Terra、Luna 及 GPT Image 2 等热门模型。平台采用多上游主备线路与智能故障切换机制，兼顾响应速度、成功率和使用成本；价格公开透明，输入、输出及缓存费用清晰可查，无隐藏扣费。接口兼容主流 OpenAI 调用格式，可快速接入 ChatGPT 客户端、Codex及各类开发工具。无论是日常对话、编程开发、批量任务还是图片生成，都能获得流畅、稳定、省心的使用体验。新用户可小额体验，专业客服随时响应，让每一次调用都更可靠、更划算。",
+      "establishedDate": "2026-07-25",
+      "modelCount": 14,
+      "models": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "uptime": 90.9,
+      "latencyMs": 13990,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 79,
+      "name": "aruhub API",
+      "url": "https://www.hvoyai.com/sites/aruhubcom/",
+      "description": "AruHub 提供 GPT、Claude 等模型 API 接入，价格透明 不掺水，大量号池响应快，稳定性高，按实际用量计费，有问题可联系售后处理。可开发票可。",
+      "establishedDate": "2026-05-15",
+      "modelCount": 10,
+      "models": [
+        "Anthropic",
+        "OpenAI",
+        "DeepSeek",
+        "月之暗面",
+        "智谱"
+      ],
+      "uptime": 29.9,
+      "latencyMs": 18690,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 80,
+      "name": "浮生云算",
+      "url": "https://www.hvoyai.com/sites/fushengyunsuancom/",
+      "description": "运营稳定，自营号池，3g上下行高速物理机。欢迎尝试。",
+      "establishedDate": "2026-04-11",
+      "modelCount": 10,
+      "models": [
+        "OpenAI",
+        "xAI"
+      ],
+      "uptime": 37.6,
+      "latencyMs": 15630,
+      "userRating": 5,
+      "ratingCount": 2,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": false
+    },
+    {
+      "rank": 81,
       "name": "河图",
       "url": "https://www.hvoyai.com/sites/hetunetop/",
       "description": "全新界面UI，不一样的感受！\n超低codex特惠，低至0.01x！\n全模型稳定99%！!\n支持市面几乎所有热门大模型+国模！",
       "establishedDate": "2026-08-02",
-      "modelCount": 28,
+      "modelCount": 30,
       "models": [
         "OpenAI",
         "Anthropic",
@@ -2008,14 +2094,14 @@
         "月之暗面",
         "阿里云",
         "MiniMax",
-        "智谱",
-        "ByteDance",
-        "Google",
         "Tencent Hunyuan",
-        "xAI"
+        "智谱",
+        "xAI",
+        "ByteDance",
+        "Google"
       ],
-      "uptime": 86.2,
-      "latencyMs": 16220,
+      "uptime": 80.6,
+      "latencyMs": 15950,
       "userRating": 5,
       "ratingCount": 1,
       "paymentMethods": [
@@ -2027,54 +2113,32 @@
       "supportsInvoice": true
     },
     {
-      "rank": 78,
-      "name": "Apiko",
-      "url": "https://www.hvoyai.com/sites/apikotop/",
-      "description": "全新UI！\n高防美国服务器\n低首字延迟！\n支持全国模！御三家！Codex- plus低至0.1x！\n火速来蹬，实时更新最新大模型！",
-      "establishedDate": "2026-09-01",
-      "modelCount": 20,
+      "rank": 82,
+      "name": "FluxionAI",
+      "url": "https://www.hvoyai.com/sites/fluxionaispace/",
+      "description": "稳定的AI模型接入平台。基于自建号池，坚持模型一致性，拒绝掺假、半血与套壳。支持订阅与余额计费，可开具发票。",
+      "establishedDate": "2026-05-12",
+      "modelCount": 26,
       "models": [
         "Anthropic",
         "OpenAI",
-        "DeepSeek",
+        "Google",
         "月之暗面",
         "智谱",
         "xAI"
       ],
-      "uptime": 46.3,
-      "latencyMs": 14890,
+      "uptime": 58.7,
+      "latencyMs": 21120,
       "userRating": null,
       "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 79,
-      "name": "tokenshop",
-      "url": "https://www.hvoyai.com/sites/tokenshophomes/",
-      "description": "一个走平价进货路线的ai小铺，只想在各位菊苣之中混口饭吃，平价ai。🍌个朋友。 不要D我，不要D我，不要D我，不要D我，不要D我！",
-      "establishedDate": "2026-05-22",
-      "modelCount": 17,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "xAI"
-      ],
-      "uptime": 47.4,
-      "latencyMs": 15710,
-      "userRating": 5,
-      "ratingCount": 1,
       "paymentMethods": [
-        "USDT",
-        "微信",
         "支付宝"
       ],
-      "supportsRefund": true,
-      "supportsInvoice": null
+      "supportsRefund": null,
+      "supportsInvoice": true
     },
     {
-      "rank": 80,
+      "rank": 83,
       "name": "tallius.ai",
       "url": "https://www.hvoyai.com/sites/apitalliusai/",
       "description": "tallius.ai 定位于开发者与团队的多模型 API 网关，而非仅做价格中转。平台对外提供 OpenAI 兼容接口，用户无需为每家大模型单独维护 SDK 与密钥体系；在同一控制台完成 API Key 管理、模型状态查看、用量与计费查询。计费采用按量结算，适合需要快速验证、逐步放量的 AI 应用与 Bot 项目。若您重视接入效率与费用可观测性，可优先对比此类网关型服务。\n\n官Key线路：对接厂商官方 API，模型与定价透明可查\n企业方案：专属分组、商务对接、对公计费与发票\n开发者友好：OpenAI 兼容，一个 Key 多模型\n按量计费：个人可自助注册，团队可升级企业服务\n\n企业需求可咨询客服",
@@ -2086,8 +2150,8 @@
         "DeepSeek",
         "MiniMax"
       ],
-      "uptime": 21.3,
-      "latencyMs": 25980,
+      "uptime": 15.2,
+      "latencyMs": 24340,
       "userRating": 5,
       "ratingCount": 1,
       "paymentMethods": [
@@ -2098,20 +2162,50 @@
       "supportsInvoice": true
     },
     {
-      "rank": 81,
-      "name": "八戒API",
-      "url": "https://www.hvoyai.com/sites/bajieapicom/",
-      "description": "我们专注提供稳定、高性价比的 AI API 中转服务，现已支持 GPT-5.5、GPT-5.6 Sol、Terra、Luna 及 GPT Image 2 等热门模型。平台采用多上游主备线路与智能故障切换机制，兼顾响应速度、成功率和使用成本；价格公开透明，输入、输出及缓存费用清晰可查，无隐藏扣费。接口兼容主流 OpenAI 调用格式，可快速接入 ChatGPT 客户端、Codex及各类开发工具。无论是日常对话、编程开发、批量任务还是图片生成，都能获得流畅、稳定、省心的使用体验。新用户可小额体验，专业客服随时响应，让每一次调用都更可靠、更划算。",
-      "establishedDate": "2026-07-25",
-      "modelCount": 13,
+      "rank": 84,
+      "name": "DawCode",
+      "url": "https://www.hvoyai.com/sites/dawclaudecodecom/",
+      "description": "Daw Code专注编程智能体，极致性能体验\n\n1. 极低延迟\n全球多节点部署，智能就近路由，确保每次 API 调用都以最短路径到达。\n\n2. 纯净 IP 隔离\n动态 IP 池技术，每个请求独立隔离，杜绝污染封禁风险。\n\n3. 超低费率\n特惠系列低至 0.26 一刀，按量计费，余额永不过期。\n\n4. 高缓存命中\n官方级缓存优化策略，大幅提升缓存命中率，特惠渠道同样享有。",
+      "establishedDate": "2025-11-25",
+      "modelCount": 29,
       "models": [
+        "Anthropic",
         "OpenAI",
-        "Anthropic"
+        "Google",
+        "DeepSeek",
+        "月之暗面",
+        "智谱",
+        "xAI"
       ],
-      "uptime": 83.6,
-      "latencyMs": 17250,
+      "uptime": 39.1,
+      "latencyMs": 7120,
       "userRating": null,
       "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝",
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 85,
+      "name": "稳定中转",
+      "url": "https://www.hvoyai.com/sites/xnfiq104an1x80scom/",
+      "description": "主打高稳定性，提供Codex全系列模型，纯余额站点，充值可退，固定分组不调倍率，0.05-0.3倍率。\n主页地址www.稳定中转.com\n备用地址www.ai6666.shop",
+      "establishedDate": "2026-07-01",
+      "modelCount": 15,
+      "models": [
+        "OpenAI",
+        "xAI",
+        "Anthropic",
+        "Google"
+      ],
+      "uptime": 51.9,
+      "latencyMs": 19730,
+      "userRating": 5,
+      "ratingCount": 1,
       "paymentMethods": [
         "支付宝"
       ],
@@ -2119,36 +2213,130 @@
       "supportsInvoice": false
     },
     {
-      "rank": 82,
-      "name": "T8 API",
-      "url": "https://www.hvoyai.com/sites/t8apicom/",
-      "description": "T8 API 是面向 AI 应用的统一 API 网关和大模型 API 管理平台，支持多模型调用、API 密钥管理、用量统计、计费与运营管理。\nT8 API 网关包含多个可用分组,其中多分组兼顾稳定、优惠、推理性能强、性价比高等多优点",
-      "establishedDate": "2024-05-14",
-      "modelCount": 35,
+      "rank": 86,
+      "name": "卡拉 Khala",
+      "url": "https://www.hvoyai.com/sites/khalaonline/",
+      "description": "站点名称：卡拉 Khala 网址：https://khala.online/\n\n卡拉 Khala —— OpenAI 兼容 API 中转站，一个 Key 畅用多模型。\n\n🧠 全模型聚合：GPT 系列 + DeepSeek + 生图，一个 Key 全打通，主推 GPT。\n⚡ 支持流式输出：首 Token 快，响应流畅不卡顿，长篇生成体验好。\n🎨 网页开箱即用（chat.khala.online）：浏览器直接对话+生图，客户端都不用配，上手更快。\n💰 透明按量计费：用多少扣多少，没有任何套餐套路，对比清晰。\n🎁 首充优惠：新用户加 QQ 群，享首充优惠，每账号一次。\n🎁 新用户注册就送0.5试用额度，每日签到随机赠送额度。\n🔒 双线冗余：洛杉矶 + 腾讯云双服务器，稳定在线不跑路。\n✅ 支付/开票：支持微信支付；可对公转账、开票。\n💸 退款保障：余额支持全额退款，用不完随时可退，联系管理员即可办理。\n💬 售后群：QQ 用户交流群 1049606415，有问题直接找管理员。\n\n——新用户注册即可调用，多模型随取随用。",
+      "establishedDate": "2026-08-09",
+      "modelCount": 10,
       "models": [
-        "Anthropic",
         "OpenAI",
-        "阿里云",
         "DeepSeek",
+        "xAI"
+      ],
+      "uptime": 52.1,
+      "latencyMs": 14650,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "微信"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 87,
+      "name": "Token-AI",
+      "url": "https://www.hvoyai.com/sites/tkenlol/",
+      "description": "本站提供稳定、低价、易接入的 AI API 中转服务，支持多种主流模型调用。无需复杂配置，生成 API Key 即可接入网站、程序、机器人和自动化工具。按量计费，余额透明，调用记录清晰，适合个人开发者和团队长期使用。直接国内企业大额开票，支持对公。",
+      "establishedDate": "2026-05-01",
+      "modelCount": 30,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
         "MiniMax",
         "月之暗面",
-        "Tencent Hunyuan",
-        "Xiaomi",
-        "智谱"
+        "智谱",
+        "xAI"
       ],
-      "uptime": 74.2,
-      "latencyMs": 15140,
-      "userRating": null,
-      "ratingCount": 0,
+      "uptime": 82.6,
+      "latencyMs": 7330,
+      "userRating": 3,
+      "ratingCount": 4,
       "paymentMethods": [
+        "USDT",
         "微信",
+        "支付宝",
+        "对公转账"
+      ],
+      "supportsRefund": false,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 88,
+      "name": "汪汪の中转站",
+      "url": "https://www.hvoyai.com/sites/apihyhawangcom/",
+      "description": "价格低，速度快，服务好。\n站长经常在社群活跃，经常举办各种抽奖活动。\n常年有低价分组供用户使用。\n立志让所有人都能用上低价的token！",
+      "establishedDate": "2026-01-31",
+      "modelCount": 14,
+      "models": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "uptime": 85.4,
+      "latencyMs": 22810,
+      "userRating": 4.714285714285714,
+      "ratingCount": 14,
+      "paymentMethods": [
+        "USDT",
         "支付宝"
       ],
       "supportsRefund": true,
       "supportsInvoice": true
     },
     {
-      "rank": 83,
+      "rank": 89,
+      "name": "tokenshop",
+      "url": "https://www.hvoyai.com/sites/tokenshophomes/",
+      "description": "一个走平价进货路线的ai小铺，只想在各位菊苣之中混口饭吃，平价ai。🍌个朋友。 不要D我，不要D我，不要D我，不要D我，不要D我！",
+      "establishedDate": "2026-05-22",
+      "modelCount": 17,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "xAI"
+      ],
+      "uptime": 63.9,
+      "latencyMs": 23990,
+      "userRating": 5,
+      "ratingCount": 1,
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 90,
+      "name": "DragonAPI",
+      "url": "https://www.hvoyai.com/sites/newapidragon3apicom/",
+      "description": "DragonAPI · 大模型接口中转\n\n专注为开发者提供高性价比的大模型接口服务，一个账号打通主流模型，接口完全兼容 OpenAI 标准，改个 base_url 就能用，无需改动任何代码。\n\n价格优势\n按官方 0.03 倍率计费，1 刀站内额度约等于官方 33 刀的调用量。同样的预算，能跑出 30 倍以上的量。按量计费，用多少扣多少，无月租无套餐，不用为闲置额度买单。\n\n稳定性\n专线集群直连，多节点负载均衡，高并发不排队不掉线。原生接口直连，不做中间层转换，响应速度与官方无异。\n\n透明可查\n后台账单实时更新，每一笔调用的模型、token 消耗、扣费金额全程可追溯，消费明细一目了然，无隐形扣费。\n\n充值即用\n兑换码充值，秒到账，额度永久有效不清零。多档面值可选，按需充值。\n\n广泛适配\nVS Code、Cursor、Cherry Studio、Claude Code、Codex 原生客户端等主流开发工具即插即用，配套文档齐全，新手照着文档几分钟即可接入。\n\n售后保障\n长期运营，问题随时响应。接入遇到任何问题都可以直接联系，协助排查到能正常调用为止。",
+      "establishedDate": "2026-07-01",
+      "modelCount": 29,
+      "models": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "xAI",
+        "DeepSeek",
+        "月之暗面",
+        "智谱"
+      ],
+      "uptime": 69.6,
+      "latencyMs": 15450,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 91,
       "name": "quotarouter",
       "url": "https://www.hvoyai.com/sites/quotarouterai/",
       "description": "1.我们的网站属于第三方中转服务类站点，我们提供统一的 API 入口、密钥管理、额度控制、用量统计和请求路由能力，帮助用户更稳定、更可控地接入多类 AI 模型服务。\n2.我们的主要优势在界面美观易懂，操作简单上手快。提供google/github快捷登录更加安全可靠。价格优势，我们的价格不论是相对官方还是其他同类型网站来说倍率更低，一手号池静态ip搭建更加稳定不会出现断供现象。\n3.在联系我们菜单中我们留下了客服的联系方式，无论是您遇到什么问题都可以向我们咨询，客服都会为您做出解答。",
@@ -2161,8 +2349,8 @@
         "OpenAI",
         "xAI"
       ],
-      "uptime": 35.9,
-      "latencyMs": 7830,
+      "uptime": 44.1,
+      "latencyMs": 8940,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -2174,77 +2362,37 @@
       "supportsInvoice": true
     },
     {
-      "rank": 84,
-      "name": "汪汪の中转站",
-      "url": "https://www.hvoyai.com/sites/apihyhawangcom/",
-      "description": "价格低，速度快，服务好。\n站长经常在社群活跃，经常举办各种抽奖活动。\n常年有低价分组供用户使用。\n立志让所有人都能用上低价的token！",
-      "establishedDate": "2026-01-31",
-      "modelCount": 14,
-      "models": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "uptime": 80.4,
-      "latencyMs": 23470,
-      "userRating": 4.714285714285714,
-      "ratingCount": 14,
-      "paymentMethods": [
-        "USDT",
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 85,
-      "name": "DragonAPI",
-      "url": "https://www.hvoyai.com/sites/newapidragon3apicom/",
-      "description": "DragonAPI · 大模型接口中转\n\n专注为开发者提供高性价比的大模型接口服务，一个账号打通主流模型，接口完全兼容 OpenAI 标准，改个 base_url 就能用，无需改动任何代码。\n\n价格优势\n按官方 0.03 倍率计费，1 刀站内额度约等于官方 33 刀的调用量。同样的预算，能跑出 30 倍以上的量。按量计费，用多少扣多少，无月租无套餐，不用为闲置额度买单。\n\n稳定性\n专线集群直连，多节点负载均衡，高并发不排队不掉线。原生接口直连，不做中间层转换，响应速度与官方无异。\n\n透明可查\n后台账单实时更新，每一笔调用的模型、token 消耗、扣费金额全程可追溯，消费明细一目了然，无隐形扣费。\n\n充值即用\n兑换码充值，秒到账，额度永久有效不清零。多档面值可选，按需充值。\n\n广泛适配\nVS Code、Cursor、Cherry Studio、Claude Code、Codex 原生客户端等主流开发工具即插即用，配套文档齐全，新手照着文档几分钟即可接入。\n\n售后保障\n长期运营，问题随时响应。接入遇到任何问题都可以直接联系，协助排查到能正常调用为止。",
-      "establishedDate": "2026-07-01",
-      "modelCount": 26,
-      "models": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "xAI",
-        "DeepSeek"
-      ],
-      "uptime": 62.6,
-      "latencyMs": 14970,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 86,
-      "name": "SpiderMan-API",
-      "url": "https://www.hvoyai.com/sites/spidermanapicom/",
-      "description": "高稳定低倍率，价格实惠，接入便捷适配多客户端，调用流畅少报错，计费透明，遇到问题可快速提供售后协助。",
-      "establishedDate": "2026-04-09",
-      "modelCount": 19,
+      "rank": 92,
+      "name": "ALRO",
+      "url": "https://www.hvoyai.com/sites/alrohuazhiweilaicom/",
+      "description": "ALRO全模态AI模型聚合服务平台是面向个人与企业的全栈AI生产力基础设施。以词元工厂为核心中枢，深度融通异构尊力、多元横型与应用生态，实现从底层算力到词元的规模化制造、智能调度与价值流转。ALRO伴随式个人智能体、自适应协同工作流引学与全场景智能办公套件，构筑起从个人泛在伴随智能体，到企业白流进群体智能网络的实用生产力闭环。平台聚合国内外领先的大语言，图像生成、视频生成等多模态AI能力，通过统一楼型接入，灵活调用，格式互通，要及企业级管理能力，帮助用户降低AI应用门槛，提高人工智能使用效率，让AI直正成为每个人和每个组织的生产力工具。",
+      "establishedDate": "2026-01-09",
+      "modelCount": 28,
       "models": [
         "Anthropic",
         "OpenAI",
+        "DeepSeek",
         "Google",
+        "MiniMax",
         "月之暗面",
-        "智谱"
+        "Tencent Hunyuan",
+        "智谱",
+        "xAI"
       ],
-      "uptime": 50.4,
-      "latencyMs": 13070,
+      "uptime": 63.4,
+      "latencyMs": 12100,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
-        "支付宝"
+        "微信",
+        "支付宝",
+        "对公转账"
       ],
       "supportsRefund": null,
-      "supportsInvoice": true
+      "supportsInvoice": null
     },
     {
-      "rank": 87,
+      "rank": 93,
       "name": "Love Token",
       "url": "https://www.hvoyai.com/sites/ilovetokentop/",
       "description": "主打低价稳定，不搞订阅，充多少用多少，不满意无理由退款。\n拒绝掺水，不轻易上调倍率（至今未上调过）。\n常驻福利：\n福利一：周二，周六天才程序员活动，倍率下调。\n福利二：充值福袋，每周三次。",
@@ -2255,8 +2403,8 @@
         "Anthropic",
         "xAI"
       ],
-      "uptime": 72.4,
-      "latencyMs": 11820,
+      "uptime": 80.1,
+      "latencyMs": 11120,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [
@@ -2267,52 +2415,55 @@
       "supportsInvoice": null
     },
     {
-      "rank": 88,
-      "name": "noonoo",
-      "url": "https://www.hvoyai.com/sites/noonooai/",
-      "description": "Noonoo 是一个面向开发者的 AI 模型聚合平台，提供 OpenAI Compatible API，支持 Claude、GPT等主流大模型统一接入。无需修改业务逻辑即可快速切换模型，帮助开发者降低接入成本、提升开发效率。平台提供稳定的 API 服务、高可用线路、详细的调用日志、透明的计费方式以及持续的模型更新，并提供完善的技术支持，适用于 AI 应用开发、Agent、Cursor、Claude Code、Cline、Open WebUI 等场景。",
-      "establishedDate": "2026-03-24",
-      "modelCount": 13,
+      "rank": 94,
+      "name": "我的贾维斯",
+      "url": "https://www.hvoyai.com/sites/apiaijwscom/",
+      "description": "我的贾维斯中转\n致力于做体验最好，价格最优惠的中转站\n使用过程中遇到任何随时联系我们 7*24小时为您服务\n交流群：796808428",
+      "establishedDate": "2026-05-27",
+      "modelCount": 8,
       "models": [
         "Anthropic",
         "OpenAI"
       ],
-      "uptime": 61.2,
-      "latencyMs": 11920,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "信用卡"
-      ],
+      "uptime": 13,
+      "latencyMs": 13680,
+      "userRating": 3.5714285714285716,
+      "ratingCount": 7,
+      "paymentMethods": [],
       "supportsRefund": true,
       "supportsInvoice": true
     },
     {
-      "rank": 89,
-      "name": "RightCode",
-      "url": "https://www.hvoyai.com/sites/rightcodes/",
-      "description": "RightCode 致力于为开发者提供稳定、高质量的 AI 模型 API 中转服务。\n\n我们覆盖 Claude、GPT、Gemini 等主流模型，价格透明、在线率持续监控。所有节点均经过严格筛选，确保低延迟与高可用性。\n\n我们的运维团队 7×24 小时响应，社群活跃，客服支持快速接入。无论是个人开发者、初创团队还是企业用户，都能在这里找到合适的方案。\n\n我们承诺：不掺水、不限速、不限并发，所有计费均按官方原价折算，发票合规",
-      "establishedDate": "",
-      "modelCount": 27,
+      "rank": 95,
+      "name": "T8 API",
+      "url": "https://www.hvoyai.com/sites/t8apicom/",
+      "description": "T8 API 是面向 AI 应用的统一 API 网关和大模型 API 管理平台，支持多模型调用、API 密钥管理、用量统计、计费与运营管理。\nT8 API 网关包含多个可用分组,其中多分组兼顾稳定、优惠、推理性能强、性价比高等多优点",
+      "establishedDate": "2024-05-14",
+      "modelCount": 34,
       "models": [
         "Anthropic",
-        "DeepSeek",
-        "Google",
         "OpenAI",
-        "xAI"
+        "阿里云",
+        "DeepSeek",
+        "MiniMax",
+        "月之暗面",
+        "Tencent Hunyuan",
+        "Xiaomi",
+        "智谱"
       ],
-      "uptime": 73.1,
-      "latencyMs": 12430,
-      "userRating": 4.6,
-      "ratingCount": 10,
+      "uptime": 54.3,
+      "latencyMs": 18050,
+      "userRating": null,
+      "ratingCount": 0,
       "paymentMethods": [
+        "微信",
         "支付宝"
       ],
       "supportsRefund": true,
       "supportsInvoice": true
     },
     {
-      "rank": 90,
+      "rank": 96,
       "name": "umi",
       "url": "https://www.hvoyai.com/sites/umiluxurycom/",
       "description": "充值比率1：3，不定期发放福利，邀请好友有奖励，前期主要对接企业客户，目前需要做一些c端客户进行走量，探测cc-pro分组，cc-aws高缓存分组，gpt-Pro兜底组，cc-max线路一，claude资源都是质检通过的内部资源，倍率0.3左右，希望给推给大伙使用，市面上面质检过的资源太混乱，价格乱标",
@@ -2328,8 +2479,8 @@
         "智谱",
         "xAI"
       ],
-      "uptime": 56.4,
-      "latencyMs": 8160,
+      "uptime": 77.3,
+      "latencyMs": 8560,
       "userRating": null,
       "ratingCount": 0,
       "paymentMethods": [],
@@ -2337,12 +2488,57 @@
       "supportsInvoice": null
     },
     {
-      "rank": 91,
+      "rank": 97,
+      "name": "RightCode",
+      "url": "https://www.hvoyai.com/sites/rightcodes/",
+      "description": "RightCode 致力于为开发者提供稳定、高质量的 AI 模型 API 中转服务。\n\n我们覆盖 Claude、GPT、Gemini 等主流模型，价格透明、在线率持续监控。所有节点均经过严格筛选，确保低延迟与高可用性。\n\n我们的运维团队 7×24 小时响应，社群活跃，客服支持快速接入。无论是个人开发者、初创团队还是企业用户，都能在这里找到合适的方案。\n\n我们承诺：不掺水、不限速、不限并发，所有计费均按官方原价折算，发票合规",
+      "establishedDate": "",
+      "modelCount": 28,
+      "models": [
+        "Anthropic",
+        "DeepSeek",
+        "Google",
+        "OpenAI",
+        "xAI"
+      ],
+      "uptime": 78.6,
+      "latencyMs": 14950,
+      "userRating": 4.6,
+      "ratingCount": 10,
+      "paymentMethods": [
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 98,
+      "name": "noonoo",
+      "url": "https://www.hvoyai.com/sites/noonooai/",
+      "description": "Noonoo 是一个面向开发者的 AI 模型聚合平台，提供 OpenAI Compatible API，支持 Claude、GPT等主流大模型统一接入。无需修改业务逻辑即可快速切换模型，帮助开发者降低接入成本、提升开发效率。平台提供稳定的 API 服务、高可用线路、详细的调用日志、透明的计费方式以及持续的模型更新，并提供完善的技术支持，适用于 AI 应用开发、Agent、Cursor、Claude Code、Cline、Open WebUI 等场景。",
+      "establishedDate": "2026-03-24",
+      "modelCount": 13,
+      "models": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "uptime": 76.3,
+      "latencyMs": 11060,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "信用卡"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
+    },
+    {
+      "rank": 99,
       "name": "Poixe AI",
       "url": "https://www.hvoyai.com/sites/poixecom/",
       "description": "PoixeAI 是一个提供 AI 大模型 API 接口的平台，致力于为用户提供高效、稳定且可靠的 AI 服务。我们聚合了领先的 AI 大模型，如 ChatGPT 和 DeepSeek，帮助用户便捷地调用这些强大的模型。\n\n1. 关于团队\n我们的团队由一群年轻且富有经验的技术工程师组成，大家充满活力，耐心且专业。\n\n2. 我们的愿景\nPoixeAI 的愿景是构建一个简洁易用的 AI 服务平台，致力于降低用户使用 AI 技术的门槛，推动人工智能在各行各业的广泛应用。\n\n我们希望每个人都能轻松访问强大的 AI 模型，将这些技术应用于实际问题的解决。我们的目标是打造一个开放、包容、创新的 AI 生态系统，为推动第三次工业革命奠定基础。",
       "establishedDate": "",
-      "modelCount": 33,
+      "modelCount": 34,
       "models": [],
       "uptime": 0,
       "latencyMs": null,
@@ -2357,7 +2553,7 @@
       "supportsInvoice": null
     },
     {
-      "rank": 92,
+      "rank": 100,
       "name": "通API",
       "url": "https://www.hvoyai.com/sites/tongapicom/",
       "description": "",
@@ -2373,7 +2569,7 @@
       "supportsInvoice": null
     },
     {
-      "rank": 93,
+      "rank": 101,
       "name": "Claude API",
       "url": "https://www.hvoyai.com/sites/claudeapicom/",
       "description": "Claude API国内直连，三分钟接入 Claude Code 与 Agent 应用 新用户可领取测试额度。一键配置，立即可用，支持检测，技术&客服7*24专业支持。基于 Anthropic 官方 Key + AWS Bedrock 官方渠道，非逆向、非降智，支持 Opus / Sonnet / Haiku 全系列模型，保留 Tool Use、1M 上下文等官方能力。适合 Claude Code 深度用户、Agent 工程师与企业技术团队，支持开票和团队对接。",
@@ -2389,7 +2585,7 @@
       "supportsInvoice": null
     },
     {
-      "rank": 94,
+      "rank": 102,
       "name": "Helentest",
       "url": "https://www.hvoyai.com/sites/baiducom/",
       "description": "helentest账户密码需符合以下要求：/////\n\n必须包含英文字符，且至少含 1 个大写字母\n必须包含数字\n必须包含特殊符号\n密码长度需大于 8 位\n在收到完整登记信息及额度配置后，我们通常会在 1–2 个工作日内完成收录配置。\n\n我们承诺，所提供的全部探测额度仅用于技术检测，不作任何其他用途。\n\n如有任何问题，欢迎随时与我们联系。",
@@ -2405,7 +2601,7 @@
       "supportsInvoice": false
     },
     {
-      "rank": 95,
+      "rank": 103,
       "name": "聪明AI",
       "url": "https://www.hvoyai.com/sites/sub2congmingaicom/",
       "description": "主要对接散户，价格公道合理，稳定是第一要素。codex倍率0.1，延迟单独做过优化，负载做的很好，号池有冗余，专业做codex。可生图1k，2k，4\nk。可使用fast模式。",
@@ -2421,52 +2617,15 @@
       "supportsInvoice": null
     },
     {
-      "rank": 96,
-      "name": "XMAPI",
-      "url": "https://www.hvoyai.com/sites/xbhuizcom/",
-      "description": "XMAPI —— 高速稳定的AI模型中转平台。覆盖GPT、Claude 等主流模型，三网优化专线，在线率98%+。为开发者和企业提供高性价比、即开即用的API服务，支持多模型统一接入。",
-      "establishedDate": "2026-03-06",
-      "modelCount": 6,
-      "models": [],
-      "uptime": 46.2,
-      "latencyMs": 13333,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 97,
-      "name": "我的贾维斯",
-      "url": "https://www.hvoyai.com/sites/apiaijwscom/",
-      "description": "我的贾维斯中转\n致力于做体验最好，价格最优惠的中转站\n使用过程中遇到任何随时联系我们 7*24小时为您服务\n交流群：796808428",
-      "establishedDate": "2026-05-27",
-      "modelCount": 8,
-      "models": [],
-      "uptime": 12,
-      "latencyMs": 22285,
-      "userRating": 3.5714285714285716,
-      "ratingCount": 7,
-      "paymentMethods": [],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 98,
+      "rank": 104,
       "name": "Portal",
       "url": "https://www.hvoyai.com/sites/portal123top/",
       "description": "统一的 AI API 控制台入口，兼容 OpenAI 调用方式，支持流式响应与后台权限校验。QQ客服2443165524，套餐价格合理，渠道稳定，长久服务每一位客户。",
       "establishedDate": "2026-06-22",
       "modelCount": 6,
       "models": [],
-      "uptime": 44.9,
-      "latencyMs": 14846,
+      "uptime": 29,
+      "latencyMs": 17460,
       "userRating": 5,
       "ratingCount": 1,
       "paymentMethods": [
@@ -2476,47 +2635,7 @@
       "supportsInvoice": true
     },
     {
-      "rank": 99,
-      "name": "EiRouter",
-      "url": "https://www.hvoyai.com/sites/eirouterai/",
-      "description": "EiRouter.AI｜接入前沿模型\nEiRouter 是各AI模型路由层。把调用需求，路由到闲置的官方订阅额度。\n调用端用更优惠的价格使用模型；托管端把闲置额度变现。\n\n官网：https://eirouter.ai\n托管：https://cloud.eirouter.ai\nTelegram：https://t.me/eirouter\nQQ 群：537777741\n\n一份余额打通 Claude Opus / Sonnet / Fable 5、GPT-5.5 / GPT-5.6 Sol / GPT-5.6 Terra、Gemini Pro，以及 Image、Embeddings。\n用多少付多少，页面价即结算价，控制台实时看用量。\n按你指定的模型调用，不换模型，不用仿制品顶替官方模型名。\n\n为什么现在注册：\n• 注册不用信用卡，新用户可先领体验额度，再测 Cursor / Cherry Studio / Dify / LobeChat\n• 兼容 OpenAI + Anthropic，只改 base_url，原有代码和客户端不用重写\n• 新模型首日同步：Fable 5 / 5.1、Opus 4.8 / 4.7 / 4.6、Sonnet 5、GPT-5.6 系列\n• 国内直连、多节点负载均衡；支持流式、Function Call、视觉识别\n• 不留存对话，HTTPS 全程加密\n• 微信 / 支付宝 / 对公转账，可开国内发票\n\n3 步开始：\n打开 https://eirouter.ai → 免费创建账户 → 拿 Key，把 base_url 换成站点地址即可调用。\n\n已有 Claude / Codex 订阅、额度经常用不满，可到托管端接入：https://cloud.eirouter.ai\n按实际调用结算，提供者留存 75%。收益随需求波动，官方不承诺固定回报。",
-      "establishedDate": "2026-06-05",
-      "modelCount": 12,
-      "models": [],
-      "uptime": 54.1,
-      "latencyMs": 7505,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 100,
-      "name": "GGUUAI",
-      "url": "https://www.hvoyai.com/sites/gguuaicom/",
-      "description": "GGUUAI 为开发者提供稳定、高速、高性价比的大模型API 中转服务。\n\n全站覆盖 Claude、GPT、Gemini及 国内 等主流模型，价格透明、模型真实。\n\n支持负责均衡、智能容灾，提供高可用性的API服务。",
-      "establishedDate": "2026-06-14",
-      "modelCount": 21,
-      "models": [],
-      "uptime": 47.5,
-      "latencyMs": 14502,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "信用卡"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 101,
+      "rank": 105,
       "name": "DragToken",
       "url": "https://www.hvoyai.com/sites/dragtokenscom/",
       "description": "DragTokens专注打造一手自营正价GPT Pro号池，0.18倍率，支持发票、公对公打款，资源稳定、价格透明、支持退款、提供专门技术支持。",
@@ -2536,51 +2655,15 @@
       "supportsInvoice": null
     },
     {
-      "rank": 102,
-      "name": "Like·AI",
-      "url": "https://www.hvoyai.com/sites/likeaicc/",
-      "description": "Like·AI—— AI 大模型中转站，为开发者提供纯净、高效的算力通道\n🚀 站点定位\n我们是专注于AI 大模型API中转的技术服务型平台，主打不掺水、低倍率、超稳定。7x24小时服务，为您提供最原汁原味的模型调用体验。\n\n✨ 核心优势\n真·不掺水（Zero Tampering）\n我们承诺：无参数篡改，无回传截断，无水文填充。所有请求透传至源站，返回原始数据流。您调用 temperature=0 就是0，max_tokens 绝不被恶意占用，确保您在调试和生产环境中的结果一致性。\n极致低倍率（Low Multiplier）\n拒绝行业高倍率的“智商税”。我们采用接近官方成本的定价策略，倍率远低于市场平均水平。用量越大，单价越低，让您的项目在推理成本上拥有绝对的竞争优势。\n企业级稳定性（Enterprise Stability）\n自建高性能中转节点，优化国际链路。支持多Key轮询与自动熔断，单点故障不影响业务运行。配合智能限流与重试机制，保障高并发场景下的持续可用性。\n\n🛠️ 服务特点\n全模型兼容：无缝对接 GPT-5.6、Claude 5.0、Gemini 3.5 等主流及最新模型。\n原生流式传输：完美支持 Stream 模式，首字延迟（TTFB）极低，打字机效果流畅自然。\nOpenAI 兼容接口：仅需修改 base_url，无需改动现有代码逻辑，迁移成本为零。\n实时用量监控：后台提供精细到每一分钱的账单系统，支持按日/周/月统计，消费明明白白。\n\n💰 价格体系\n公开透明：官网实时公示各模型价格，无隐藏收费。\n灵活计费：支持按量付费，账户余额永不过期。\n阶梯折扣：针对高频调用用户（企业级），提供专属VIP低价通道，请联系客服洽谈。\n\n🔒 稳定性保障\n99.9% SLA：我们致力于提供高可用服务，基础设施冗余部署。\n心跳监测：7x24小时自动化监控节点状态，故障秒级切换。\n高并发支持：底层架构支持弹性扩容，从容应对流量洪峰。\n\n📞 售后服务\n极速响应：Telegram/工单系统支持，技术人员在线答疑，拒绝机器人套话。\n技术赋能：不仅解决调用问题，更能提供模型选型、Prompt 优化等专业建议。\n专属通道：高等级用户配备一对一客户经理，享受优先技术支持。\n【立即接入，体验纯粹的AI算力】\n访问官网：https://like-ai.cc",
-      "establishedDate": "2026-01-01",
-      "modelCount": 16,
-      "models": [],
-      "uptime": 72.5,
-      "latencyMs": 8944,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 103,
-      "name": "Yomi API",
-      "url": "https://www.hvoyai.com/sites/yomiapicom/",
-      "description": "Yomi API 是 AI 大模型 API 聚合平台。传统中转站只解决\"连得上\"，Yomi 更进一步——专注解决\"用得高效\"：把多模型选型、比价、性能监控、统一计费整合进一套系统。\n\nQQ群不定期发放大额福利：1078436366\n\n稳定接入 GPT、Claude、Gemini、DeepSeek 等 40+ 模型，全系 OpenAI 兼容、零改造接入；模型广场实时比价 + 24h 性能快照，让\"哪个最划算/最快/最稳\"变成可量化决策。按 token 透明计费、无隐藏扣量，一张账单统管全模型消耗，最低可至官方价一折，即充即用、无月费无最低消费。\n\n东京高防节点 + Cloudflare 加速，SLA 保障，控制台实时公开延迟/TPS/成功率；提供全天售后，不满意随时可退款，尤其适配企业级用户规模化调用。",
-      "establishedDate": "2026-07-25",
-      "modelCount": 27,
-      "models": [],
-      "uptime": 30.5,
-      "latencyMs": 9209,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "微信",
-        "支付宝",
-        "对公转账"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 104,
+      "rank": 106,
       "name": "ToTokens",
       "url": "https://www.hvoyai.com/sites/totokenscc/",
       "description": "ToTokens是一站式多模型平台，支持按量计费、智能调度，价格透明，线路稳定，并提供人工售后支持。",
       "establishedDate": "2026-02-14",
       "modelCount": 14,
       "models": [],
-      "uptime": 97.5,
-      "latencyMs": 6663,
+      "uptime": 71.4,
+      "latencyMs": 8860,
       "userRating": 1,
       "ratingCount": 2,
       "paymentMethods": [
@@ -2593,31 +2676,15 @@
       "supportsInvoice": true
     },
     {
-      "rank": 105,
-      "name": "gods",
-      "url": "https://www.hvoyai.com/sites/meisgoldtop/",
-      "description": "接口运行稳定不掺水，拒绝虚标稀释算力，价格长期维持市面最低档位，现有 0.06 倍率 GPT 可供调用，响应速度快，可用性强，实测落地使用体验靠谱",
-      "establishedDate": "2026-06-29",
-      "modelCount": 10,
-      "models": [],
-      "uptime": 66.1,
-      "latencyMs": 16217,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
-      "supportsInvoice": null
-    },
-    {
-      "rank": 106,
+      "rank": 107,
       "name": "ahriapi",
       "url": "https://www.hvoyai.com/sites/ahriapicom/",
       "description": "提供gpt team+plus、gpt pro、ccmax 满血模型、image2生图、香蕉生图、gemini等模型分组。主打24小时稳定服务，成立后经历市场多次动荡都没有拉闸过，稳定分组长时间保持1-3秒首字，可靠性高，服务稳定。是追求快速、稳定的个人和企业的不二选择，注册后还有新用户邀请活动，可获得20%新用户充值返利额度，欢迎试用。",
       "establishedDate": "2026-05-01",
       "modelCount": 13,
       "models": [],
-      "uptime": 58.2,
-      "latencyMs": 9530,
+      "uptime": 55,
+      "latencyMs": 11057,
       "userRating": 5,
       "ratingCount": 1,
       "paymentMethods": [
@@ -2628,7 +2695,26 @@
       "supportsInvoice": null
     },
     {
-      "rank": 107,
+      "rank": 108,
+      "name": "無忧 AI",
+      "url": "https://www.hvoyai.com/sites/wuyouaionline/",
+      "description": "【稳定平替】全网首选Claude, GPT 聚合网关，告别 API 报错！零成本迁移：提供标准的 Anthropic OpenAI 兼容端点，原有项目只需修改 baseURL 即可完美运行。稳健智能路由：基于容量与健康度自动分流，告别并发限制，告别单点故障。极度透明定价：无隐藏费用，按实际用量精准计费，让你的每一分钱都花在刀刃上。核心优势：专为Claude, GPT 模型优化中转链路，延迟更低，响应更快！",
+      "establishedDate": "2026-07-01",
+      "modelCount": 4,
+      "models": [],
+      "uptime": 15.2,
+      "latencyMs": 12173,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 109,
       "name": "yintu_ai",
       "url": "https://www.hvoyai.com/sites/apiyintucc/",
       "description": "专业提供 OpenAI、Claude 等主流大模型 API 中转服务。国内网络可直接调用，延迟低、价格优、接入简单，适合个人开发者、工作室和中小团队快速搭建 AI 应用。稳定 · 快速 · 低价 · 自动补号机制 · 即充即用",
@@ -2646,46 +2732,6 @@
       ],
       "supportsRefund": true,
       "supportsInvoice": true
-    },
-    {
-      "rank": 108,
-      "name": "CheapAI",
-      "url": "https://www.hvoyai.com/sites/cheapaiinfo/",
-      "description": "低价 + 让所有人都用得起 GPT 最顶尖的模型\n我们的理念\n我们相信，顶尖 AI 不应该被价格挡在门外。我们的理念很简单：低价 + 让所有人都用得起 GPT 最顶尖的模型。\n绝不掺水，不限制并发，欢迎任何人对接使用",
-      "establishedDate": "2026-08-30",
-      "modelCount": 18,
-      "models": [],
-      "uptime": 53.8,
-      "latencyMs": 11690,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "USDT",
-        "微信",
-        "支付宝",
-        "对公转账",
-        "信用卡"
-      ],
-      "supportsRefund": true,
-      "supportsInvoice": true
-    },
-    {
-      "rank": 109,
-      "name": "溯光",
-      "url": "https://www.hvoyai.com/sites/suguangapicc/",
-      "description": "溯光是一家可靠高效的 API 中转服务商，提供 GPT、Claude、Grok 等多种模型服务的中转。\n“溯光”意为追溯光源。我们始终站在用户角度，帮你从众多模型中筛选出更合适的能力，而不是让你被模型选择束缚。\n自 2026 年起，溯光持续优化多模型统一接入，降低使用门槛。",
-      "establishedDate": "2026-08-03",
-      "modelCount": 12,
-      "models": [],
-      "uptime": 30.9,
-      "latencyMs": 9809,
-      "userRating": null,
-      "ratingCount": 0,
-      "paymentMethods": [
-        "支付宝"
-      ],
-      "supportsRefund": null,
-      "supportsInvoice": null
     },
     {
       "rank": 110,
@@ -2725,7 +2771,7 @@
       "url": "https://www.hvoyai.com/sites/chatekticc/",
       "description": "",
       "establishedDate": "",
-      "modelCount": 14,
+      "modelCount": 13,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -3482,7 +3528,7 @@
       "url": "https://www.hvoyai.com/sites/linkapiai/",
       "description": "LinkAPI：新一代 AI 大模型中转服务平台\n稳定可靠、官方渠道保障、极速响应、生产级高可用、价格透明",
       "establishedDate": "",
-      "modelCount": 31,
+      "modelCount": 32,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -3498,7 +3544,7 @@
       "url": "https://www.hvoyai.com/sites/callxyqxyz/",
       "description": "",
       "establishedDate": "",
-      "modelCount": 39,
+      "modelCount": 40,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -3630,7 +3676,7 @@
       "url": "https://www.hvoyai.com/sites/ogogai/",
       "description": "",
       "establishedDate": "",
-      "modelCount": 19,
+      "modelCount": 20,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -3742,7 +3788,7 @@
       "url": "https://www.hvoyai.com/sites/packyapiai/",
       "description": "PackyCode 是一家可靠高效的 API 中转服务商，提供 Claude Code、Codex、Gemini 等多种服务的中转。\n\nPackyCode 大约是24年底25年初开始活跃, 是国内比较早针对Claude Code进行优化的供应商.\n\n这个站点与开源社区互动比较频繁, 站长在x上也非常活跃, 客服响应比较快. 随着发展, 这个站已经是很多中转站的上游供应商.",
       "establishedDate": "",
-      "modelCount": 47,
+      "modelCount": 48,
       "models": [],
       "uptime": 0,
       "latencyMs": null,
@@ -3826,7 +3872,7 @@
       "url": "https://www.hvoyai.com/sites/apirootflowaicom/",
       "description": "",
       "establishedDate": "",
-      "modelCount": 26,
+      "modelCount": 27,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -3842,7 +3888,7 @@
       "url": "https://www.hvoyai.com/sites/sparkcodetop/",
       "description": "无需多个账号，一站式访问三大AI模型。标准1:1倍率，GPT系列仅0.2倍率，为您节省80%成本。\n灵活的付费方式，两种模式可叠加使用，优先消耗套餐额度：\n1.按量计费：用多少付多少，无需预付费\n2.包月套餐：限时额度，成本更低",
       "establishedDate": "",
-      "modelCount": 26,
+      "modelCount": 27,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -4038,7 +4084,7 @@
       "url": "https://www.hvoyai.com/sites/apigptge/",
       "description": "V-API：使用标准的OpenAI接口协议访问500+模型，不限时间、按量计费、极速对话、明细透明，无隐藏消费，在线充值后即可使用所有模型，已服务数万用户。\n—— 极速响应，让速度为您见证一切！",
       "establishedDate": "",
-      "modelCount": 45,
+      "modelCount": 48,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -4118,7 +4164,7 @@
       "url": "https://www.hvoyai.com/sites/zerocodesbs/",
       "description": "",
       "establishedDate": "",
-      "modelCount": 12,
+      "modelCount": 13,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -4422,7 +4468,7 @@
       "url": "https://www.hvoyai.com/sites/huanapicom/",
       "description": "",
       "establishedDate": "",
-      "modelCount": 21,
+      "modelCount": 22,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -4470,7 +4516,7 @@
       "url": "https://www.hvoyai.com/sites/infaicc/",
       "description": "",
       "establishedDate": "",
-      "modelCount": 55,
+      "modelCount": 57,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -4758,7 +4804,7 @@
       "url": "https://www.hvoyai.com/sites/aiflashapitop/",
       "description": "",
       "establishedDate": "",
-      "modelCount": 24,
+      "modelCount": 25,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -5251,7 +5297,7 @@
       "url": "https://www.hvoyai.com/sites/chunxueapicom/",
       "description": "ChunXue API 是一个面向开发者与个人用户的 API 中转与接入服务平台，旨在提供稳定、优质的tokens，一个key调用国外大模型。采用1G大带宽物理服务器保障请求转发的稳定性和响应速度，价格透明不玩暗改倍率价格那套。",
       "establishedDate": "",
-      "modelCount": 22,
+      "modelCount": 23,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -5411,7 +5457,7 @@
       "url": "https://www.hvoyai.com/sites/aixem8k5top/",
       "description": "xem API 是面向开发者的 AI 模型接入平台，目前支持 GPT 全系模型，所有号池均为付费订阅账号。\n不掺水、不限速、不限并发，所有计费均透明，支持发票。\n同时开设付费用户专用分组，保证付费用户的稳定使用。\n兼容 OpenAI 风格接口，便于接入现有应用、脚本与自动化流程，也适合团队协作与项目交付场景快速落地。\n另开设超低价image2接口，支持网页在线使用和api调用。",
       "establishedDate": "2026-03-10",
-      "modelCount": 27,
+      "modelCount": 28,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -5701,7 +5747,7 @@
       "url": "https://www.hvoyai.com/sites/ephoneai/",
       "description": "ePhone AI 介绍\nePhone AI 是一家专注于 AI 大模型 API 中转服务的专业平台，支持 ChatGPT、Claude、Gemini 等主流顶尖 AI 模型的稳定接入，支持几乎所有的图片、视频模型，致力于为开发者、企业和创作者提供低成本、高效率的 AIGC 应用构建解决方案。\n\n自 2024 年 3 月 正式上线运营以来，ePhone AI 凭借完整的技术团队架构与扎实的基础设施建设，持续为全球用户提供稳定、纯净、高性价比的 API 服务，是运营时间较早、体系较为完善的 API 中转服务商之一。\n\n核心优势\n🏗️ 自建基础设施 平台拥有自建机房，并接入 Cloudflare 企业版 网络加速，从底层保障连接稳定性与请求速度，彻底告别中转不稳、延迟高的痛点。\n\n⚡ 企业级高速渠道 100% 采用企业高速专用渠道，非共享低价线路，确保高并发场景下依然保持优秀的响应速度与可用性。\n\n🔒 隐私安全承诺 平台承诺不保留任何聊天数据，无广告、无套路，100% 保障用户隐私与数据安全，适合有合规需求的企业客户。\n\n🌐 无障碍全球直连 无需科学上网，全球直连访问，无封号风险，兼容 OpenAI 接口协议，开箱即用，接入成本极低。\n\n💰 极致性价比 价格远低于官方定价，API Key 支持自定义使用时间与余额限制，灵活管理使用成本，适配个人开发者到大型企业的多样化需求。\n\nePhone AI 始终坚持以技术驱动服务，以稳定赢得信任，是您构建智能应用、实现自动化升级的可靠 AI 基础设施伙伴。",
       "establishedDate": "2024-03-12",
-      "modelCount": 47,
+      "modelCount": 49,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -5957,7 +6003,7 @@
       "url": "https://www.hvoyai.com/sites/apiyunservercn/",
       "description": "主打 GPT-5.4，输入仅 ¥0.66/1M Tokens，补全 ¥3.96，缓存读取低至 ¥0.22。兼容 OpenAI 接口格式，国内直连无需科学上网，99.9% 高可用，用极低成本享受顶级AI服务。",
       "establishedDate": "2026-05-10",
-      "modelCount": 2,
+      "modelCount": 1,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -6053,7 +6099,7 @@
       "url": "https://www.hvoyai.com/sites/1xmai/",
       "description": "🔗 OneXModel 是一个聚合 AI 算力平台，全球顶级模型算力无门槛接入，适合日常写作、编程、创意生成、图像生成等多种场景\n\n我们团队长期投入在模型接入、稳定性优化和服务体验上，希望把“稳定、好用、靠谱”这几件事认真做好\n\n我们相信：链接全球顶级 AI 能力，可以创造无限可能\n\n为什么选择我们？\n1. 源头资源，技术过硬，诚信经营\n我们拥有一手资源和技术团队，持续做接入、优化与稳定性保障，避免中间损耗和“掺水”等问题\n\n2. 透明定价，诚意满满\n目前平台提供了透明且非常有竞争力的价格方案：\n\n充值汇率：1 RMB = 1 USD ，1 USD = 50 万额度\n实际扣除额度 = 消耗的 Tokens 数量 × 分组倍率\nCC 系列分组：cc-aws ，分组倍率 x3.5 企业级 API ，官 key 兜底\nCC 系列分组：cc-sale ，分组倍率 x0.6 逆向GPT适配 CC\nCC 系列分组：cc-windsurf ，分组倍率 x0.6 逆向Claude\nGPT 系列分组：openai ，分组倍率 x0.5 优质号池，体验与性价比拉满\ngpt-image-2：1K-0.1$/张  4K-0.16$/张\n无论你是拿来写代码、做内容、搞创意，还是单纯想找个顺手的 AI 工具，基本都能满足\n\n3. 充值门槛低\n最低 1 元起充\n\n4. 支持开票\n累计充值金额 > 500 元 可开发票，方便公司报销\n\n5. 售后明确\n充值后如体验不满意，7 天内支持全额退款（需扣除 15%手续费）\n\n6. 用户复购情况不错\n目前单次充值 > 100 元 的用户，复购率超过 79%。越来越多的朋友选择 🔗 OneXModel ~",
       "establishedDate": "2026-03-17",
-      "modelCount": 6,
+      "modelCount": 7,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -6559,7 +6605,7 @@
       "url": "https://www.hvoyai.com/sites/apixaixme/",
       "description": "",
       "establishedDate": "",
-      "modelCount": 27,
+      "modelCount": 28,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -6751,7 +6797,7 @@
       "url": "https://www.hvoyai.com/sites/superapibuzz/",
       "description": "",
       "establishedDate": "",
-      "modelCount": 33,
+      "modelCount": 34,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -7448,7 +7494,7 @@
       "url": "https://www.hvoyai.com/sites/zhangyuapicom/",
       "description": "章鱼公益平台是新一代 AI 基座平台，为您的 AI 应用提供统一的基础设施。承载所有 AI 应用，管理您的数字资产，连接未来的统一接口平台。",
       "establishedDate": "2026-04-07",
-      "modelCount": 2,
+      "modelCount": 3,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -9471,7 +9517,7 @@
       "url": "https://www.hvoyai.com/sites/apihepingantop/",
       "description": "支持GPT/Claude/Gemini，倍率低，每周有低价渠道福利，基于sub2api搭建，无模型偷换、模型参水、对话数据读取、token量篡改等正不当操作，诚信交易，如果觉得token或模型有问题我可以把我后台给你看；觉得好用可以推荐给周围朋友~OpenAI爆破小组：https://qm.qq.com/q/juEDiEmady或直接加q群799128896",
       "establishedDate": "2026-05-20",
-      "modelCount": 5,
+      "modelCount": 4,
       "models": [],
       "uptime": null,
       "latencyMs": null,
@@ -10627,7 +10673,7 @@
       "rank": 594,
       "name": "DDTokens",
       "url": "https://www.hvoyai.com/sites/apiddtcom/",
-      "description": "注册即送$1额度，进群再送$2，QQ群：1054335639   Telegram：https://t.me/DDTokens",
+      "description": "Telegram：https://t.me/DDTokens",
       "establishedDate": "2026-07-01",
       "modelCount": 0,
       "models": [],
@@ -14496,9 +14542,13 @@
       "latencyMs": null,
       "userRating": null,
       "ratingCount": 0,
-      "paymentMethods": [],
-      "supportsRefund": null,
-      "supportsInvoice": null
+      "paymentMethods": [
+        "USDT",
+        "微信",
+        "支付宝"
+      ],
+      "supportsRefund": true,
+      "supportsInvoice": true
     },
     {
       "rank": 819,
@@ -14538,6 +14588,22 @@
       "url": "https://www.hvoyai.com/sites/tbtkasia/",
       "description": "自建国模号池\n  我们有更低的价格 更好的服务 更好的质量\n【优势】创建1个key可调用全站模型\n【价格】一手货源拥有价格优势 \n【稳定性】全周可用率99.99%\n【售后】有售后群交流通知群",
       "establishedDate": "2026-06-15",
+      "modelCount": 0,
+      "models": [],
+      "uptime": null,
+      "latencyMs": null,
+      "userRating": null,
+      "ratingCount": 0,
+      "paymentMethods": [],
+      "supportsRefund": null,
+      "supportsInvoice": null
+    },
+    {
+      "rank": 822,
+      "name": "ccCode",
+      "url": "https://www.hvoyai.com/sites/cccodecn/",
+      "description": "cc家族，0.12倍率gpt。有国模，kimi，glm，deepseek，以及不定期luna。和0.02倍率分组的国模混合",
+      "establishedDate": "2026-07-19",
       "modelCount": 0,
       "models": [],
       "uptime": null,

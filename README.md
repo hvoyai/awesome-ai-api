@@ -51,122 +51,122 @@
 <!-- HVOY_RANKING_START -->
 ## AI API 中转站实时排行榜
 
-> 数据更新于 2026-09-11，当前共收录 821 个站点。数据来自 [禾维 AI](https://www.hvoyai.com)，会随站点探测结果和公开信息定期更新。
+> 数据更新于 2026-09-12，当前共收录 822 个站点。数据来自 [禾维 AI](https://www.hvoyai.com)，会随站点探测结果和公开信息定期更新。
 
 | 排名 | 站点 | 在线率 | 平均延迟 | 模型数量 | 主要模型厂商 | 用户评分 | 支付方式 | 退款 | 发票 |
 | ---: | --- | ---: | ---: | ---: | --- | --- | --- | --- | --- |
 | 1 | [DuiAPI](<https://www.hvoyai.com/sites/duiapicom/>) | 0% | 0 ms | 13 | 智谱、阿里云、DeepSeek、月之暗面、MiniMax | 4.7272727272727275（11 条） | 微信、支付宝 | 支持 | 暂无信息 |
-| 2 | [CUN.ai](<https://www.hvoyai.com/sites/cunai/>) | 83.2% | 11550 ms | 41 | 阿里云、Anthropic、DeepSeek、Google、MiniMax、月之暗面、OpenAI、智谱、xAI | 4.48936170212766（94 条） | USDT、微信、支付宝、信用卡 | 暂无信息 | 支持 |
-| 3 | [SudoCode](<https://www.hvoyai.com/sites/sudocodechat/>) | 90.3% | 10900 ms | 13 | OpenAI、Anthropic | 4.75（8 条） | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
-| 4 | [灵算](<https://www.hvoyai.com/sites/lingsuantop/>) | 97.3% | 10160 ms | 26 | Anthropic、OpenAI、阿里云、DeepSeek、Google、月之暗面、智谱、xAI | 4.428571428571429（14 条） | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 5 | [9527code](<https://www.hvoyai.com/sites/9527codes/>) | 81.8% | 9730 ms | 41 | Anthropic、OpenAI、DeepSeek、Google、MiniMax、月之暗面、阿里云、智谱、xAI | 4.836363636363636（55 条） | 微信、支付宝、对公转账 | 支持 | 支持 |
-| 6 | [MuskAI](<https://www.hvoyai.com/sites/apimuskapicc/>) | 98.3% | 6470 ms | 46 | OpenAI、Anthropic、xAI、Google、阿里云、DeepSeek、MiniMax、月之暗面、Tencent Hunyuan、Xiaomi、智谱、ByteDance | 4.5（4 条） | 暂无信息 | 暂无信息 | 暂无信息 |
-| 7 | [Modelflare](<https://www.hvoyai.com/sites/originmodelflaredev/>) | 76.1% | 11990 ms | 22 | Anthropic、OpenAI、xAI、阿里云、DeepSeek、Google、月之暗面、智谱 | 3.5（14 条） | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 8 | [ALRO](<https://www.hvoyai.com/sites/alrohuazhiweilaicom/>) | 36% | 10010 ms | 27 | Anthropic、OpenAI、DeepSeek、Google、MiniMax、月之暗面、Tencent Hunyuan、智谱、xAI | 暂无评分 | 微信、支付宝、对公转账 | 暂无信息 | 暂无信息 |
-| 9 | [Ccode-AI](<https://www.hvoyai.com/sites/ccodedev/>) | 78% | 7610 ms | 25 | Anthropic、OpenAI、智谱、xAI、DeepSeek、月之暗面 | 暂无评分 | USDT、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 10 | [88API Token聚合平台](<https://www.hvoyai.com/sites/88apiai/>) | 91.4% | 12570 ms | 33 | Anthropic、OpenAI、DeepSeek、智谱、xAI、Google、MiniMax、月之暗面、Tencent Hunyuan、Xiaomi | 5（1 条） | USDT、支付宝、对公转账、信用卡 | 不支持 | 支持 |
-| 11 | [aicodemirror.ai](<https://www.hvoyai.com/sites/aicodemirrorai/>) | 84.1% | 12880 ms | 9 | Anthropic、OpenAI | 暂无评分 | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 12 | [hao.ai](<https://www.hvoyai.com/sites/haoai/>) | 84.6% | 7750 ms | 17 | Anthropic、OpenAI、xAI | 5（2 条） | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 13 | [jcode](<https://www.hvoyai.com/sites/jcodecc/>) | 73.8% | 5160 ms | 15 | Anthropic、Google、OpenAI | 暂无评分 | 微信、支付宝 | 支持 | 不支持 |
-| 14 | [Moniker](<https://www.hvoyai.com/sites/aimonikertop/>) | 88% | 8110 ms | 30 | Anthropic、OpenAI、DeepSeek、智谱、阿里云、Google、月之暗面、xAI | 暂无评分 | 支付宝 | 支持 | 支持 |
-| 15 | [RunAPI](<https://www.hvoyai.com/sites/runapihost/>) | 84% | 7090 ms | 46 | Anthropic、Google、OpenAI、月之暗面、智谱、xAI、阿里云、DeepSeek、MiniMax | 暂无评分 | 支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 16 | [AutoRouter](<https://www.hvoyai.com/sites/autorouternet/>) | 89.4% | 9850 ms | 38 | Anthropic、OpenAI、Google、阿里云、DeepSeek、月之暗面、Xiaomi、智谱、xAI | 暂无评分 | 微信、支付宝 | 支持 | 不支持 |
-| 17 | [木易(MueMod)](<https://www.hvoyai.com/sites/muemodtop/>) | 99.5% | 6390 ms | 12 | Anthropic、OpenAI | 5（2 条） | 支付宝 | 暂无信息 | 支持 |
-| 18 | [云渡](<https://www.hvoyai.com/sites/yundulol/>) | 94.3% | 9560 ms | 19 | OpenAI、Anthropic、xAI | 5（3 条） | 微信、支付宝 | 支持 | 支持 |
-| 19 | [Super Model](<https://www.hvoyai.com/sites/supermodelcc/>) | 97.7% | 5110 ms | 12 | Anthropic、OpenAI、xAI | 暂无评分 | 微信、支付宝 | 支持 | 支持 |
-| 20 | [YKH.AI](<https://www.hvoyai.com/sites/apiykhai/>) | 85.2% | 7560 ms | 11 | OpenAI、Anthropic | 5（3 条） | USDT、微信、支付宝、对公转账、信用卡 | 暂无信息 | 支持 |
-| 21 | [ModCon](<https://www.hvoyai.com/sites/modcontop/>) | 100% | 10080 ms | 13 | Anthropic、OpenAI | 5（2 条） | 微信、支付宝 | 暂无信息 | 暂无信息 |
-| 22 | [Toknex](<https://www.hvoyai.com/sites/toknexai/>) | 78.8% | 9150 ms | 19 | Anthropic、DeepSeek、OpenAI、xAI | 5（4 条） | 微信、支付宝、信用卡 | 支持 | 支持 |
-| 23 | [XycAi(星道智能)](<https://www.hvoyai.com/sites/xycaius/>) | 11.1% | 9980 ms | 42 | OpenAI、Anthropic、DeepSeek、Google、MiniMax、月之暗面、智谱、xAI | 5（1 条） | 暂无信息 | 不支持 | 支持 |
-| 24 | [UU API](<https://www.hvoyai.com/sites/uuapiio/>) | 78.2% | 7730 ms | 30 | Anthropic、OpenAI、Google、阿里云、DeepSeek、月之暗面、智谱、xAI | 5（14 条） | USDT、微信、支付宝、对公转账 | 暂无信息 | 支持 |
-| 25 | [词易](<https://www.hvoyai.com/sites/chiyicncom/>) | 96.3% | 11010 ms | 14 | OpenAI、Anthropic、Google | 4.428571428571429（7 条） | 微信、支付宝、对公转账 | 支持 | 支持 |
-| 26 | [8sToken](<https://www.hvoyai.com/sites/8stokencom/>) | 78% | 13130 ms | 43 | Anthropic、OpenAI、MiniMax、xAI、阿里云、DeepSeek、Google、月之暗面、Tencent Hunyuan、Xiaomi、智谱 | 5（4 条） | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
-| 27 | [Cavoti API](<https://www.hvoyai.com/sites/cavoticom/>) | 89.6% | 10930 ms | 8 | OpenAI、Anthropic | 暂无评分 | USDT、微信、支付宝、信用卡 | 暂无信息 | 支持 |
-| 28 | [Plinero](<https://www.hvoyai.com/sites/plinerocom/>) | 84.3% | 10870 ms | 10 | Anthropic、DeepSeek、月之暗面、智谱 | 暂无评分 | USDT、支付宝、对公转账 | 暂无信息 | 支持 |
-| 29 | [TimeRoar AI](<https://www.hvoyai.com/sites/aitimeroaraicom/>) | 71.5% | 6250 ms | 18 | OpenAI、Anthropic、Cursor、xAI | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 30 | [LMU AI · 灵眸](<https://www.hvoyai.com/sites/apilmuaiai/>) | 74.6% | 8950 ms | 8 | Anthropic、OpenAI | 暂无评分 | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 31 | [瓦瓦AI](<https://www.hvoyai.com/sites/wawapiicom/>) | 82.3% | 12090 ms | 14 | OpenAI、Anthropic | 5（26 条） | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 32 | [Euzhi](<https://www.hvoyai.com/sites/euzhivip/>) | 88.1% | 15790 ms | 11 | OpenAI、xAI | 暂无评分 | 支付宝 | 支持 | 支持 |
-| 33 | [niccom](<https://www.hvoyai.com/sites/niccomcomcn/>) | 71.4% | 13090 ms | 51 | DeepSeek、月之暗面、OpenAI、阿里云、MiniMax、智谱、Anthropic、Google、Tencent Hunyuan、Xiaomi、xAI、ByteDance | 暂无评分 | 微信、支付宝、对公转账 | 支持 | 支持 |
-| 34 | [ccgo](<https://www.hvoyai.com/sites/ccgoaiclub/>) | 78.8% | 15060 ms | 9 | Anthropic、Google、OpenAI | 5（1 条） | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 35 | [AIGateHub](<https://www.hvoyai.com/sites/apivllmproxycom/>) | 83.1% | 12830 ms | 22 | Anthropic、OpenAI、Google、xAI | 5（2 条） | USDT、支付宝、对公转账 | 支持 | 支持 |
-| 36 | [Modelsell](<https://www.hvoyai.com/sites/modelsellcom/>) | 97.9% | 7500 ms | 47 | Anthropic、OpenAI、DeepSeek、Google、智谱、月之暗面、阿里云、MiniMax、xAI、Tencent Hunyuan、Xiaomi | 暂无评分 | USDT、微信、支付宝、对公转账、信用卡 | 暂无信息 | 支持 |
-| 37 | [A6api](<https://www.hvoyai.com/sites/a6apicom/>) | 78.5% | 13090 ms | 37 | 阿里云、Anthropic、DeepSeek、Google、MiniMax、月之暗面、OpenAI、Tencent Hunyuan、Xiaomi、智谱、xAI | 5（4 条） | USDT、微信、支付宝 | 暂无信息 | 暂无信息 |
-| 38 | [KittyRouter](<https://www.hvoyai.com/sites/kittyroutercom/>) | 83% | 11360 ms | 47 | Anthropic、Google、OpenAI、xAI、MiniMax、智谱、阿里云、DeepSeek、月之暗面、Tencent Hunyuan、Xiaomi | 暂无评分 | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
-| 39 | [LLMAPI](<https://www.hvoyai.com/sites/llmapipro/>) | 75.4% | 12400 ms | 17 | OpenAI、Anthropic、Google | 2.75（8 条） | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 40 | [酷API](<https://www.hvoyai.com/sites/kuapicc/>) | 77.5% | 9250 ms | 19 | Anthropic、DeepSeek、月之暗面、OpenAI、智谱、xAI | 暂无评分 | 微信、对公转账 | 支持 | 支持 |
-| 41 | [极策](<https://www.hvoyai.com/sites/apijiceapicom/>) | 40% | 6610 ms | 16 | Anthropic、OpenAI | 暂无评分 | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
-| 42 | [API快连](<https://www.hvoyai.com/sites/apiklai/>) | 64% | 14010 ms | 34 | OpenAI、Anthropic、Google、xAI、DeepSeek、MiniMax、月之暗面、智谱 | 暂无评分 | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 43 | [远桥云 API](<https://www.hvoyai.com/sites/yuanqiaoyuncom/>) | 66.2% | 12790 ms | 28 | Anthropic、OpenAI、Google、月之暗面、智谱、ByteDance、DeepSeek、xAI | 暂无评分 | 支付宝 | 暂无信息 | 支持 |
-| 44 | [znbcode](<https://www.hvoyai.com/sites/znbcodecom/>) | 72.4% | 15470 ms | 13 | Anthropic、DeepSeek、OpenAI、月之暗面 | 暂无评分 | 微信、支付宝 | 支持 | 不支持 |
-| 45 | [Volt](<https://www.hvoyai.com/sites/voltapiai/>) | 64.5% | 15470 ms | 39 | Anthropic、Google、OpenAI、阿里云、ByteDance、DeepSeek、MiniMax、月之暗面、智谱、xAI | 5（3 条） | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
-| 46 | [悟空API](<https://www.hvoyai.com/sites/wkapipro/>) | 66.7% | 12830 ms | 22 | OpenAI、Anthropic、智谱、DeepSeek、Google、月之暗面、xAI | 3.8333333333333335（6 条） | 微信、支付宝 | 支持 | 支持 |
-| 47 | [relaycore](<https://www.hvoyai.com/sites/relaycorecn/>) | 69.4% | 14340 ms | 38 | Anthropic、OpenAI、DeepSeek、Google、智谱、xAI、阿里云、MiniMax、月之暗面、Tencent Hunyuan、Xiaomi | 暂无评分 | 微信 | 支持 | 暂无信息 |
-| 48 | [模方](<https://www.hvoyai.com/sites/apimodelscubecom/>) | 83.9% | 6270 ms | 21 | OpenAI、Anthropic、DeepSeek | 5（1 条） | 支付宝 | 暂无信息 | 暂无信息 |
-| 49 | [ToolCode](<https://www.hvoyai.com/sites/toolcodetop/>) | 88.9% | 9270 ms | 13 | OpenAI、Anthropic | 5（1 条） | 支付宝 | 支持 | 支持 |
-| 50 | [Logits Token](<https://www.hvoyai.com/sites/logitstokencom/>) | 62.9% | 8300 ms | 12 | OpenAI、Anthropic | 暂无评分 | 支付宝、对公转账 | 支持 | 支持 |
-| 51 | [AnPin AI](<https://www.hvoyai.com/sites/anpinai/>) | 81.7% | 13030 ms | 10 | Anthropic、OpenAI | 5（1 条） | USDT、微信、支付宝、对公转账 | 暂无信息 | 暂无信息 |
-| 52 | [UniLink](<https://www.hvoyai.com/sites/apiunilinkwork/>) | 88.3% | 18190 ms | 33 | Google、OpenAI、Anthropic、DeepSeek、月之暗面、智谱、xAI | 暂无评分 | 支付宝 | 支持 | 不支持 |
-| 53 | [Moe Api](<https://www.hvoyai.com/sites/moeapicloud/>) | 66.6% | 14640 ms | 19 | OpenAI、Anthropic、Google、月之暗面、智谱 | 4（1 条） | 微信、支付宝、对公转账 | 支持 | 支持 |
-| 54 | [智流 FluxLane](<https://www.hvoyai.com/sites/fluxlanecn/>) | 68.8% | 11660 ms | 27 | Anthropic、OpenAI、DeepSeek、月之暗面、智谱、xAI、阿里云、Google | 5（1 条） | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 55 | [GPTEAM](<https://www.hvoyai.com/sites/portalgpteamservicescom/>) | 72.8% | 9950 ms | 29 | Anthropic、ByteDance、DeepSeek、Google、MiniMax、月之暗面、OpenAI、Xiaomi、智谱 | 暂无评分 | 微信、支付宝 | 支持 | 暂无信息 |
-| 56 | [夯炸了AI](<https://www.hvoyai.com/sites/apihangzhalecom/>) | 77.4% | 7130 ms | 25 | OpenAI、Anthropic、xAI、Cursor、Google | 暂无评分 | 微信、支付宝 | 支持 | 支持 |
-| 57 | [onehop](<https://www.hvoyai.com/sites/onehopai/>) | 90.8% | 10610 ms | 23 | Anthropic、DeepSeek、Google、MiniMax、月之暗面、OpenAI、智谱 | 暂无评分 | USDT、支付宝、信用卡 | 支持 | 暂无信息 |
-| 58 | [ttflows](<https://www.hvoyai.com/sites/apittflowscom/>) | 85.7% | 12950 ms | 12 | Anthropic、OpenAI | 暂无评分 | 支付宝 | 支持 | 不支持 |
-| 59 | [VovoKey｜启界](<https://www.hvoyai.com/sites/vovokeycom/>) | 58.8% | 15240 ms | 33 | Anthropic、Google、OpenAI、DeepSeek、月之暗面、智谱、xAI | 暂无评分 | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 60 | [智惠API](<https://www.hvoyai.com/sites/apiapi2cncom/>) | 73.3% | 11910 ms | 18 | OpenAI、Anthropic、DeepSeek、Google、月之暗面、xAI | 5（34 条） | 微信、支付宝、信用卡 | 支持 | 暂无信息 |
-| 61 | [OmniaKey](<https://www.hvoyai.com/sites/omniakeycom/>) | 69.1% | 8800 ms | 8 | Anthropic、OpenAI | 暂无评分 | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 62 | [幻灵AI](<https://www.hvoyai.com/sites/apihuanlingicu/>) | 61.8% | 12730 ms | 19 | OpenAI、Anthropic、Cursor、xAI | 暂无评分 | 暂无信息 | 暂无信息 | 支持 |
-| 63 | [FluxionAI](<https://www.hvoyai.com/sites/fluxionaispace/>) | 41.2% | 11160 ms | 25 | Anthropic、OpenAI、Google、月之暗面、智谱、xAI | 暂无评分 | 支付宝 | 暂无信息 | 支持 |
-| 64 | [無忧 AI](<https://www.hvoyai.com/sites/wuyouaionline/>) | 65.9% | 16860 ms | 4 | OpenAI | 暂无评分 | 微信、支付宝 | 暂无信息 | 暂无信息 |
-| 65 | [Aliapi](<https://www.hvoyai.com/sites/aliapicn/>) | 76.5% | 11550 ms | 9 | OpenAI、Anthropic | 1（1 条） | 支付宝 | 支持 | 不支持 |
-| 66 | [SevnX](<https://www.hvoyai.com/sites/sevnxlol/>) | 66.8% | 13070 ms | 9 | OpenAI、Anthropic | 5（4 条） | 微信、支付宝 | 暂无信息 | 支持 |
-| 67 | [天枢](<https://www.hvoyai.com/sites/tianshunet/>) | 49.6% | 18620 ms | 35 | Anthropic、OpenAI、Google、阿里云、ByteDance、DeepSeek、MiniMax、月之暗面、智谱、xAI | 暂无评分 | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
-| 68 | [稳定中转](<https://www.hvoyai.com/sites/xnfiq104an1x80scom/>) | 56.5% | 15170 ms | 15 | OpenAI、xAI、Anthropic、Google | 5（1 条） | 支付宝 | 支持 | 不支持 |
-| 69 | [aruhub API](<https://www.hvoyai.com/sites/aruhubcom/>) | 35.7% | 15070 ms | 10 | Anthropic、OpenAI、DeepSeek、月之暗面、智谱 | 暂无评分 | 微信、支付宝 | 支持 | 暂无信息 |
-| 70 | [浮生云算](<https://www.hvoyai.com/sites/fushengyunsuancom/>) | 57.1% | 16980 ms | 10 | OpenAI、xAI | 5（2 条） | 支付宝 | 支持 | 不支持 |
-| 71 | [DawCode](<https://www.hvoyai.com/sites/dawclaudecodecom/>) | 48.7% | 5780 ms | 22 | Anthropic、OpenAI、Google、xAI | 暂无评分 | 微信、支付宝、信用卡 | 支持 | 支持 |
-| 72 | [卡拉 Khala](<https://www.hvoyai.com/sites/khalaonline/>) | 46.5% | 11660 ms | 10 | OpenAI、DeepSeek、xAI | 5（1 条） | 微信 | 支持 | 支持 |
-| 73 | [Token-AI](<https://www.hvoyai.com/sites/tkenlol/>) | 76.8% | 7660 ms | 23 | OpenAI、Anthropic、Google、xAI | 3（4 条） | USDT、微信、支付宝、对公转账 | 不支持 | 支持 |
-| 74 | [迈威AI](<https://www.hvoyai.com/sites/mxwellai/>) | 68.2% | 16150 ms | 28 | OpenAI、Anthropic、xAI、阿里云、Cursor、DeepSeek、Google、月之暗面、智谱 | 暂无评分 | USDT、微信、支付宝 | 支持 | 支持 |
-| 75 | [Portdan AI](<https://www.hvoyai.com/sites/portdancom/>) | 93.7% | 8670 ms | 7 | OpenAI | 3（2 条） | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
-| 76 | [MX-AI](<https://www.hvoyai.com/sites/mxzzzxyz/>) | 93.6% | 8150 ms | 28 | OpenAI、Anthropic、阿里云、Google、MiniMax、月之暗面、智谱、xAI | 暂无评分 | USDT、微信、支付宝 | 支持 | 支持 |
-| 77 | [河图](<https://www.hvoyai.com/sites/hetunetop/>) | 86.2% | 16220 ms | 28 | OpenAI、Anthropic、DeepSeek、月之暗面、阿里云、MiniMax、智谱、ByteDance、Google、Tencent Hunyuan、xAI | 5（1 条） | USDT、微信、支付宝 | 支持 | 支持 |
-| 78 | [Apiko](<https://www.hvoyai.com/sites/apikotop/>) | 46.3% | 14890 ms | 20 | Anthropic、OpenAI、DeepSeek、月之暗面、智谱、xAI | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 79 | [tokenshop](<https://www.hvoyai.com/sites/tokenshophomes/>) | 47.4% | 15710 ms | 17 | OpenAI、Anthropic、xAI | 5（1 条） | USDT、微信、支付宝 | 支持 | 暂无信息 |
-| 80 | [tallius.ai](<https://www.hvoyai.com/sites/apitalliusai/>) | 21.3% | 25980 ms | 12 | OpenAI、Anthropic、DeepSeek、MiniMax | 5（1 条） | 对公转账、信用卡 | 支持 | 支持 |
-| 81 | [八戒API](<https://www.hvoyai.com/sites/bajieapicom/>) | 83.6% | 17250 ms | 13 | OpenAI、Anthropic | 暂无评分 | 支付宝 | 支持 | 不支持 |
-| 82 | [T8 API](<https://www.hvoyai.com/sites/t8apicom/>) | 74.2% | 15140 ms | 35 | Anthropic、OpenAI、阿里云、DeepSeek、MiniMax、月之暗面、Tencent Hunyuan、Xiaomi、智谱 | 暂无评分 | 微信、支付宝 | 支持 | 支持 |
-| 83 | [quotarouter](<https://www.hvoyai.com/sites/quotarouterai/>) | 35.9% | 7830 ms | 21 | Anthropic、DeepSeek、Google、OpenAI、xAI | 暂无评分 | USDT、微信、信用卡 | 支持 | 支持 |
-| 84 | [汪汪の中转站](<https://www.hvoyai.com/sites/apihyhawangcom/>) | 80.4% | 23470 ms | 14 | OpenAI、Anthropic | 4.714285714285714（14 条） | USDT、支付宝 | 支持 | 支持 |
-| 85 | [DragonAPI](<https://www.hvoyai.com/sites/newapidragon3apicom/>) | 62.6% | 14970 ms | 26 | OpenAI、Anthropic、Google、xAI、DeepSeek | 暂无评分 | 支付宝 | 支持 | 支持 |
-| 86 | [SpiderMan-API](<https://www.hvoyai.com/sites/spidermanapicom/>) | 50.4% | 13070 ms | 19 | Anthropic、OpenAI、Google、月之暗面、智谱 | 暂无评分 | 支付宝 | 暂无信息 | 支持 |
-| 87 | [Love Token](<https://www.hvoyai.com/sites/ilovetokentop/>) | 72.4% | 11820 ms | 14 | OpenAI、Anthropic、xAI | 暂无评分 | 微信、支付宝 | 支持 | 暂无信息 |
-| 88 | [noonoo](<https://www.hvoyai.com/sites/noonooai/>) | 61.2% | 11920 ms | 13 | Anthropic、OpenAI | 暂无评分 | 信用卡 | 支持 | 支持 |
-| 89 | [RightCode](<https://www.hvoyai.com/sites/rightcodes/>) | 73.1% | 12430 ms | 27 | Anthropic、DeepSeek、Google、OpenAI、xAI | 4.6（10 条） | 支付宝 | 支持 | 支持 |
-| 90 | [umi](<https://www.hvoyai.com/sites/umiluxurycom/>) | 56.4% | 8160 ms | 23 | Anthropic、OpenAI、DeepSeek、Google、MiniMax、月之暗面、智谱、xAI | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 91 | [Poixe AI](<https://www.hvoyai.com/sites/poixecom/>) | 0% | 0 ms | 33 | 暂无信息 | 5（1 条） | 支付宝、对公转账、信用卡 | 暂无信息 | 暂无信息 |
-| 92 | [通API](<https://www.hvoyai.com/sites/tongapicom/>) | 0% | 0 ms | 8 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 93 | [Claude API](<https://www.hvoyai.com/sites/claudeapicom/>) | 0% | 0 ms | 4 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 94 | [Helentest](<https://www.hvoyai.com/sites/baiducom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 不支持 | 不支持 |
-| 95 | [聪明AI](<https://www.hvoyai.com/sites/sub2congmingaicom/>) | 0% | 0 ms | 0 | 暂无信息 | 4（1 条） | 暂无信息 | 暂无信息 | 暂无信息 |
-| 96 | [XMAPI](<https://www.hvoyai.com/sites/xbhuizcom/>) | 46.2% | 13333 ms | 6 | 暂无信息 | 暂无评分 | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 97 | [我的贾维斯](<https://www.hvoyai.com/sites/apiaijwscom/>) | 12% | 22285 ms | 8 | 暂无信息 | 3.5714285714285716（7 条） | 暂无信息 | 支持 | 支持 |
-| 98 | [Portal](<https://www.hvoyai.com/sites/portal123top/>) | 44.9% | 14846 ms | 6 | 暂无信息 | 5（1 条） | 支付宝 | 暂无信息 | 支持 |
-| 99 | [EiRouter](<https://www.hvoyai.com/sites/eirouterai/>) | 54.1% | 7505 ms | 12 | 暂无信息 | 暂无评分 | 微信、支付宝、对公转账 | 支持 | 支持 |
-| 100 | [GGUUAI](<https://www.hvoyai.com/sites/gguuaicom/>) | 47.5% | 14502 ms | 21 | 暂无信息 | 暂无评分 | 微信、支付宝、信用卡 | 暂无信息 | 暂无信息 |
-| 101 | [DragToken](<https://www.hvoyai.com/sites/dragtokenscom/>) | 0% | 0 ms | 0 | 暂无信息 | 5（48 条） | 微信、支付宝、对公转账 | 暂无信息 | 暂无信息 |
-| 102 | [Like·AI](<https://www.hvoyai.com/sites/likeaicc/>) | 72.5% | 8944 ms | 16 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 103 | [Yomi API](<https://www.hvoyai.com/sites/yomiapicom/>) | 30.5% | 9209 ms | 27 | 暂无信息 | 暂无评分 | 微信、支付宝、对公转账 | 支持 | 支持 |
-| 104 | [ToTokens](<https://www.hvoyai.com/sites/totokenscc/>) | 97.5% | 6663 ms | 14 | 暂无信息 | 1（2 条） | USDT、微信、支付宝、信用卡 | 支持 | 支持 |
-| 105 | [gods](<https://www.hvoyai.com/sites/meisgoldtop/>) | 66.1% | 16217 ms | 10 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 106 | [ahriapi](<https://www.hvoyai.com/sites/ahriapicom/>) | 58.2% | 9530 ms | 13 | 暂无信息 | 5（1 条） | 支付宝、对公转账 | 支持 | 暂无信息 |
-| 107 | [yintu_ai](<https://www.hvoyai.com/sites/apiyintucc/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 微信、支付宝、对公转账 | 支持 | 支持 |
-| 108 | [CheapAI](<https://www.hvoyai.com/sites/cheapaiinfo/>) | 53.8% | 11690 ms | 18 | 暂无信息 | 暂无评分 | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
-| 109 | [溯光](<https://www.hvoyai.com/sites/suguangapicc/>) | 30.9% | 9809 ms | 12 | 暂无信息 | 暂无评分 | 支付宝 | 暂无信息 | 暂无信息 |
+| 2 | [Ccode-AI](<https://www.hvoyai.com/sites/ccodedev/>) | 86.1% | 9260 ms | 25 | Anthropic、OpenAI、智谱、xAI、DeepSeek、月之暗面 | 暂无评分 | USDT、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 3 | [CUN.ai](<https://www.hvoyai.com/sites/cunai/>) | 88.2% | 11150 ms | 41 | 阿里云、Anthropic、DeepSeek、Google、MiniMax、月之暗面、OpenAI、智谱、xAI | 4.48936170212766（94 条） | USDT、微信、支付宝、信用卡 | 暂无信息 | 支持 |
+| 4 | [ModCon](<https://www.hvoyai.com/sites/modcontop/>) | 93.6% | 8450 ms | 13 | Anthropic、OpenAI | 5（2 条） | 微信、支付宝 | 暂无信息 | 暂无信息 |
+| 5 | [SudoCode](<https://www.hvoyai.com/sites/sudocodechat/>) | 89.7% | 8610 ms | 13 | OpenAI、Anthropic | 4.75（8 条） | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
+| 6 | [9527code](<https://www.hvoyai.com/sites/9527codes/>) | 71.1% | 10120 ms | 42 | Anthropic、OpenAI、DeepSeek、Google、MiniMax、月之暗面、阿里云、智谱、xAI | 4.836363636363636（55 条） | 微信、支付宝、对公转账 | 支持 | 支持 |
+| 7 | [Modelflare](<https://www.hvoyai.com/sites/originmodelflaredev/>) | 80.5% | 11540 ms | 23 | Anthropic、OpenAI、xAI、阿里云、DeepSeek、Google、月之暗面、智谱 | 3.5（14 条） | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 8 | [MuskAI](<https://www.hvoyai.com/sites/apimuskapicc/>) | 99% | 6410 ms | 46 | OpenAI、Anthropic、xAI、Google、阿里云、DeepSeek、MiniMax、月之暗面、Tencent Hunyuan、Xiaomi、智谱、ByteDance | 4（5 条） | 暂无信息 | 暂无信息 | 暂无信息 |
+| 9 | [云渡](<https://www.hvoyai.com/sites/yundulol/>) | 95.2% | 7530 ms | 19 | OpenAI、Anthropic、xAI | 5（3 条） | 微信、支付宝 | 支持 | 支持 |
+| 10 | [hao.ai](<https://www.hvoyai.com/sites/haoai/>) | 96.9% | 6920 ms | 17 | Anthropic、OpenAI、xAI | 5（3 条） | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 11 | [木易(MueMod)](<https://www.hvoyai.com/sites/muemodtop/>) | 98.7% | 6340 ms | 12 | Anthropic、OpenAI | 5（2 条） | 支付宝 | 暂无信息 | 支持 |
+| 12 | [znbcode](<https://www.hvoyai.com/sites/znbcodecom/>) | 86.2% | 15120 ms | 17 | Anthropic、DeepSeek、OpenAI、月之暗面、xAI | 暂无评分 | 微信、支付宝 | 支持 | 不支持 |
+| 13 | [RunAPI](<https://www.hvoyai.com/sites/runapihost/>) | 89% | 9810 ms | 47 | Anthropic、Google、OpenAI、月之暗面、智谱、xAI、阿里云、DeepSeek、MiniMax | 暂无评分 | 支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 14 | [ToolCode](<https://www.hvoyai.com/sites/toolcodetop/>) | 94.8% | 7600 ms | 13 | OpenAI、Anthropic | 5（1 条） | 支付宝 | 支持 | 支持 |
+| 15 | [niccom](<https://www.hvoyai.com/sites/niccomcomcn/>) | 85.5% | 13370 ms | 52 | DeepSeek、月之暗面、OpenAI、阿里云、MiniMax、智谱、Anthropic、Google、Tencent Hunyuan、Xiaomi、xAI、ByteDance | 暂无评分 | 微信、支付宝、对公转账 | 支持 | 支持 |
+| 16 | [TimeRoar AI](<https://www.hvoyai.com/sites/aitimeroaraicom/>) | 100% | 5510 ms | 18 | OpenAI、Anthropic、Cursor、xAI | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 17 | [EiRouter](<https://www.hvoyai.com/sites/eirouterai/>) | 74.5% | 8910 ms | 12 | Anthropic、OpenAI、DeepSeek | 暂无评分 | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
+| 18 | [Moniker](<https://www.hvoyai.com/sites/aimonikertop/>) | 93.9% | 8300 ms | 30 | Anthropic、OpenAI、DeepSeek、智谱、阿里云、Google、月之暗面、xAI | 暂无评分 | 支付宝 | 支持 | 支持 |
+| 19 | [88API Token聚合平台](<https://www.hvoyai.com/sites/88apiai/>) | 89.1% | 11870 ms | 35 | Anthropic、OpenAI、DeepSeek、智谱、xAI、Google、MiniMax、月之暗面、Tencent Hunyuan、Xiaomi | 5（1 条） | USDT、支付宝、对公转账、信用卡 | 不支持 | 支持 |
+| 20 | [灵算](<https://www.hvoyai.com/sites/lingsuantop/>) | 94.7% | 8530 ms | 26 | Anthropic、OpenAI、阿里云、DeepSeek、Google、月之暗面、智谱、xAI | 4.428571428571429（14 条） | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 21 | [aicodemirror.ai](<https://www.hvoyai.com/sites/aicodemirrorai/>) | 89.1% | 12130 ms | 9 | Anthropic、OpenAI | 暂无评分 | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 22 | [YKH.AI](<https://www.hvoyai.com/sites/apiykhai/>) | 92.1% | 8200 ms | 11 | OpenAI、Anthropic | 5（3 条） | USDT、微信、支付宝、对公转账、信用卡 | 暂无信息 | 支持 |
+| 23 | [jcode](<https://www.hvoyai.com/sites/jcodecc/>) | 48.2% | 4260 ms | 14 | Anthropic、Google、OpenAI | 暂无评分 | 微信、支付宝 | 支持 | 不支持 |
+| 24 | [AutoRouter](<https://www.hvoyai.com/sites/autorouternet/>) | 78.8% | 13580 ms | 40 | Anthropic、OpenAI、Google、阿里云、DeepSeek、月之暗面、Xiaomi、智谱、xAI | 暂无评分 | 微信、支付宝 | 支持 | 不支持 |
+| 25 | [Euzhi](<https://www.hvoyai.com/sites/euzhivip/>) | 93.5% | 12470 ms | 11 | OpenAI、xAI | 暂无评分 | 支付宝 | 支持 | 支持 |
+| 26 | [LMU AI · 灵眸](<https://www.hvoyai.com/sites/apilmuaiai/>) | 84.8% | 9620 ms | 8 | Anthropic、OpenAI | 5（2 条） | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 27 | [词易](<https://www.hvoyai.com/sites/chiyicncom/>) | 95.2% | 11230 ms | 14 | OpenAI、Anthropic、Google | 4.428571428571429（7 条） | 微信、支付宝、对公转账 | 支持 | 支持 |
+| 28 | [CheapAI](<https://www.hvoyai.com/sites/cheapaiinfo/>) | 81.5% | 13060 ms | 18 | Anthropic、OpenAI、阿里云、DeepSeek、月之暗面、智谱 | 暂无评分 | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 29 | [ccgo](<https://www.hvoyai.com/sites/ccgoaiclub/>) | 90.5% | 13520 ms | 9 | Anthropic、Google、OpenAI | 5（1 条） | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 30 | [Super Model](<https://www.hvoyai.com/sites/supermodelcc/>) | 79.8% | 4100 ms | 12 | Anthropic、OpenAI、xAI | 暂无评分 | 微信、支付宝 | 支持 | 支持 |
+| 31 | [UU API](<https://www.hvoyai.com/sites/uuapiio/>) | 71% | 8520 ms | 34 | Anthropic、OpenAI、Google、阿里云、DeepSeek、月之暗面、智谱、xAI | 5（14 条） | USDT、微信、支付宝、对公转账 | 暂无信息 | 支持 |
+| 32 | [瓦瓦AI](<https://www.hvoyai.com/sites/wawapiicom/>) | 85.6% | 11100 ms | 14 | OpenAI、Anthropic | 5（26 条） | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 33 | [AIGateHub](<https://www.hvoyai.com/sites/apivllmproxycom/>) | 84.5% | 10200 ms | 23 | Anthropic、OpenAI、Google、xAI | 5（2 条） | USDT、支付宝、对公转账 | 支持 | 支持 |
+| 34 | [OmniaKey](<https://www.hvoyai.com/sites/omniakeycom/>) | 100% | 4850 ms | 8 | Anthropic、OpenAI | 暂无评分 | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 35 | [8sToken](<https://www.hvoyai.com/sites/8stokencom/>) | 76.1% | 13100 ms | 43 | Anthropic、OpenAI、MiniMax、xAI、阿里云、DeepSeek、Google、月之暗面、Tencent Hunyuan、Xiaomi、智谱 | 5（4 条） | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
+| 36 | [Cavoti API](<https://www.hvoyai.com/sites/cavoticom/>) | 79.3% | 11550 ms | 8 | OpenAI、Anthropic | 暂无评分 | USDT、微信、支付宝、信用卡 | 暂无信息 | 支持 |
+| 37 | [酷API](<https://www.hvoyai.com/sites/kuapicc/>) | 82.5% | 8240 ms | 18 | Anthropic、DeepSeek、月之暗面、OpenAI、智谱、xAI | 暂无评分 | 微信、对公转账 | 支持 | 支持 |
+| 38 | [KittyRouter](<https://www.hvoyai.com/sites/kittyroutercom/>) | 91.3% | 8540 ms | 47 | Anthropic、Google、OpenAI、xAI、MiniMax、智谱、阿里云、DeepSeek、月之暗面、Tencent Hunyuan、Xiaomi | 暂无评分 | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
+| 39 | [Modelsell](<https://www.hvoyai.com/sites/modelsellcom/>) | 98.4% | 7110 ms | 48 | Anthropic、OpenAI、DeepSeek、Google、智谱、月之暗面、阿里云、MiniMax、xAI、Tencent Hunyuan、Xiaomi | 暂无评分 | USDT、微信、支付宝、对公转账、信用卡 | 暂无信息 | 支持 |
+| 40 | [A6api](<https://www.hvoyai.com/sites/a6apicom/>) | 87.7% | 14770 ms | 37 | 阿里云、Anthropic、DeepSeek、Google、MiniMax、月之暗面、OpenAI、Tencent Hunyuan、Xiaomi、智谱、xAI | 5（4 条） | USDT、微信、支付宝 | 暂无信息 | 暂无信息 |
+| 41 | [Toknex](<https://www.hvoyai.com/sites/toknexai/>) | 61.8% | 12340 ms | 19 | Anthropic、DeepSeek、OpenAI、xAI | 5（4 条） | 微信、支付宝、信用卡 | 支持 | 支持 |
+| 42 | [模方](<https://www.hvoyai.com/sites/apimodelscubecom/>) | 99.7% | 5630 ms | 21 | OpenAI、Anthropic、DeepSeek | 5（1 条） | 支付宝 | 暂无信息 | 暂无信息 |
+| 43 | [Like·AI](<https://www.hvoyai.com/sites/likeaicc/>) | 90.4% | 8610 ms | 17 | OpenAI、Anthropic | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 44 | [远桥云 API](<https://www.hvoyai.com/sites/yuanqiaoyuncom/>) | 83.9% | 11800 ms | 30 | Anthropic、OpenAI、Google、月之暗面、智谱、ByteDance、DeepSeek、xAI | 暂无评分 | 支付宝 | 暂无信息 | 支持 |
+| 45 | [Yomi API](<https://www.hvoyai.com/sites/yomiapicom/>) | 74.3% | 8520 ms | 29 | OpenAI、Anthropic、DeepSeek、Google、月之暗面、智谱、xAI | 暂无评分 | 微信、支付宝、对公转账 | 支持 | 支持 |
+| 46 | [XycAi(星道智能)](<https://www.hvoyai.com/sites/xycaius/>) | 35.3% | 10710 ms | 42 | OpenAI、Anthropic、DeepSeek、Google、MiniMax、月之暗面、智谱、xAI | 5（1 条） | 暂无信息 | 不支持 | 支持 |
+| 47 | [Plinero](<https://www.hvoyai.com/sites/plinerocom/>) | 61.1% | 15250 ms | 13 | Anthropic、OpenAI、DeepSeek、月之暗面、智谱 | 暂无评分 | USDT、支付宝、对公转账 | 暂无信息 | 支持 |
+| 48 | [relaycore](<https://www.hvoyai.com/sites/relaycorecn/>) | 84.2% | 14620 ms | 39 | Anthropic、OpenAI、DeepSeek、Google、智谱、xAI、阿里云、MiniMax、月之暗面、Tencent Hunyuan、Xiaomi | 暂无评分 | 微信 | 支持 | 暂无信息 |
+| 49 | [Logits Token](<https://www.hvoyai.com/sites/logitstokencom/>) | 75% | 7210 ms | 12 | OpenAI、Anthropic | 暂无评分 | 支付宝、对公转账 | 支持 | 支持 |
+| 50 | [LLMAPI](<https://www.hvoyai.com/sites/llmapipro/>) | 75.2% | 13130 ms | 17 | OpenAI、Anthropic、Google | 2.75（8 条） | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 51 | [智流 FluxLane](<https://www.hvoyai.com/sites/fluxlanecn/>) | 78.3% | 11060 ms | 27 | Anthropic、OpenAI、DeepSeek、月之暗面、智谱、xAI、阿里云、Google | 5（1 条） | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 52 | [Moe Api](<https://www.hvoyai.com/sites/moeapicloud/>) | 87.5% | 13050 ms | 20 | OpenAI、Anthropic、Google、月之暗面、智谱 | 4（1 条） | 微信、支付宝、对公转账 | 支持 | 支持 |
+| 53 | [GGUUAI](<https://www.hvoyai.com/sites/gguuaicom/>) | 74.9% | 14690 ms | 22 | OpenAI、Anthropic、Google、xAI | 暂无评分 | 微信、支付宝、信用卡 | 暂无信息 | 暂无信息 |
+| 54 | [GPTEAM](<https://www.hvoyai.com/sites/portalgpteamservicescom/>) | 89.1% | 9500 ms | 30 | Anthropic、ByteDance、DeepSeek、Google、MiniMax、月之暗面、OpenAI、Xiaomi、智谱 | 暂无评分 | 微信、支付宝 | 支持 | 暂无信息 |
+| 55 | [API快连](<https://www.hvoyai.com/sites/apiklai/>) | 63.4% | 15160 ms | 36 | OpenAI、Anthropic、Google、xAI、DeepSeek、MiniMax、月之暗面、智谱 | 暂无评分 | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 56 | [VovoKey｜启界](<https://www.hvoyai.com/sites/vovokeycom/>) | 72.9% | 10920 ms | 34 | Anthropic、Google、OpenAI、DeepSeek、月之暗面、智谱、xAI | 暂无评分 | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 57 | [gods](<https://www.hvoyai.com/sites/meisgoldtop/>) | 83.7% | 13770 ms | 10 | OpenAI | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 58 | [AnPin AI](<https://www.hvoyai.com/sites/anpinai/>) | 77.3% | 13700 ms | 10 | Anthropic、OpenAI | 5（1 条） | USDT、微信、支付宝、对公转账 | 暂无信息 | 暂无信息 |
+| 59 | [UniLink](<https://www.hvoyai.com/sites/apiunilinkwork/>) | 86.7% | 15710 ms | 34 | Google、OpenAI、Anthropic、DeepSeek、月之暗面、智谱、xAI | 暂无评分 | 支付宝 | 支持 | 不支持 |
+| 60 | [XMAPI](<https://www.hvoyai.com/sites/xbhuizcom/>) | 69.9% | 16010 ms | 6 | OpenAI | 暂无评分 | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
+| 61 | [夯炸了AI](<https://www.hvoyai.com/sites/apihangzhalecom/>) | 94.6% | 6820 ms | 22 | OpenAI、Anthropic、xAI、Cursor、Google | 暂无评分 | 微信、支付宝 | 支持 | 支持 |
+| 62 | [悟空API](<https://www.hvoyai.com/sites/wkapipro/>) | 66.7% | 15980 ms | 23 | OpenAI、Anthropic、智谱、DeepSeek、Google、月之暗面、xAI | 3.8333333333333335（6 条） | 微信、支付宝 | 支持 | 支持 |
+| 63 | [极策](<https://www.hvoyai.com/sites/apijiceapicom/>) | 39.5% | 6750 ms | 16 | Anthropic、OpenAI | 暂无评分 | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
+| 64 | [ttflows](<https://www.hvoyai.com/sites/apittflowscom/>) | 92% | 10300 ms | 12 | Anthropic、OpenAI | 暂无评分 | 支付宝 | 支持 | 不支持 |
+| 65 | [Apiko](<https://www.hvoyai.com/sites/apikotop/>) | 58.3% | 3610 ms | 20 | Anthropic、OpenAI、DeepSeek、月之暗面、智谱、xAI | 暂无评分 | 微信、支付宝 | 支持 | 支持 |
+| 66 | [SpiderMan-API](<https://www.hvoyai.com/sites/spidermanapicom/>) | 77.7% | 13670 ms | 19 | Anthropic、OpenAI、Google、月之暗面、智谱 | 暂无评分 | 支付宝 | 暂无信息 | 支持 |
+| 67 | [Volt](<https://www.hvoyai.com/sites/voltapiai/>) | 50% | 19060 ms | 39 | Anthropic、Google、OpenAI、阿里云、ByteDance、DeepSeek、MiniMax、月之暗面、智谱、xAI | 5（3 条） | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
+| 68 | [智惠API](<https://www.hvoyai.com/sites/apiapi2cncom/>) | 94% | 8770 ms | 16 | OpenAI、Anthropic、Google、xAI | 5（34 条） | 微信、支付宝、信用卡 | 支持 | 暂无信息 |
+| 69 | [SevnX](<https://www.hvoyai.com/sites/sevnxlol/>) | 79.6% | 11670 ms | 9 | OpenAI、Anthropic | 5（4 条） | 微信、支付宝 | 暂无信息 | 支持 |
+| 70 | [溯光](<https://www.hvoyai.com/sites/suguangapicc/>) | 40.5% | 8300 ms | 12 | Anthropic、OpenAI | 暂无评分 | 支付宝 | 暂无信息 | 暂无信息 |
+| 71 | [Aliapi](<https://www.hvoyai.com/sites/aliapicn/>) | 86.6% | 10480 ms | 9 | OpenAI、Anthropic | 1（1 条） | 微信、支付宝 | 支持 | 不支持 |
+| 72 | [onehop](<https://www.hvoyai.com/sites/onehopai/>) | 86.6% | 13030 ms | 23 | Anthropic、DeepSeek、Google、MiniMax、月之暗面、OpenAI、智谱 | 暂无评分 | USDT、支付宝、信用卡 | 支持 | 暂无信息 |
+| 73 | [天枢](<https://www.hvoyai.com/sites/tianshunet/>) | 54.5% | 16450 ms | 36 | OpenAI、Anthropic、Google、阿里云、ByteDance、DeepSeek、MiniMax、月之暗面、智谱、xAI | 暂无评分 | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
+| 74 | [Portdan AI](<https://www.hvoyai.com/sites/portdancom/>) | 96% | 11340 ms | 7 | OpenAI | 3（2 条） | USDT、微信、支付宝、对公转账 | 支持 | 支持 |
+| 75 | [幻灵AI](<https://www.hvoyai.com/sites/apihuanlingicu/>) | 93.8% | 12280 ms | 18 | OpenAI、Anthropic、xAI | 暂无评分 | 暂无信息 | 暂无信息 | 支持 |
+| 76 | [MX-AI](<https://www.hvoyai.com/sites/mxzzzxyz/>) | 97.2% | 7310 ms | 29 | OpenAI、Anthropic、阿里云、Google、MiniMax、月之暗面、智谱、xAI | 暂无评分 | USDT、微信、支付宝 | 支持 | 支持 |
+| 77 | [迈威AI](<https://www.hvoyai.com/sites/mxwellai/>) | 69.4% | 15010 ms | 28 | OpenAI、Anthropic、xAI、阿里云、DeepSeek、Google、月之暗面、智谱 | 暂无评分 | USDT、微信、支付宝 | 支持 | 支持 |
+| 78 | [八戒API](<https://www.hvoyai.com/sites/bajieapicom/>) | 90.9% | 13990 ms | 14 | OpenAI、Anthropic | 暂无评分 | 支付宝 | 支持 | 不支持 |
+| 79 | [aruhub API](<https://www.hvoyai.com/sites/aruhubcom/>) | 29.9% | 18690 ms | 10 | Anthropic、OpenAI、DeepSeek、月之暗面、智谱 | 暂无评分 | 微信、支付宝 | 支持 | 暂无信息 |
+| 80 | [浮生云算](<https://www.hvoyai.com/sites/fushengyunsuancom/>) | 37.6% | 15630 ms | 10 | OpenAI、xAI | 5（2 条） | 支付宝 | 支持 | 不支持 |
+| 81 | [河图](<https://www.hvoyai.com/sites/hetunetop/>) | 80.6% | 15950 ms | 30 | OpenAI、Anthropic、DeepSeek、月之暗面、阿里云、MiniMax、Tencent Hunyuan、智谱、xAI、ByteDance、Google | 5（1 条） | USDT、微信、支付宝 | 支持 | 支持 |
+| 82 | [FluxionAI](<https://www.hvoyai.com/sites/fluxionaispace/>) | 58.7% | 21120 ms | 26 | Anthropic、OpenAI、Google、月之暗面、智谱、xAI | 暂无评分 | 支付宝 | 暂无信息 | 支持 |
+| 83 | [tallius.ai](<https://www.hvoyai.com/sites/apitalliusai/>) | 15.2% | 24340 ms | 12 | OpenAI、Anthropic、DeepSeek、MiniMax | 5（1 条） | 对公转账、信用卡 | 支持 | 支持 |
+| 84 | [DawCode](<https://www.hvoyai.com/sites/dawclaudecodecom/>) | 39.1% | 7120 ms | 29 | Anthropic、OpenAI、Google、DeepSeek、月之暗面、智谱、xAI | 暂无评分 | 微信、支付宝、信用卡 | 支持 | 支持 |
+| 85 | [稳定中转](<https://www.hvoyai.com/sites/xnfiq104an1x80scom/>) | 51.9% | 19730 ms | 15 | OpenAI、xAI、Anthropic、Google | 5（1 条） | 支付宝 | 支持 | 不支持 |
+| 86 | [卡拉 Khala](<https://www.hvoyai.com/sites/khalaonline/>) | 52.1% | 14650 ms | 10 | OpenAI、DeepSeek、xAI | 5（1 条） | 微信 | 支持 | 支持 |
+| 87 | [Token-AI](<https://www.hvoyai.com/sites/tkenlol/>) | 82.6% | 7330 ms | 30 | OpenAI、Anthropic、Google、MiniMax、月之暗面、智谱、xAI | 3（4 条） | USDT、微信、支付宝、对公转账 | 不支持 | 支持 |
+| 88 | [汪汪の中转站](<https://www.hvoyai.com/sites/apihyhawangcom/>) | 85.4% | 22810 ms | 14 | OpenAI、Anthropic | 4.714285714285714（14 条） | USDT、支付宝 | 支持 | 支持 |
+| 89 | [tokenshop](<https://www.hvoyai.com/sites/tokenshophomes/>) | 63.9% | 23990 ms | 17 | OpenAI、Anthropic、xAI | 5（1 条） | USDT、微信、支付宝 | 支持 | 暂无信息 |
+| 90 | [DragonAPI](<https://www.hvoyai.com/sites/newapidragon3apicom/>) | 69.6% | 15450 ms | 29 | OpenAI、Anthropic、Google、xAI、DeepSeek、月之暗面、智谱 | 暂无评分 | 支付宝 | 支持 | 支持 |
+| 91 | [quotarouter](<https://www.hvoyai.com/sites/quotarouterai/>) | 44.1% | 8940 ms | 21 | Anthropic、DeepSeek、Google、OpenAI、xAI | 暂无评分 | USDT、微信、信用卡 | 支持 | 支持 |
+| 92 | [ALRO](<https://www.hvoyai.com/sites/alrohuazhiweilaicom/>) | 63.4% | 12100 ms | 28 | Anthropic、OpenAI、DeepSeek、Google、MiniMax、月之暗面、Tencent Hunyuan、智谱、xAI | 暂无评分 | 微信、支付宝、对公转账 | 暂无信息 | 暂无信息 |
+| 93 | [Love Token](<https://www.hvoyai.com/sites/ilovetokentop/>) | 80.1% | 11120 ms | 14 | OpenAI、Anthropic、xAI | 暂无评分 | 微信、支付宝 | 支持 | 暂无信息 |
+| 94 | [我的贾维斯](<https://www.hvoyai.com/sites/apiaijwscom/>) | 13% | 13680 ms | 8 | Anthropic、OpenAI | 3.5714285714285716（7 条） | 暂无信息 | 支持 | 支持 |
+| 95 | [T8 API](<https://www.hvoyai.com/sites/t8apicom/>) | 54.3% | 18050 ms | 34 | Anthropic、OpenAI、阿里云、DeepSeek、MiniMax、月之暗面、Tencent Hunyuan、Xiaomi、智谱 | 暂无评分 | 微信、支付宝 | 支持 | 支持 |
+| 96 | [umi](<https://www.hvoyai.com/sites/umiluxurycom/>) | 77.3% | 8560 ms | 23 | Anthropic、OpenAI、DeepSeek、Google、MiniMax、月之暗面、智谱、xAI | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 97 | [RightCode](<https://www.hvoyai.com/sites/rightcodes/>) | 78.6% | 14950 ms | 28 | Anthropic、DeepSeek、Google、OpenAI、xAI | 4.6（10 条） | 支付宝 | 支持 | 支持 |
+| 98 | [noonoo](<https://www.hvoyai.com/sites/noonooai/>) | 76.3% | 11060 ms | 13 | Anthropic、OpenAI | 暂无评分 | 信用卡 | 支持 | 支持 |
+| 99 | [Poixe AI](<https://www.hvoyai.com/sites/poixecom/>) | 0% | 0 ms | 34 | 暂无信息 | 5（1 条） | 支付宝、对公转账、信用卡 | 暂无信息 | 暂无信息 |
+| 100 | [通API](<https://www.hvoyai.com/sites/tongapicom/>) | 0% | 0 ms | 8 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 101 | [Claude API](<https://www.hvoyai.com/sites/claudeapicom/>) | 0% | 0 ms | 4 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 102 | [Helentest](<https://www.hvoyai.com/sites/baiducom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 不支持 | 不支持 |
+| 103 | [聪明AI](<https://www.hvoyai.com/sites/sub2congmingaicom/>) | 0% | 0 ms | 0 | 暂无信息 | 4（1 条） | 暂无信息 | 暂无信息 | 暂无信息 |
+| 104 | [Portal](<https://www.hvoyai.com/sites/portal123top/>) | 29% | 17460 ms | 6 | 暂无信息 | 5（1 条） | 支付宝 | 暂无信息 | 支持 |
+| 105 | [DragToken](<https://www.hvoyai.com/sites/dragtokenscom/>) | 0% | 0 ms | 0 | 暂无信息 | 5（48 条） | 微信、支付宝、对公转账 | 暂无信息 | 暂无信息 |
+| 106 | [ToTokens](<https://www.hvoyai.com/sites/totokenscc/>) | 71.4% | 8860 ms | 14 | 暂无信息 | 1（2 条） | USDT、微信、支付宝、信用卡 | 支持 | 支持 |
+| 107 | [ahriapi](<https://www.hvoyai.com/sites/ahriapicom/>) | 55% | 11057 ms | 13 | 暂无信息 | 5（1 条） | 支付宝、对公转账 | 支持 | 暂无信息 |
+| 108 | [無忧 AI](<https://www.hvoyai.com/sites/wuyouaionline/>) | 15.2% | 12173 ms | 4 | 暂无信息 | 暂无评分 | 微信、支付宝 | 暂无信息 | 暂无信息 |
+| 109 | [yintu_ai](<https://www.hvoyai.com/sites/apiyintucc/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 微信、支付宝、对公转账 | 支持 | 支持 |
 | 110 | [4Sapi](<https://www.hvoyai.com/sites/4sapicom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 111 | [Agent Router](<https://www.hvoyai.com/sites/agentrouterorg/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 112 | [AI Chat](<https://www.hvoyai.com/sites/chatekticc/>) | 0% | 0 ms | 14 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 112 | [AI Chat](<https://www.hvoyai.com/sites/chatekticc/>) | 0% | 0 ms | 13 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 113 | [AI Hub](<https://www.hvoyai.com/sites/aihubglobalcom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 114 | [AIApify](<https://www.hvoyai.com/sites/aiapifycom/>) | 0% | 0 ms | 7 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 115 | [Aiberm](<https://www.hvoyai.com/sites/aibermcom/>) | 0% | 0 ms | 15 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
@@ -213,8 +213,8 @@
 | 156 | [learn-ai](<https://www.hvoyai.com/sites/freelearnaitop/>) | 0% | 0 ms | 3 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 157 | [Lightning AI](<https://www.hvoyai.com/sites/aicdnad/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 158 | [LingxiCode](<https://www.hvoyai.com/sites/new050602xyz/>) | 0% | 0 ms | 17 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 159 | [LinkAPI](<https://www.hvoyai.com/sites/linkapiai/>) | 0% | 0 ms | 31 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 160 | [Ls.API](<https://www.hvoyai.com/sites/callxyqxyz/>) | 0% | 0 ms | 39 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 159 | [LinkAPI](<https://www.hvoyai.com/sites/linkapiai/>) | 0% | 0 ms | 32 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 160 | [Ls.API](<https://www.hvoyai.com/sites/callxyqxyz/>) | 0% | 0 ms | 40 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 161 | [Lumin AI](<https://www.hvoyai.com/sites/apiluminaicc/>) | 0% | 0 ms | 0 | 暂无信息 | 5（2 条） | 微信、支付宝、对公转账 | 支持 | 暂无信息 |
 | 162 | [Matr Code](<https://www.hvoyai.com/sites/matrcodecom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 163 | [MiKu](<https://www.hvoyai.com/sites/mikuapiorg/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
@@ -222,20 +222,20 @@
 | 165 | [Neco Api](<https://www.hvoyai.com/sites/apisbbbbbbbbbxyz/>) | 0% | 0 ms | 15 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 166 | [NekoCode](<https://www.hvoyai.com/sites/nekocodeai/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 167 | [Nova AI](<https://www.hvoyai.com/sites/apinovacc/>) | 0% | 0 ms | 1 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 168 | [OGOG.AI](<https://www.hvoyai.com/sites/ogogai/>) | 0% | 0 ms | 19 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 168 | [OGOG.AI](<https://www.hvoyai.com/sites/ogogai/>) | 0% | 0 ms | 20 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 169 | [OhMyGPT](<https://www.hvoyai.com/sites/xdogenetwin/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 170 | [OPE AI](<https://www.hvoyai.com/sites/platformopeai/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 171 | [openaeonAPI](<https://www.hvoyai.com/sites/apiopenaeonai/>) | 0% | 0 ms | 2 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 172 | [Openclawroot](<https://www.hvoyai.com/sites/openclawrootcom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 173 | [OpenRouter.ai](<https://www.hvoyai.com/sites/openrouterai/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 174 | [Owl AI](<https://www.hvoyai.com/sites/apiowlaitech/>) | 0% | 0 ms | 2 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 175 | [PackyCode](<https://www.hvoyai.com/sites/packyapiai/>) | 0% | 0 ms | 47 | 暂无信息 | 3.5（4 条） | 微信、支付宝、对公转账 | 暂无信息 | 暂无信息 |
+| 175 | [PackyCode](<https://www.hvoyai.com/sites/packyapiai/>) | 0% | 0 ms | 48 | 暂无信息 | 3.5（4 条） | 微信、支付宝、对公转账 | 暂无信息 | 暂无信息 |
 | 176 | [PatewayAI](<https://www.hvoyai.com/sites/patewayai/>) | 0% | 0 ms | 3 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 177 | [PenguinAI](<https://www.hvoyai.com/sites/apipenguinsaichatdpdnsorg/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 178 | [PRY](<https://www.hvoyai.com/sites/apivipcronddev/>) | 0% | 0 ms | 31 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 179 | [QiCun](<https://www.hvoyai.com/sites/aiqicunshangcom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 180 | [RootFlow](<https://www.hvoyai.com/sites/apirootflowaicom/>) | 0% | 0 ms | 26 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 181 | [SparkCode](<https://www.hvoyai.com/sites/sparkcodetop/>) | 0% | 0 ms | 26 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 180 | [RootFlow](<https://www.hvoyai.com/sites/apirootflowaicom/>) | 0% | 0 ms | 27 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 181 | [SparkCode](<https://www.hvoyai.com/sites/sparkcodetop/>) | 0% | 0 ms | 27 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 182 | [Square API](<https://www.hvoyai.com/sites/apisquarefaceiconorg/>) | 0% | 0 ms | 18 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 183 | [SSSAICode](<https://www.hvoyai.com/sites/sssaicodecom/>) | 0% | 0 ms | 1 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 184 | [SubRouter](<https://www.hvoyai.com/sites/subrouterai/>) | 0% | 0 ms | 13 | 暂无信息 | 5（1 条） | 暂无信息 | 暂无信息 | 暂无信息 |
@@ -247,12 +247,12 @@
 | 190 | [ToCodex](<https://www.hvoyai.com/sites/usertocodexcom/>) | 0% | 0 ms | 13 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 191 | [Traxnode](<https://www.hvoyai.com/sites/traxnodecom/>) | 0% | 0 ms | 30 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 192 | [TryAllAI](<https://www.hvoyai.com/sites/apitryallaicom/>) | 0% | 0 ms | 23 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 193 | [V-API](<https://www.hvoyai.com/sites/apigptge/>) | 0% | 0 ms | 45 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 193 | [V-API](<https://www.hvoyai.com/sites/apigptge/>) | 0% | 0 ms | 48 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 194 | [VectorEngine](<https://www.hvoyai.com/sites/apivectorengineai/>) | 0% | 0 ms | 48 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 195 | [Xcode](<https://www.hvoyai.com/sites/xcodebest/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 支持 | 支持 |
 | 196 | [XueDingToken](<https://www.hvoyai.com/sites/xuedingtokencom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 197 | [YesCode](<https://www.hvoyai.com/sites/coyesvg/>) | 0% | 0 ms | 5 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 198 | [ZeroCode](<https://www.hvoyai.com/sites/zerocodesbs/>) | 0% | 0 ms | 12 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 198 | [ZeroCode](<https://www.hvoyai.com/sites/zerocodesbs/>) | 0% | 0 ms | 13 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 199 | [一元模型](<https://www.hvoyai.com/sites/timesniperclub/>) | 0% | 0 ms | 13 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 200 | [丝绸API](<https://www.hvoyai.com/sites/codesilkapicom/>) | 0% | 0 ms | 1 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 201 | [云算API](<https://www.hvoyai.com/sites/minitokentop/>) | 0% | 0 ms | 31 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
@@ -271,10 +271,10 @@
 | 214 | [小少爷API](<https://www.hvoyai.com/sites/gzxsyvip/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 215 | [小流云](<https://www.hvoyai.com/sites/aixlyunpro/>) | 0% | 0 ms | 2 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 216 | [小鸡农场](<https://www.hvoyai.com/sites/api68886868xyz/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 217 | [换API](<https://www.hvoyai.com/sites/huanapicom/>) | 0% | 0 ms | 21 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 217 | [换API](<https://www.hvoyai.com/sites/huanapicom/>) | 0% | 0 ms | 22 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 218 | [接口AI](<https://www.hvoyai.com/sites/jiekouai/>) | 0% | 0 ms | 1 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 219 | [方舟](<https://www.hvoyai.com/sites/yxaiappcom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 220 | [无限API](<https://www.hvoyai.com/sites/infaicc/>) | 0% | 0 ms | 55 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 220 | [无限API](<https://www.hvoyai.com/sites/infaicc/>) | 0% | 0 ms | 57 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 221 | [旺旺中转站](<https://www.hvoyai.com/sites/apibbwwtop/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 222 | [星辰](<https://www.hvoyai.com/sites/aicentoshk/>) | 0% | 0 ms | 36 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 223 | [曼波API](<https://www.hvoyai.com/sites/manbouapicom/>) | 0% | 0 ms | 23 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
@@ -292,7 +292,7 @@
 | 235 | [西瓜](<https://www.hvoyai.com/sites/xiguaai6com/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 236 | [词元流动](<https://www.hvoyai.com/sites/tokenfluxdev/>) | 0% | 0 ms | 7 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 237 | [钱多多 API](<https://www.hvoyai.com/sites/api2aigcbesttop/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 238 | [闪电API](<https://www.hvoyai.com/sites/aiflashapitop/>) | 0% | 0 ms | 24 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 238 | [闪电API](<https://www.hvoyai.com/sites/aiflashapitop/>) | 0% | 0 ms | 25 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 239 | [鸡哥API](<https://www.hvoyai.com/sites/apiyousebabycom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 240 | [Dragoncode](<https://www.hvoyai.com/sites/dragoncodecodes/>) | 0% | 0 ms | 6 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 241 | [小瑞API](<https://www.hvoyai.com/sites/xiaoruiapicc/>) | 0% | 0 ms | 7 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
@@ -322,7 +322,7 @@
 | 265 | [AIMZ](<https://www.hvoyai.com/sites/mzlonetop/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 微信、支付宝、对公转账 | 支持 | 支持 |
 | 266 | [RK AI](<https://www.hvoyai.com/sites/2apirkai6com/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 267 | [Flux AI](<https://www.hvoyai.com/sites/ususclaudeus/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 268 | [ChunXue API](<https://www.hvoyai.com/sites/chunxueapicom/>) | 0% | 0 ms | 22 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 268 | [ChunXue API](<https://www.hvoyai.com/sites/chunxueapicom/>) | 0% | 0 ms | 23 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 269 | [BossClaw](<https://www.hvoyai.com/sites/bossclaworg/>) | 0% | 0 ms | 2 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 270 | [EasyToken](<https://www.hvoyai.com/sites/easytokencom/>) | 0% | 0 ms | 1 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 271 | [codesonline](<https://www.hvoyai.com/sites/mxfreecodesonlinedev/>) | 0% | 0 ms | 3 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
@@ -332,7 +332,7 @@
 | 275 | [TokenMix](<https://www.hvoyai.com/sites/tokenmixai/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 276 | [Latix](<https://www.hvoyai.com/sites/latixai/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 277 | [Flux API](<https://www.hvoyai.com/sites/thestocklistsite/>) | 0% | 0 ms | 5 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 278 | [xem中转站](<https://www.hvoyai.com/sites/aixem8k5top/>) | 0% | 0 ms | 27 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 278 | [xem中转站](<https://www.hvoyai.com/sites/aixem8k5top/>) | 0% | 0 ms | 28 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 279 | [大王](<https://www.hvoyai.com/sites/sub2apidaw111asia/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 280 | [Frontier Intelligence](<https://www.hvoyai.com/sites/apifrontierintelligencetech/>) | 0% | 0 ms | 0 | 暂无信息 | 5（5 条） | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
 | 281 | [OneNode API](<https://www.hvoyai.com/sites/onenodespace/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
@@ -349,7 +349,7 @@
 | 292 | [FK Claude](<https://www.hvoyai.com/sites/fkclaudexyz/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 293 | [落雪](<https://www.hvoyai.com/sites/apilsnowscom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 294 | [GrowUpAPI](<https://www.hvoyai.com/sites/growupapiltd/>) | 0% | 0 ms | 1 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 295 | [ePhone AI](<https://www.hvoyai.com/sites/ephoneai/>) | 0% | 0 ms | 47 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 295 | [ePhone AI](<https://www.hvoyai.com/sites/ephoneai/>) | 0% | 0 ms | 49 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 296 | [ccfly](<https://www.hvoyai.com/sites/hkccplussite/>) | 0% | 0 ms | 4 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 297 | [LUOTUNAI](<https://www.hvoyai.com/sites/apiluoyunaicom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 298 | [万象](<https://www.hvoyai.com/sites/wangxiangaiorg/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
@@ -365,13 +365,13 @@
 | 308 | [Sunskii](<https://www.hvoyai.com/sites/apisunskiicom/>) | 0% | 0 ms | 11 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 309 | [十五号网关](<https://www.hvoyai.com/sites/15la/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 310 | [Bestcodex](<https://www.hvoyai.com/sites/apibestcodexxyz/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 311 | [YunServer API](<https://www.hvoyai.com/sites/apiyunservercn/>) | 0% | 0 ms | 2 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 311 | [YunServer API](<https://www.hvoyai.com/sites/apiyunservercn/>) | 0% | 0 ms | 1 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 312 | [PixelMuse](<https://www.hvoyai.com/sites/pixelmuseshop/>) | 0% | 0 ms | 1 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 313 | [云枢](<https://www.hvoyai.com/sites/aichaozhichat/>) | 0% | 0 ms | 14 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 314 | [lyapunov-api](<https://www.hvoyai.com/sites/apilyapunovvectorcom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 315 | [duckcode](<https://www.hvoyai.com/sites/duckcodecn/>) | 0% | 0 ms | 2 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 316 | [Tokaify](<https://www.hvoyai.com/sites/tokaifycom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 317 | [1XM](<https://www.hvoyai.com/sites/1xmai/>) | 0% | 0 ms | 6 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 317 | [1XM](<https://www.hvoyai.com/sites/1xmai/>) | 0% | 0 ms | 7 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 318 | [SchylerAI小栈](<https://www.hvoyai.com/sites/apischylertop/>) | 0% | 0 ms | 14 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 319 | [Luccc](<https://www.hvoyai.com/sites/apilucccuk/>) | 0% | 0 ms | 7 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 320 | [luchikey](<https://www.hvoyai.com/sites/sub2apiluchikeycom/>) | 0% | 0 ms | 0 | 暂无信息 | 5（5 条） | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
@@ -402,7 +402,7 @@
 | 345 | [猫窝](<https://www.hvoyai.com/sites/ainyanestcom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 346 | [AI万物](<https://www.hvoyai.com/sites/aiwanwucc/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 347 | [OpenToken](<https://www.hvoyai.com/sites/opentkai/>) | 0% | 0 ms | 3 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 348 | [xAIx](<https://www.hvoyai.com/sites/apixaixme/>) | 0% | 0 ms | 27 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 348 | [xAIx](<https://www.hvoyai.com/sites/apixaixme/>) | 0% | 0 ms | 28 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 349 | [AI8888商店](<https://www.hvoyai.com/sites/ai8888shop/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 350 | [霜华API](<https://www.hvoyai.com/sites/shyemorensite/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 351 | [在吗 AI](<https://www.hvoyai.com/sites/zaimaaicn/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
@@ -414,7 +414,7 @@
 | 357 | [5E API](<https://www.hvoyai.com/sites/fiveeeeecn/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 358 | [AI 365](<https://www.hvoyai.com/sites/tokenai365ucom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 359 | [lingsuoAPI](<https://www.hvoyai.com/sites/apilingsuopro/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 360 | [Super API](<https://www.hvoyai.com/sites/superapibuzz/>) | 0% | 0 ms | 33 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 360 | [Super API](<https://www.hvoyai.com/sites/superapibuzz/>) | 0% | 0 ms | 34 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 361 | [apionline](<https://www.hvoyai.com/sites/apionlinetop/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 362 | [灵枢AI](<https://www.hvoyai.com/sites/apilingshuaicc/>) | 0% | 0 ms | 1 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 363 | [APITuan](<https://www.hvoyai.com/sites/apituancom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
@@ -457,7 +457,7 @@
 | 400 | [我的刀盾](<https://www.hvoyai.com/sites/daodunapicom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 401 | [聚星AI](<https://www.hvoyai.com/sites/juxingaixyz/>) | 0% | 0 ms | 0 | 暂无信息 | 3（2 条） | 微信、支付宝、对公转账 | 暂无信息 | 暂无信息 |
 | 402 | [ProxyAI](<https://www.hvoyai.com/sites/proxy2itcom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 403 | [章鱼中枢AI服务平台](<https://www.hvoyai.com/sites/zhangyuapicom/>) | 0% | 0 ms | 2 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 403 | [章鱼中枢AI服务平台](<https://www.hvoyai.com/sites/zhangyuapicom/>) | 0% | 0 ms | 3 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 404 | [ClauqeAI](<https://www.hvoyai.com/sites/apiclauqeai/>) | 0% | 0 ms | 0 | 暂无信息 | 5（1 条） | 微信、支付宝 | 支持 | 暂无信息 |
 | 405 | [Happy Code](<https://www.hvoyai.com/sites/happycodevip/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 406 | [hiapi](<https://www.hvoyai.com/sites/hiapistore/>) | 0% | 0 ms | 3 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
@@ -581,7 +581,7 @@
 | 524 | [二狗 API](<https://www.hvoyai.com/sites/ergouapicom/>) | 0% | 0 ms | 0 | 暂无信息 | 4.2（5 条） | 微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
 | 525 | [Apex](<https://www.hvoyai.com/sites/apiuniprepworld/>) | 0% | 0 ms | 9 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 526 | [绿叶API](<https://www.hvoyai.com/sites/apigeshijiawork/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 527 | [Guiwuli-Api](<https://www.hvoyai.com/sites/apihepingantop/>) | 0% | 0 ms | 5 | 暂无信息 | 5（1 条） | 暂无信息 | 暂无信息 | 暂无信息 |
+| 527 | [Guiwuli-Api](<https://www.hvoyai.com/sites/apihepingantop/>) | 0% | 0 ms | 4 | 暂无信息 | 5（1 条） | 暂无信息 | 暂无信息 | 暂无信息 |
 | 528 | [huiliuapi](<https://www.hvoyai.com/sites/huiliuapicom/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 529 | [JBBtoken](<https://www.hvoyai.com/sites/jbbtokencn/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | USDT、微信、支付宝、对公转账、信用卡 | 支持 | 支持 |
 | 530 | [SaTuoAPI](<https://www.hvoyai.com/sites/apisatuo66online/>) | 0% | 0 ms | 4 | 暂无信息 | 暂无评分 | 微信、支付宝 | 不支持 | 不支持 |
@@ -872,10 +872,11 @@
 | 815 | [al stars](<https://www.hvoyai.com/sites/apialstarstop/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 816 | [888VIP中转](<https://www.hvoyai.com/sites/888vipkk2323xyz/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 817 | [天才程序员](<https://www.hvoyai.com/sites/gptapisxyz/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
-| 818 | [555稳如老狗](<https://www.hvoyai.com/sites/555codexxyz/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 818 | [555稳如老狗](<https://www.hvoyai.com/sites/555codexxyz/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | USDT、微信、支付宝 | 支持 | 支持 |
 | 819 | [ModelGateway](<https://www.hvoyai.com/sites/modelgatewayco/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 820 | [Hi API](<https://www.hvoyai.com/sites/hiapitop/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 | 821 | [tongbatokens](<https://www.hvoyai.com/sites/tbtkasia/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
+| 822 | [ccCode](<https://www.hvoyai.com/sites/cccodecn/>) | 0% | 0 ms | 0 | 暂无信息 | 暂无评分 | 暂无信息 | 暂无信息 | 暂无信息 |
 
 > 排名和数据仅供参考。正式使用前请先小额充值并自行测试，不要在任何中转站长期存放大额余额。
 <!-- HVOY_RANKING_END -->
